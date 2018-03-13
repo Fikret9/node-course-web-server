@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>{{pageTitle}}</title>
+ </head>
+ <body>
+   <h1> {{welcomeMessage}} for <h3>{{dirname}}<h3></h1>
+   <ul>
+     {{#each directory as |item|}}
+     <li>
+       {{item.filename}} <em>{{item.filetype}}</em>
+     </li>
+     {{/each}}
+   </ul>
+ </body>
+</html>
