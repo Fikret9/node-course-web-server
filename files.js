@@ -75,6 +75,7 @@ var folder = 'C:\\Users\\Fikret\\Desktop'  ;
 console.log('Starting directory: '+folder);
 var filesInDirectory = [];
 
+function readdirectory
 fs.readdir(folder,(err,files) => {
   if(files){
   files.forEach (file => {

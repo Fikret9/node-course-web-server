@@ -43,8 +43,15 @@ app.get('/',(req,res) =>{
 
 app.get('/about',(req,res) =>{
    res.render('about.hbs',{
-     pageTitle: 'ABout Page',
+     pageTitle: 'About Page',
      welcomeMessage: 'Welcome to My Home Page',
+     currentYear : new Date().getFullYear()
+   });
+});
+app.get('/projects',(req,res) =>{
+   res.render('projects.hbs',{
+     pageTitle: 'Projects Page',
+     welcomeMessage: 'Portfolio Page',
      currentYear : new Date().getFullYear()
    });
 });
