@@ -3,15 +3,194 @@
  <head>
    <meta charset="utf-8">
    <title>{{pageTitle}}</title>
+   <style type="text/css">
+
+    body {
+      font-family: sans-serif;
+      font-size:14px;
+    }
+		.done {
+			text-decoration: line-through;
+			opacity: 0.5;
+		}
+
+		.selected {
+			color:green;
+			font-weight: 600;
+		}
+    .container {
+      height: 500px;
+      width:100%;
+      border: 1px solid lightgray;
+      border-radius: 2%;
+    }
+    #par {
+      color:blue;
+      font-size: 12px;
+      width:600px;
+    }
+    .hdr {
+      height: 50px;
+      width:100%;
+      background-color: #EEEEEE;
+      text-align: left;
+      font-size:16px;
+    }
+    .tbl {
+      width:100%;
+      margin-top: 0px;
+    }
+    #dir{
+      font-size: 12px;
+    }
+    #img{
+      height: 30px;
+      with:30px;
+    }
+    p {
+      height:15px;
+    }
+    #leftPanel {
+      width:50%;
+      height:100%;
+      float:left;
+      margin-top: 0;
+      background-color: #DEEAF6;
+      overflow-y: auto;
+    }
+    #rightPanel {
+      width:50%;
+      height:100%;
+      background: #EEEEEE;
+      float:left;
+      margin-top: 5px;
+    }
+    table {
+      color: blue;
+      font-weight:bold;
+    }
+
+    .buttonArea {
+      float:left;
+    }
+
+    .buttons {
+      width:100px;
+      height:30px;
+      margin:20px;
+      border-radius: 9%;
+      font-weight:bold;
+      margin-top:10px;
+      color: white;
+      background: orange;
+      border: none;
+    }
+    #combine {
+      background: #5CB85C;
+    }
+    #del {
+      background: #D9534F;
+    }
+    #links{
+      float:right;
+    }
+	</style>
+
  </head>
  <body>
-   <h1> {{welcomeMessage}} for <h3>{{dirname}}<h3></h1>
-   <ul>
+   <div class="hdr">
+   <h2> {{welcomeMessage}} for <span id="dir">{{dirname}}</span></h2>
+   </div>
+   <div class="container">
+   <div id="leftPanel">
+   <div class="tbl">
      {{#each directory as |item|}}
-     <li>
-       {{item.filename}} <em>{{item.filetype}}</em>
-     </li>
+     <p>
+        {{#if item.filetype}}
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Icons8_flat_folder.svg/480px-Icons8_flat_folder.svg.png" height="20" width="20">
+          {{item.filename}}
+        {{else }}
+          <img src="http://www.firstediting.com/writers-blog/wp-content/uploads/2010/08/word.png" height="20" width="20">
+          {{item.filename}}
+        {{/if}}
+     </p>
      {{/each}}
-   </ul>
+   </div>
+     <p>
+</div>
+<div id="rightPanel">
+  <div id="table">
+  </div>
+</div>
+</div>
+<div class="buttonArea">
+<form action="/dir" method="POST">
+  <button class="buttons" id="combine">Combine</button>
+ <input id="par" type='hidden' name='selectedfiles' value={{selectedFiles}}>
+</form>
+</div>
+<div class="buttonArea">
+  <form action="/del" method="POST">
+ <button class="buttons" id="del">Delete</button>
+</form>
+</div>
+<div id="links" >
+  <input class="buttons" type="button" onclick="location.href='/';" value="Home" />
+  <input class="buttons" type="button" onclick="location.href='/show';" value="Combined File" />
+</div>
  </body>
 </html>
+
+
+<script >
+var lis = document.querySelectorAll("p");
+var selectedFiles = [];
+
+for (i=0;i<lis.length;i++)
+ {
+  lis[i].addEventListener("mouseover",function(){
+   this.classList.add("selected");
+});
+
+
+  lis[i].addEventListener("mouseout",function(){
+   this.classList.remove("selected");
+})
+
+  lis[i].addEventListener("click",function(){
+  var val = String(this.innerText);
+  if (val.indexOf(".")==-1){
+    location.href = "/dir/"+val;
+    return;
+  }
+  var indx = selectedFiles.indexOf(val);
+  var classes = JSON.stringify(this.classList);
+  if (indx == -1)
+          {
+            if (val.indexOf(".")>-1){
+              selectedFiles.push(val);
+            }
+            }
+  else  if (classes.indexOf('done')>-1){
+               selectedFiles.splice(indx,1);
+        }
+
+  this.classList.toggle("done");
+  document.getElementById("par").value = selectedFiles;
+  addTable();
+});
+  }
+  function addTable() {
+     var theDiv = document.getElementById("table");
+     var HTML = "<table style='width:100%'>";
+     theDiv.innerHTML = HTML;
+     var sel = document.getElementById("par").value;
+     var arr = sel.split(",");
+     for (var i=0;i<arr.length;i++){
+         HTML += "<tr><td>"+i+"</td><td>"+arr[i]+"</td></tr>";
+         theDiv.innerHTML = HTML + "</table>";
+       }
+  }
+
+
+</script>
