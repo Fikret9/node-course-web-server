@@ -1,0 +1,222 @@
+MOngoose 
+
+npm i mongoose
+
+In the "server.js"
+
+Import mongoose
+var mongoose = require('mongoose');
+
+set promise library:
+mongoose.Promise = global.Promise;
+
+Connecting to Database
+mongoose.connect('mongodb://localhost:27017/TodoApp');
+
+Creating a MOdel with attributes
+
+var Todo = mongoose.model('Todo',{
+	text: {
+		type: String
+	},
+	completed: {
+		type: Boolean
+	},
+	completedAt: {
+		type: Number
+	}
+})
+
+
+Creating an instance:
+
+var newTodo = new Todo({
+	text: 'Cook dinner',
+	completed: true,
+	completedAt: 1400
+});
+
+
+Inserting into Database:
+
+newTodo.save().then((doc) =>{
+	console.log('Saved todo !',doc);
+},(e) => {
+	console.log('Unable to save !');
+})
+
+Validations to prevent inserting bad data
+MOngoose validators
+required:true
+min-max values
+
+
+in schemas:
+
+var Todo = mongoose.model('Todo',{
+	text: {
+		type: String,
+	--->	required: true
+	--->	minlength: 1
+	--->    trim: true  (trims empty spaces)
+
+	completed: {
+		type: Boolean,
+	---->	default: false
+	}
+
+REFACTORING the main js file
+
+1) Separate models into its own folder/files
+
+Example: This is in ../models folder named User
+var mongoose = require('mongoose');
+var User = mongoose.model('User',{
+	email: {
+		type: String,
+		required: true,
+		minlength: 1,
+		trim: true
+	}	
+});
+//Export it 
+module.exports = {User};
+
+
+2) Require them in the main app
+
+var {User} = require('./db/models/User');
+
+
+Middleware
+(return value from bodyparser is a function that we use)
+app.use(bodyParser.json()); 
+
+CREATING A POST ROUTE 
+ (1st parm is url)
+app.post('/todos',(req,res) => {
+	console.log(req.body);
+})
+
+TESTING
+
+install these
+mocha , expect, supertest, nodemon
+
+Removing everything from the table
+Todo.remove({}).then(() => done());
+
+
+setting a Test Case
+
+Setting the package.json file (add 2 scripts)
+
+"scripts": {
+    "test": "mocha server/**/*.test.js",
+     "test-watch": "nodemon --exec \"npm test\""
+  },
+
+import these
+const expect  = require ('expect');
+const request = require('supertest');
+
+(local files)
+const {app} = require('./../server');
+const {Todo} = require('./../models/todo') ;
+
+Before every test cycle
+beforeEach((done)=> {....}
+
+description block
+
+describe ('POST /todos',() => {----})
+
+MOcha test:
+it('should create a new todo',(done) => { ---- })
+
+Making a test POST request
+	request(app)
+		.post('/todos')
+		.send({text: text})   // data
+		.expect(200)          // status code
+		.expect((res)=> {     // special expect definition
+			expect(res.body.text).toBe(text);
+		})
+		.end((err,res)=> {
+			if (err) {
+				return done(err);
+			}
+			Todo.find().then((todos) =>{
+				expect(todos.length).toBe(1);
+				expect(todos[0].text).toBe(text);
+				done();
+			}).catch((e) => done(e));
+		 });
+
+
+SETTING A GET ROUTE
+
+app.get('/todos',(req,res) => {
+	Todo.find().then((todos) => {
+	  res.send({todos});
+	},(e) =>{
+		res.status(400).send(e);
+	})
+	});
+
+GET ROUTE TEST
+describe ('GET /todos',() => {
+	it('it should get all todos',(done) =>{
+		request(app)		
+			.get('/todos')
+			.expect(200) 
+			.expect((res) => {
+				expect(res.body.todos.length).toBe(2);
+			})
+			.end(done);
+		});
+	})
+
+
+FIND METHODS IN MONGOOSE
+
+BY ID:
+
+1) 
+var id = '5ab1b8352cf4e91af4f77072';
+
+Todo.find({
+	_id: id
+	}).then((todos)=>{
+		console.log('Todos',todos);
+	});
+
+2) Todo.findOne({
+	_id: id
+	}).then((todo)=>{
+		console.log('Todo',todo);
+	});
+
+3) Todo.findById(id)
+
+
+
+CHECKING THE VALIDITY OF OBJECT ID
+
+const {ObjectID} = require('mongodb');
+
+var id = '5ab1b8352cf4e91af4f770721';
+
+if (!ObjectID.isValid(id)){
+	return console.log('Id not valid');
+
+
+GIVING ERROR MESSAGE FOR NOT FOUND RECORDS
+Todo.findById(id) 
+   .then((todo)=>{
+   	if (!todo) {
+
+   	   return console.log('Id not found !');
+   	}
+	console.log('Todobyid',todo);
+   })

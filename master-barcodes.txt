@@ -1,0 +1,1821 @@
+studentIDNo	lastName	firstName	progMajorTypeID	Barcode	emailAddress
+000-98-4932	Abdalla	Sameh Samy Ahmed	MS CS CZ DE	1100100081196	ssamy@mum.edu
+000-98-6347	Abdelaatty	Niveen Saber Abouelela	MS CS NO CZ	1100100094504	nabdelaatty@mum.edu
+000-98-5788	Abdelfattah	Khaled Hamed Mohamed	MS CS CZ DE	1100100089173	khmabdelfattah@mum.edu
+000-98-5788	Abdelfattah	Khaled Hamed Mohamed	MS CS NO CZ	1100100089173	khmabdelfattah@mum.edu
+000-98-4018	Abdella	Rahma Hussein	MS CS CZ DE	1100100069324	rahema.huss@gmail.com
+000-98-4385	Abdelmaaboud	Ahmed Samir Amer	MS CS CZ DE	1100100074183	asamir@mum.edu
+000-98-5304	Abdelmaboud	Ahmed Walaaeldin Ahmed	MS CS CZ DE	1100100087912	aabdelmaboud@mum.edu
+000-98-5304	Abdelmaboud	Ahmed Walaaeldin Ahmed	MS CS NO CZ	1100100087912	aabdelmaboud@mum.edu
+000-98-6376	Abdelmohsen	Ahmed Mohamed Ali	MS CS NO CZ	1100100094181	aabdelmohsen@mum.edu
+000-98-6301	Abdelrazek	Abdelrahman Shehata Elsayed Abdelrazek	MS CS NO CZ	1100100094488	aabdelrazek@mum.edu
+000-98-5135	Abdu	Sofia Adem	MS CS CZ DE	1100100084299	sabdu@mum.edu
+000-98-5135	Abdu	Sofia Adem	MS CS NO CZ	1100100084299	sabdu@mum.edu
+000-98-3376	Abdulkadir	Abdulhannan	MS CS CZ DE	1100100058921	hanan.amu@gmail.com
+000-10-9186	Abebe	Eshetu	BS CS NO NO	1100100094678	eabebe@mum.edu
+000-10-8430	Abebe	Firew Asfaw	MS CS NO NO	1100100083317	faabebe@mum.edu
+000-10-8391	Abebe	Mekonnen	BS CS NO NO	1100100083457	mabebe@mum.edu
+000-98-4552	Abedin	Mohammed Joynul	MS CS CZ DE	1100100076220	mabedin@mum.edu
+000-98-4763	Abera	Kibrom Abraha	MS CS CZ DE	1100100081287	kabrha@mum.edu
+000-98-5211	Abimbola	Olusegun Famubode	MS CS CZ DE	1100100084182	oabimbola@mum.edu
+000-98-4037	Abouelela	Mohamed Magdy Mohamed Abdelr	MS CS CZ DE	1100100071015	mohamed.abdlrheem@gmail.com
+000-98-5635	Aboye	Mieraf Meketa	MS CS CZ DE	1100100088803	mmaboye@mum.edu
+000-98-5635	Aboye	Mieraf Meketa	MS CS NO CZ	1100100088803	mmaboye@mum.edu
+000-98-3947	Abraha	Gebrekiros Gebrehiwot	MS CS CZ DE	1100100069431	gabraha@mum.edu
+000-98-5372	Abraha	Gebreyesus Gebrehiwet	MS CS CZ DE	1100100085858	geabraha@mum.edu
+000-98-5372	Abraha	Gebreyesus Gebrehiwet	MS CS NO CZ	1100100085858	geabraha@mum.edu
+000-10-8398	Abrha	Meron Gebremaryam	MS CS EXEC DE	1100100083325	mer.world@gmail.com
+000-98-4568	Abrha	Tiedros Kesete	MS CS CZ DE	1100100076188	k.tiedros@gmail.com
+000-98-4988	Abu Ghazal	Ahmad Mohammad Khalaf	MS CS CZ DE	1100100081469	aghazal@mum.edu
+000-98-5131	Abu Hussein	Mohammad Ahmad Mohammad	MS CS CZ DE	1100100083937	mabuhussein@mum.edu
+000-98-4457	Abuelenin	Ahmed Fouad Awad	MS CS CZ DE	1100100076915	aabuelenin@mum.edu
+000-98-4341	Acharya	Hem Sharma	MS CS CZ DE	1100100073607	hacharya@mum.edu
+000-98-4530	Acharya	Madan Prasad	MS CS CZ DE	1100100077632	macharya@mum.edu
+000-98-5083	Acharya	Nawa Raj	MS CS CZ DE	1100100083036	nacharya@mum.edu
+000-98-5385	Acharya	Prajwal	MS CS CZ DE	1100100085437	parcharya@mum.edu
+000-98-5385	Acharya	Prajwal	MS CS NO CZ	1100100085437	parcharya@mum.edu
+000-98-5361	Acharya	Pratik	MS CS CZ DE	1100100085536	pratikacharya@mum.edu
+000-98-5361	Acharya	Pratik	MS CS NO CZ	1100100085536	pratikacharya@mum.edu
+000-98-5557	Acharya	Shreedhar	MS CS NO CZ	1100100091518	sarcharya@mum.edu
+000-98-2882	Adaghish	Senai Fitwi	MS CS CZ DE	1100100070587	sadaghish@mum.edu
+000-98-4389	Addiati	Dini	MS CS CZ DE	1100100076717	daddiati@mum.edu
+000-98-6295	Adegbulugbe	Fadejimi Osahon	MS CS NO CZ	1100100093589	foadegbulugbe@mum.edu
+000-98-4561	Adem	Mujib Abdulkadir	MS CS CZ DE	1100100078259	mujib.abr@gmail.com
+000-98-5228	Adhikari	Aman	MS CS CZ DE	1100100084158	aadhikari@mum.edu
+000-98-5117	Adhikari	Bibek	MS CS CZ DE	1100100082392	bibek.adhikari10@gmail.com
+000-98-4750	Adhikari	Bishwas	MS CS CZ DE	1100100079075	badhikari@mum.edu
+000-98-4406	Adhikari	Prabin	MS CS CZ DE	1100100077426	padhikari@mum.edu
+000-98-4237	Adhikari	Prithvi Bandhu	MS CS CZ DE	1100100074209	prithviadhikari@mum.edu
+000-98-5389	Adhikari	Samikshya	MS CS CZ DE	1100100089553	saadhikari@mum.edu
+000-98-5389	Adhikari	Samikshya	MS CS NO CZ	1100100089553	saadhikari@mum.edu
+000-98-4817	Adhikari	Sukrit	MS CS CZ DE	1100100079307	sadhikari@mum.edu
+000-98-3664	Adhikari	Suraj Babu	MS CS CZ DE	1100100077194	suraz.adhikary@gmail.com
+000-98-3866	Adhikari	Suresh	MS CS CZ DE	1100100069118	suresh.adhikari14@gmail.com
+000-98-5357	Adhikari	Suresh	MS CS CZ DE	1100100084927	adhikarisuresh@mum.edu
+000-98-5357	Adhikari	Suresh	MS CS NO CZ	1100100084927	adhikarisuresh@mum.edu
+000-98-4885	Adhikari	Tara Prasad	MS CS CZ DE	1100100081733	tpadhikari@mum.edu
+000-98-4762	Adjis	Alfarisi Amri	MS CS CZ DE	1100100079794	alfarisi.amri@gmail.com
+000-98-5420	Admasu	Nebeyou Dagnachew	MS CS CZ DE	1100100085395	nadmasu@mum.edu
+000-98-5420	Admasu	Nebeyou Dagnachew	MS CS NO CZ	1100100085395	nadmasu@mum.edu
+000-98-6006	Ads	Mostafa Omar Hassan	MS CS NO CZ	1100100090650	mads@mum.edu
+000-98-4772	Afewerki	Aron Belai	MS CS NO CZ	1100100094462	aafewerki@mum.edu
+000-98-5182	Afzal	Hadiqa	MS CS CZ DE	1100100080719	hadiqa.afzal@hotmail.com
+000-98-4786	Agazhe	Dawit Belete	MS CS CZ DE	1100100081162	dawit.bell@gmail.com
+000-98-4916	Agedew	Tewodros Melkamu	MS CS CZ DE	1100100079448	tewodros.melkamu@yahoo.com
+000-98-5971	Agrawal	Madhuri	MS CS CZ DE	1100100089983	magrawal@mum.edu
+000-98-5971	Agrawal	Madhuri	MS CS NO CZ	1100100089983	magrawal@mum.edu
+000-98-5505	Aguirre Quispe	Edy Luisrey	MS CS CZ DE	1100100087409	eaguirre@mum.edu
+000-98-5505	Aguirre Quispe	Edy Luisrey	MS CS NO CZ	1100100087409	eaguirre@mum.edu
+000-98-4946	Agustin	John Alfred Sta. Maria	MS CS CZ DE	1100100081279	jagustin@mum.edu
+000-98-6415	Ahirwe	Max Thierry	MS CS NO CZ	1100100094322	mahirwe@mum.edu
+000-98-4959	Ahmad	Mosheer Yousef Mahmoud	MS CS CZ DE	1100100080925	mahmad@mum.edu
+000-98-2524	Ahmadi	Abdul	MS CS CZ DE	1100100073243	sayed.1986@gmail.com
+000-98-4533	Ahmed	Aziz Uddin	MS CS CZ DE	1100100077871	azizahmed@mum.edu
+000-98-4296	Ahmed	Mahmoud Hassan Mohamed	MS CS CZ DE	1100100073672	mallam@arabiancementcompany.com
+000-98-4306	Ahmed	Md Avishek	MS CS CZ DE	1100100077236	mdahmed@mum.edu
+000-98-4252	Ahmed	Md Rhyhan	MS CS CZ DE	1100100073623	rhyhan88@gmail.com
+000-98-5604	Ahmed	Mohammed Y M	MS CS CZ DE	1100100089892	mymahmed@mum.edu
+000-98-5604	Ahmed	Mohammed Y M	MS CS NO CZ	1100100089892	mymahmed@mum.edu
+000-98-3930	Ahmed	Sherif Ezzat Abdelatty	MS CS CZ DE	1100100073961	sahmed@mum.edu
+000-10-9180	Ahmed	Tarik	BS CS NO NO	1100100094702	tahmed@mum.edu
+000-98-4627	Ahmed	Walid Aly Sultan Aly	MS CS CZ DE	1100100078408	walidahmed@mum.edu
+000-98-4078	Ahsan	A. K. M. Sharif Uddin	MS CS CZ DE	1100100074431	shuahsan@yahoo.com
+000-98-5193	Aimaier	Maimaiti	MS CS NO CZ	1100100090809	maimaier@mum.edu
+000-98-4894	Ainqawi	Huthayfa O M	MS CS CZ DE	1100100081147	anqawih@gmail.com
+000-98-3346	Akram	Muhammad Tariq	MS CS CZ DE	1100100059846	tariqkkr@gmail.com
+000-98-5825	Al Bayati	Maan Abdullah Rahmatullah	MS CS CZ DE	1100100089306	maralbayati@mum.edu
+000-98-5825	Al Bayati	Maan Abdullah Rahmatullah	MS CS NO CZ	1100100089306	maralbayati@mum.edu
+000-98-3094	Al-Anni	Firas Rasmy Barjas	MS CS CZ DE	1100100054656	firasrasmy@yahoo.com
+000-98-4620	Al-najjar	Asem Mohammad Awad	MS CS CZ DE	1100100078226	aalnajjar@mum.edu
+000-98-3676	Alahakoon	Pituwala	MS CS CZ DE	1100100068060	donalahakoon84@gmail.com
+000-98-4968	Alam	Mohammad Shamsh Tabrez	MS CS CZ DE	1100100081337	talam@mum.edu
+000-98-4968	Alam	Mohammad Shamsh Tabrez	MS CS NO CZ	1100100081337	talam@mum.edu
+000-98-5682	Albasha	Anas Ahmad Sharif	MS CS CZ DE	1100100088589	aasalbasha@mum.edu
+000-98-5682	Albasha	Anas Ahmad Sharif	MS CS NO CZ	1100100088589	aasalbasha@mum.edu
+000-98-3532	Albreem	Dina	MS CS CZ DE	1100100064903	dina.albreem@gmail.com
+000-98-4872	Ale	Tek Bahadur	MS CS CZ DE	1100100081329	tale@mum.edu
+000-98-4040	Alegre	Francis Aerol	MS CS CZ DE	1100100070983	francisaerol@gmail.com
+000-98-4727	Alemayehu	Haftom Tesfay	MS CS CZ DE	1100100081204	haftommittesfay@gmail.com
+000-98-4841	Alene	Henok Adane	MS CS CZ DE	1100100079281	halene@mum.edu
+000-98-4793	Ali	Ahmed Amin Mahmoud	MS CS CZ DE	1100100081022	ahmed_amin007@hotmail.com
+000-98-5488	Ali	Akber	MS CS CZ DE	1100100087383	aali@mum.edu
+000-98-5488	Ali	Akber	MS CS NO CZ	1100100087383	aali@mum.edu
+000-98-4115	Ali	Sherif Mostafa Attia	MS CS CZ DE	1100100073813	Sherif.MA.Ali@gmail.com
+000-98-4191	Aliyev	Zaur	MS CS CZ DE	1100100070652	zaur_aliev@hotmail.com
+000-98-2588	Alkatout	Ramzi	MS CS CZ DE	1100100045894	ramzi.alkatout@gmail.com
+000-98-3832	Allam	Mahmoud Roushdy A. G.	MS CS CZ DE	1100100069530	roushdy_01@hotmail.com
+000-98-5321	Alnuaimat	Mohammad Hussein Abdul	MS CS CZ DE	1100100084141	malnuaimat@mum.edu
+000-98-6091	Alqurashi	Mahmoud Muhammad	MS CS NO CZ	1100100091492	mqurashi@mum.edu
+000-98-4289	Alsharif	Mahmoud	MS CS CZ DE	1100100074845	Barrytoo@yahoo.com
+000-98-4123	Alshazli	Amr Osama Alsayed Mohamm	MS CS CZ DE	1100100070504	amr.alshazli@gmail.com
+000-98-4279	Altangerel	Luvsansharav	MS CS CZ DE	1100100074027	csluuya@gmail.com
+000-98-4054	Alzamer	Ahmad Suleiman Amin	MS CS CZ DE	1100100070520	ahmed.alzamer@gmail.com
+000-98-3623	Amare	Aderajew	MS CS CZ DE	1100100064325	aderajewyilma@yahoo.com
+000-98-4519	Amin	Wahid Ahmad	MS CS CZ DE	1100100075636	wamin@mum.edu
+000-98-5893	Andarge	Mikias Afework	MS CS CZ DE	1100100090379	mandarge@mum.edu
+000-98-5893	Andarge	Mikias Afework	MS CS NO CZ	1100100090379	mandarge@mum.edu
+000-98-3826	Andemichael	Halieb	MS CS CZ DE	1100100068268	haliebnet2@gmail.com
+000-98-5075	Aouinti	Mohamed	MS CS CZ DE	1100100082640	aouinti.mohamed@gmail.com
+000-98-5957	Arega	Frehiwot Melak	MS CS CZ DE	1100100090775	farega@mum.edu
+000-98-5957	Arega	Frehiwot Melak	MS CS NO CZ	1100100090775	farega@mum.edu
+000-10-8149	Aregay	Amanuel	MS CS EXEC DE	1100100076790	fissihatsen@gmail.com
+000-98-4880	Aregay	Tesfay Kidanemariam	MS CS CZ DE	1100100087581	taregay@mum.edu
+000-98-4880	Aregay	Tesfay Kidanemariam	MS CS NO CZ	1100100087581	taregay@mum.edu
+000-98-3957	Ariunbold	Bilguun	MS CS CZ DE	1100100069274	bariunbold@mum.edu
+000-98-6040	Arogundade	Lukman Ademola	MS CS NO CZ	1100100091039	larogundade@mum.edu
+000-98-5906	Arslanbaatar	Ganbaatar	MS CS CZ DE	1100100092789	garslanbaatar@mum.edu
+000-98-5906	Arslanbaatar	Ganbaatar	MS CS NO CZ	1100100092789	garslanbaatar@mum.edu
+000-98-4005	Arunagirinathan	Chandilyan	MS CS CZ DE	1100100069381	chandilian29@gmail.com
+000-98-4250	Arya	Pankaj	MS CS CZ DE	1100100077210	pankaj@mum.edu
+000-10-8960	ASEFA	Beakal	MS CS NO NO	1100100091930	btasefa@mum.edu
+000-98-3997	Asfaw	Yared Tameru	MS CS CZ DE	1100100071049	yaredta@gmail.com
+000-98-4256	Ashique	Syed Ali Ahmed	MS CS CZ DE	1100100073581	sashique@mum.edu
+000-98-4072	Ashraf	Komal	MS CS CZ DE	1100100070819	kashraf@mum.edu
+000-10-8385	Asmelash	Adell Tesfay	MS CS EXEC DE	1100100083689	aasmelash@mum.edu
+000-10-8385	Asmelash	Adell Tesfay	MS CS NO NO	1100100083689	aasmelash@mum.edu
+000-10-9051	Asmelash	Tesfahiwet	MS CS NO NO	1100100092599	ttasmelsh@mum.edu
+000-10-8811	Asmerom	Filmon	MS CS NO NO	1100100089280	fasmerom@mum.edu
+000-98-5032	Asnake	Endalkachew Birhane	MS CS CZ DE	1100100082343	easnake@mum.edu
+000-98-5314	Asrat	Bisrat Sisay	MS CS CZ DE	1100100085270	bsasrat@mum.edu
+000-98-5314	Asrat	Bisrat Sisay	MS CS NO CZ	1100100085270	bsasrat@mum.edu
+000-98-5603	Asress	Belesti Melesse	MS CS CZ DE	1100100087474	bmelesse@mum.edu
+000-98-5603	Asress	Belesti Melesse	MS CS NO CZ	1100100087474	bmelesse@mum.edu
+000-98-4583	Assefa	Tewodros Ayele	MS CS CZ DE	1100100079273	tassefa@mum.edu
+000-98-4176	Assefa	Winta Bisrat	MS CS CZ DE	1100100074613	wassefa@mum.edu
+000-10-8318	Assefa	Zelalem Amare	MS CS EXEC DE	1100100080180	zassefa@mum.edu
+000-10-9191	Assefaw	Winta	MS CS NO NO	1100100095600	wassefaw@mum.edu
+000-10-8189	Assudani	Khishal	BS MATH NO NO	1100100092722	kassudani@mum.edu
+000-98-5043	Atarah	Ivan Akoribila	MS CS CZ DE	1100100082103	iaatarah@gmail.com
+000-98-6344	Aung	Lwin Moe	MS CS NO CZ	1100100093712	laung@mum.edu
+000-98-3910	Awadalla	Mina Awadalla Nassief	MS CS CZ DE	1100100089884	mawadalla@mum.edu
+000-98-3910	Awadalla	Mina Awadalla Nassief	MS CS NO CZ	1100100089884	mawadalla@mum.edu
+000-98-3455	Ayallew	Menbere	MS CS CZ DE	1100100062311	mworkeneh@gmail.com
+000-98-5261	Ayana	Dejene Takele	MS CS CZ DE	1100100083994	dtakele@mum.edu
+000-98-3959	Ayele	Haymanot Minalu	MS CS CZ DE	1100100069241	hayminalu@yahoo.com
+000-98-5487	Ayele	Kassa Tilahun	MS CS CZ DE	1100100088316	kayele@mum.edu
+000-98-5487	Ayele	Kassa Tilahun	MS CS NO CZ	1100100088316	kayele@mum.edu
+000-98-4917	Ayenew	Wallelgn Abrham	MS CS CZ DE	1100100080883	walzeman@yahoo.com
+000-98-6372	Ayeni	Adewale Ayodele	MS CS NO CZ	1100100095766	aayeni@mum.edu
+000-10-8570	Aynialem	Abrhaley	MS CS NO NO	1100100086096	amaynialem@mum.edu
+000-98-5793	Azjargalbayar	Bilguun	MS CS CZ DE	1100100088548	bazjargalbayar@mum.edu
+000-98-5793	Azjargalbayar	Bilguun	MS CS NO CZ	1100100088548	bazjargalbayar@mum.edu
+000-98-4551	Baasandorj	Galbadrakh	MS CS CZ DE	1100100076923	gbaasandorj@mum.edu
+000-98-5144	Baasanjav	Tumur Ochir	MS CS CZ DE	1100100082376	tochir@mum.edu
+000-98-3656	Babu	Afsar Ahmed	MS CS CZ DE	1100100074787	afsar03cse@gmail.com
+000-98-5964	Badam	Gundsambuu	MS CS NO CZ	1100100090452	gbadam@mum.edu
+000-98-5938	Badarch	Battuvshin	MS CS CZ DE	1100100090171	bbadarch@mum.edu
+000-98-5938	Badarch	Battuvshin	MS CS NO CZ	1100100090171	bbadarch@mum.edu
+000-98-3811	Badarch	Nergui	MS CS CZ DE	1100100067203	Nergui.Badarch@gmail.com
+000-98-4313	Badawy	Ahmed	MS CS CZ DE	1100100073805	ahmedsa10489@gmail.com
+000-98-6042	Badawy	Ramy Gaber Ahmed	MS CS NO CZ	1100100091484	rbadaway@mum.edu
+000-98-4674	Bagale	Sudeep	MS CS CZ DE	1100100078481	sbagale@mum.edu
+000-98-4761	Bahrami	Amirhossein	MS CS CZ DE	1100100080917	abahrami@mum.edu
+000-10-9015	Bailey	Matthew	BS CS NO NO	1100100091823	mbailey@mum.edu
+000-98-5686	Bajracharya	Prasanna Man	MS CS CZ DE	1100100088373	pmbajracharya@mum.edu
+000-98-5686	Bajracharya	Prasanna Man	MS CS NO CZ	1100100088373	pmbajracharya@mum.edu
+000-98-4631	Bakshi	Mohammad Zakiul Alam	MS CS CZ DE	1100100078309	zbakshi@mum.edu
+000-98-5089	Balami	Ashok	MS CS CZ DE	1100100082988	abalami@mum.edu
+000-98-5308	Balami	Nishant	MS CS CZ DE	1100100084448	nbalami@mum.edu
+000-98-4265	Bam	Suseel	MS CS CZ DE	1100100072260	bamsuseel@gmail.com
+000-98-5171	Bansal	Neha	MS CS CZ DE	1100100082186	nbansal@mum.edu
+000-98-5852	Bao	Xianjian	MS CS CZ DE	1100100089199	xibao@mum.edu
+000-98-5852	Bao	Xianjian	MS CS NO CZ	1100100089199	xibao@mum.edu
+000-98-4760	Bari	Md Nazmul	MS CS CZ DE	1100100079067	mbari@mum.edu
+000-98-5255	Baruda	Tamrat Melese	MS CS CZ DE	1100100084901	tbaruda@mum.edu
+000-98-5255	Baruda	Tamrat Melese	MS CS NO CZ	1100100084901	tbaruda@mum.edu
+000-98-5655	Baskota	Susan	MS CS CZ DE	1100100088365	sbaskota@mum.edu
+000-98-5655	Baskota	Susan	MS CS NO CZ	1100100088365	sbaskota@mum.edu
+000-98-4840	Basnet	Govinda	MS CS CZ DE	1100100081188	gbasnet@mum.edu
+000-98-5059	Basnet	Nisha	MS CS CZ DE	1100100093688	nishabasnet@mum.edu
+000-98-4647	Basnet	Nitesh	MS CS CZ DE	1100100078218	nbasnet@mum.edu
+000-98-4644	Basnet	Pradeep Kumar	MS CS CZ DE	1100100078044	pbasnet@mum.edu
+000-98-4483	Bastakoti	Binod	MS CS CZ DE	1100100076931	bbastakoti@mum.edu
+000-98-4262	Bastola	Abinash	MS CS CZ DE	1100100073706	abinash.bastola@gmail.com
+000-98-4887	Basukala	Abhishek	MS CS CZ DE	1100100081758	abhishekbasukala@gmail.com
+000-98-6191	Batbaatar	Boldkhuu	MS CS NO CZ	1100100093209	bbatbaatar@mum.edu
+000-98-6168	Batbayar	Jamsrandorj	MS CS NO CZ	1100100093522	jbatbayar@mum.edu
+000-98-4121	Batbileg	Uurtsaikh	MS CS CZ DE	1100100071148	uurtsaikha@yahoo.com
+000-98-3840	Batbold	Batjargal	MS CS CZ DE	1100100068078	batjaa0615@gmail.com
+000-98-5892	Batjargal	Dulamkhand	MS CS CZ DE	1100100090155	dbatjargal@mum.edu
+000-98-5892	Batjargal	Dulamkhand	MS CS NO CZ	1100100090155	dbatjargal@mum.edu
+000-98-4891	Batkhuyag	Erkhbold	MS CS CZ DE	1100100085981	erbatkhuyag@mum.edu
+000-98-4891	Batkhuyag	Erkhbold	MS CS NO CZ	1100100085981	erbatkhuyag@mum.edu
+000-98-6214	Batmunkh	Tamir	MS CS NO CZ	1100100093134	tbatmunkh@mum.edu
+000-98-3584	Batnasan	Dashdorj	MS CS CZ DE	1100100064267	batnasan_dashdorj@yahoo.com
+000-98-5927	Batsukh	Erdenebayar	MS CS CZ DE	1100100090577	ebatsukh@mum.edu
+000-98-5927	Batsukh	Erdenebayar	MS CS NO CZ	1100100090577	ebatsukh@mum.edu
+000-98-5563	Battulga	Amar	MS CS CZ DE	1100100087946	ambattulga@mum.edu
+000-98-5563	Battulga	Amar	MS CS NO CZ	1100100087946	ambattulga@mum.edu
+000-98-5999	Battulga	Norjinsuren	MS CS NO CZ	1100100091385	nbattulga@mum.edu
+000-98-5235	Bayar	Mehdi	MS CS CZ DE	1100100084331	mbayar@mum.edu
+000-98-6132	Bayaraa	Erdenesuren	MS CS NO CZ	1100100091567	ebayaraa@mum.edu
+000-98-5989	Bayarkhuu	Enkhbayar	MS CS NO CZ	1100100090544	ebayarkhuu@mum.edu
+000-98-6264	Bayarsaikhan	Batjargal	MS CS NO CZ	1100100093142	babayarsaikhan@mum.edu
+000-98-3730	Bayarsaikhan	Bayansuren	MS CS CZ DE	1100100077020	bbayarsaikhan@mum.edu
+000-98-5566	Bayarsaikhan	Binderiya	MS CS CZ DE	1100100087524	bibayarsaikhan@mum.edu
+000-98-5566	Bayarsaikhan	Binderiya	MS CS NO CZ	1100100087524	bibayarsaikhan@mum.edu
+000-98-4298	Bayarsaikhan	Itgel	MS CS CZ DE	1100100073797	superitgel@gmail.com
+000-98-5624	Bayart	Erkhembayar	MS CS CZ DE	1100100088597	ebayart@mum.edu
+000-98-5624	Bayart	Erkhembayar	MS CS NO CZ	1100100088597	ebayart@mum.edu
+000-98-6109	Bazarov	Ortigali Valijonovich	MS CS NO CZ	1100100092284	obazarov@mum.edu
+000-98-5137	Bekele	Kedus Girma	MS CS CZ DE	1100100082111	kgirma@mum.edu
+000-98-3754	Belay	Girum	MS CS CZ DE	1100100068201	girum_kidanie@yahoo.com
+000-98-3879	Belay	Talakisew Binor	MS CS CZ DE	1100100069498	tbelay@mum.edu
+000-98-4954	Belay	Zelalem Getnet	MS CS CZ DE	1100100082335	zeelosoft@gmail.com
+000-98-3831	Belete	Michale Zawdu	MS CS CZ DE	1100100068094	michael.zewdu@gmail.com
+000-98-5536	Bepari	Nuruzzaman	MS CS CZ DE	1100100087888	nbepari@mum.edu
+000-98-5536	Bepari	Nuruzzaman	MS CS NO CZ	1100100087888	nbepari@mum.edu
+000-10-8876	Berga	Girma	BS CS NO NO	1100100091781	gberga@mum.edu
+000-10-7786	Berhane	Atakilti	MS CS EXEC DE	1100100066700	abiti96@gmail.com
+000-10-8150	Berhane	Awet	MS CS EXEC DE	1100100076121	awetkberhane@yahoo.com
+000-98-4213	Berhe	Stella	MS CS CZ DE	1100100071494	stellamehari12@gmail.com
+000-98-4747	Berhe	Zehafta Tekea	MS CS CZ DE	1100100079356	zberhe@mum.edu
+000-10-8768	Bernante	Peter James	MS CS NO NO	1100100089363	pjbernante@mum.edu
+000-98-6362	Beshay	Mena Emile William	MS CS NO CZ	1100100094199	mbeshay@mum.edu
+000-10-7998	Besso	Gudeta	BS CS NO NO	1100100072401	gudetabesso@gmail.com
+000-10-9023	Bete	Betelehem	BS CS NO NO	1100100092326	bbete@mum.edu
+000-98-2216	Beyene	Fitsum Admassu	MS CS CZ DE	1100100085411	fbeyene@mum.edu
+000-98-2216	Beyene	Fitsum Admassu	MS CS NO CZ	1100100085411	fbeyene@mum.edu
+000-10-8424	Beyene	Kokeb Abera	MS CS NO NO	1100100083507	kbeyene@mum.edu
+000-98-1828	Beyene	Mahlet	MS CS CZ DE	1100100039657	mahletbeyene@gmail.com
+000-98-3728	Bezuneh	Yehwalashet	MS CS CZ DE	1100100068763	yebezuneh@gmail.com
+000-98-4820	Bhaila	Anil	MS CS CZ DE	1100100078903	abhaila@mum.edu
+000-98-4438	Bhandari	Govinda	MS CS CZ DE	1100100076436	gbhandari@mum.edu
+000-98-6395	Bhandari	Peshal	MS CS NO CZ	1100100095642	pbhandari@mum.edu
+000-98-4741	Bhanot	Amit	MS CS CZ DE	1100100080594	abhanot@mum.edu
+000-98-5283	Bhat	Krishna Bahadur	MS CS CZ DE	1100100084943	krbhat@mum.edu
+000-98-5283	Bhat	Krishna Bahadur	MS CS NO CZ	1100100084943	krbhat@mum.edu
+000-98-6438	Bhatt	Netra Raj	MS CS NO CZ	1100100095659	nbhatt@mum.edu
+000-98-4038	Bhattacharjee	Tonmay	MS CS CZ DE	1100100070637	tbhattacharjee@mum.edu
+000-98-4718	Bhattarai	Adarsh	MS CS CZ DE	1100100077608	abhattarai@mum.edu
+000-98-4352	Bhattarai	Ganesh	MS CS CZ DE	1100100078705	bhattaraiganesh66@gmail.com
+000-98-4248	Bhattarai	Krishna Prasad	MS CS CZ DE	1100100072849	nature_kp@yahoo.com
+000-98-5051	Bhattarai	Lokesh	MS CS CZ DE	1100100082137	lbhattarai@mum.edu
+000-98-4004	Bheda	Nirali Sharadkumar	MS CS CZ DE	1100100069266	sharad_bheda@rediffmail.com
+000-98-3777	Bheemaiah	Anil Kumar	MS CS CZ DE	1100100068086	bheemaiaha@gmail.com
+000-98-4084	Bhuiyan	Md. Jahirul Islam	MS CS CZ DE	1100100074340	palash_051@yahoo.com
+000-98-4698	Bhujel	Amir	MS CS CZ DE	1100100078788	abhujel@mum.edu
+000-98-5461	Bhujel	Deeyas	MS CS CZ DE	1100100085338	dbhujel@mum.edu
+000-98-5461	Bhujel	Deeyas	MS CS NO CZ	1100100085338	dbhujel@mum.edu
+000-98-4829	Bhusal	Samrat	MS CS CZ DE	1100100081691	bhusal.samrat@gmail.com
+000-98-5205	Bhusal	Sanjeev	MS CS CZ DE	1100100084216	sabhusal@mum.edu
+000-98-2199	Bilinda	Roger	MS CS CZ DE	1100100039061	rogerbilinda@gmail.com
+000-98-4695	Biratu	Eyob Teshome	MS CS CZ DE	1100100078382	eyob.teshome@yahoo.com
+000-98-4295	Birhanu	Betelheme	MS CS CZ DE	1100100071916	bettyge97@gmail.com
+000-10-7284	Birru	Yoseph	MS CS EXEC DE	1100100058764	yoseyb@yahoo.com
+000-98-4824	Bishaw	Kidist Berhanu	MS CS CZ DE	1100100079091	kiduade@gmail.com
+000-98-4677	Bishwokarma	Bikash	MS CS CZ DE	1100100077970	bbishwokarma@mum.edu
+000-98-6318	Bisrat	Michael Tesfay	MS CS NO CZ	1100100094470	mtbisrat@mum.edu
+000-10-9050	Bisrat	Mulugeta	MS CS NO NO	1100100092615	mbisrat@mum.edu
+000-98-5004	Bist	Taj Bahadur	MS CS CZ DE	1100100083010	tbist@mum.edu
+000-98-5175	Bista	Hari Krishna	MS CS CZ DE	1100100084059	hbista@mum.edu
+000-98-5646	Bista	Subhechha	MS CS CZ DE	1100100089546	sbista@mum.edu
+000-98-5646	Bista	Subhechha	MS CS NO CZ	1100100089546	sbista@mum.edu
+000-98-6034	Bista	Tika Raj	MS CS NO CZ	1100100091104	tbista@mum.edu
+000-98-3932	Bitongga	Candy Claire Cadungog	MS CS CZ DE	1100100069415	cbitongga@mum.edu
+000-98-4578	Bitsai	Yonas Habtemichael	MS CS CZ DE	1100100078655	ybitsai@mum.edu
+000-10-8793	Bogale	Mengistu	MS CS NO NO	1100100093969	mbogale@mum.edu
+000-98-5586	Bogati	Pradeep Kumar	MS CS CZ DE	1100100088118	pbogati@mum.edu
+000-98-5586	Bogati	Pradeep Kumar	MS CS NO CZ	1100100088118	pbogati@mum.edu
+000-98-6110	Bold	Amartuvshin	MS CS NO CZ	1100100092557	abold@mum.edu
+000-98-4417	Bonu	Janardhan	MS CS CZ DE	1100100080776	jbonu@mum.edu
+000-98-6227	Boydedaev	Bakhodir	MS CS NO CZ	1100100093811	bboydedaev@mum.edu
+000-98-6192	Brhane	Abiel Beraki	MS CS NO CZ	1100100092987	abbrhane@mum.edu
+000-10-7860	Brodale	Zabrina	BS MATH NO NO	1100100067427	zbrodale@mum.edu
+000-98-4838	Buda	Gyanesh	MS CS CZ DE	1100100079182	gbuda@mum.edu
+000-98-3971	Bui	Tan Hai	MS CS CZ DE	1100100069183	buihaitan89@gmail.com
+000-98-5349	Bulgan	Ulzii-Erdene	MS CS CZ DE	1100100084877	ubulgan@mum.edu
+000-98-5349	Bulgan	Ulzii-Erdene	MS CS NO CZ	1100100084877	ubulgan@mum.edu
+000-98-6239	Buyandalai	Khosbayar	MS CS NO CZ	1100100093167	kbuyandalai@mum.edu
+000-98-6402	Buyandalai	Munkhdelger	MS CS NO CZ	1100100094520	mbuyandalai@mum.edu
+000-98-3925	Buyantogtokh	Adiya	MS CS CZ DE	1100100069282	ds_kacta@yahoo.com
+000-98-5984	Bwambale	Basi Yonah	MS CS NO CZ	1100100093332	bbwambale@mum.edu
+000-98-5329	Bwambale	Edwin	MS CS CZ DE	1100100085742	ebwambale@mum.edu
+000-98-5329	Bwambale	Edwin	MS CS NO CZ	1100100085742	ebwambale@mum.edu
+000-98-5965	Byambaa	Enkhtsatsral	MS CS NO CZ	1100100090494	ebyambaa@mum.edu
+000-98-6217	Byambaa	Erdenebadral	MS CS NO CZ	1100100093480	erbyambaa@mum.edu
+000-98-6114	Byambadoo	Bayarjargal	MS CS NO CZ	1100100091369	bbyambadoo@mum.edu
+000-98-6107	Byambadorj	Erdenechuluun	MS CS NO CZ	1100100091393	ebyambadorj@mum.edu
+000-98-4260	Byanju	Suraj	MS CS CZ DE	1100100074357	surajbyanju47@gmail.com
+000-98-3411	Cabriana	Jonathan Obrador	MS CS CZ DE	1100100071007	jcabriana@gmail.com
+000-98-4274	Cai	Luhua	MS CS CZ DE	1100100074241	cluhua@gmail.com
+000-98-5582	Cai	Xianfeng	MS CS CZ DE	1100100088886	xcai@mum.edu
+000-98-5582	Cai	Xianfeng	MS CS NO CZ	1100100088886	xcai@mum.edu
+000-98-5636	Cai	Yi	MS CS CZ DE	1100100087854	ycai@mum.edu
+000-98-5636	Cai	Yi	MS CS NO CZ	1100100087854	ycai@mum.edu
+000-98-5985	Cala Rey	Andres	MS CS CZ DE	1100100090510	acala@mum.edu
+000-98-5985	Cala Rey	Andres	MS CS NO CZ	1100100090510	acala@mum.edu
+000-98-3900	Calles Leoni	Juan Jose	MS CS CZ DE	1100100069233	juancalles16@gmail.com
+000-98-5188	Canales Vicencio	Claudio Andres	MS CS CZ DE	1100100084042	ccanales@mum.edu
+000-98-4401	Cao	Hung	MS CS CZ DE	1100100075834	hcao@mum.edu
+000-98-5935	Cao	Huy Dan	MS CS NO CZ	1100100094306	hu.cao@mum.edu
+000-98-4563	Chandra	Budi	MS CS CZ DE	1100100075750	budirec@gmail.com
+000-98-6221	Chaparro Salazar	William Ricardo	MS CS NO CZ	1100100093456	wrcsalazar@mum.edu
+000-98-5092	Chari	Fisseha Abebe	MS CS CZ DE	1100100082434	abebefisseha5@gmail.com
+000-98-4643	Chaudhary	Hari Krishna	MS CS CZ DE	1100100078077	hchaudhary@mum.edu
+000-98-5731	Chaudhary	Manoj Kumar	MS CS CZ DE	1100100088738	mkchaudhary@mum.edu
+000-98-5731	Chaudhary	Manoj Kumar	MS CS NO CZ	1100100088738	mkchaudhary@mum.edu
+000-98-5104	Chaudhary	Mukesh	MS CS CZ DE	1100100082608	mchaudhary@mum.edu
+000-98-5300	Chaudhary	Roshan	MS CS CZ DE	1100100084950	rchaudhary@mum.edu
+000-98-5300	Chaudhary	Roshan	MS CS NO CZ	1100100084950	rchaudhary@mum.edu
+000-98-5299	Chaudhary	Shankalpa	MS CS CZ DE	1100100084455	shankalpachaudhary@mum.edu
+000-98-5177	Chaudhary	Sunil	MS CS CZ DE	1100100084547	schaudhary@mum.edu
+000-98-4125	Chaulagai	Ram Krishna	MS CS CZ DE	1100100070579	rkcbabu@gmail.com
+000-98-4697	Chaulagain	Sarmila	MS CS CZ DE	1100100078184	schaulagain@mum.edu
+000-98-5967	Chaulagain	Shreeram	MS CS NO CZ	1100100091559	shchaulagain@mum.edu
+000-98-4351	Chaurshiya	Anil Kumar	MS CS CZ DE	1100100073995	achaurshiya@mum.edu
+000-98-6008	Chav	Kimtey	MS CS NO CZ	1100100091336	kchav@mum.edu
+000-98-5630	Chea	Chanpiseth	MS CS CZ DE	1100100087441	cchea@mum.edu
+000-98-5630	Chea	Chanpiseth	MS CS NO CZ	1100100087441	cchea@mum.edu
+000-98-6206	Chebil	Sadok	MS CS NO CZ	1100100092896	schebil@mum.edu
+000-98-4367	Chekol	Kalkidan Ferede	MS CS CZ DE	1100100073888	promiseyet@gmail.com
+000-98-4393	Chen	Chu	MS CS CZ DE	1100100074662	cchen@mum.edu
+000-98-5398	Chen	Jing	MS CS CZ DE	1100100085478	jchen@mum.edu
+000-98-5398	Chen	Jing	MS CS NO CZ	1100100085478	jchen@mum.edu
+000-98-6007	Chen	Lei	MS CS NO CZ	1100100090254	leichen@mum.edu
+000-98-5339	Chen	Lin	MS CS CZ DE	1100100087359	lchen@mum.edu
+000-98-5339	Chen	Lin	MS CS NO CZ	1100100087359	lchen@mum.edu
+000-98-5839	Chen	Xin	MS CS CZ DE	1100100089496	xichen@mum.edu
+000-98-5839	Chen	Xin	MS CS NO CZ	1100100089496	xichen@mum.edu
+000-10-8228	Chernet	Matias	MS CS EXEC DE	1100100082046	matias.cherkos@gmail.com
+000-98-5421	Cheth	Sovichea	MS CS CZ DE	1100100085122	scheth@mum.edu
+000-98-5421	Cheth	Sovichea	MS CS NO CZ	1100100085122	scheth@mum.edu
+000-98-5714	Chhetri	Sumit	MS CS CZ DE	1100100088472	schhetri@mum.edu
+000-98-5714	Chhetri	Sumit	MS CS NO CZ	1100100088472	schhetri@mum.edu
+000-98-3836	Chhoeun	Aphiwad	MS CS CZ DE	1100100069589	achhoeun@mum.edu
+000-98-4146	Chichaybelu	Hiwot Fisseha	MS CS CZ DE	1100100071072	hiwot.fisseha@gmail.com
+000-98-5849	Chimed Ochir	Aldarkhangai	MS CS CZ DE	1100100090627	aochir@mum.edu
+000-98-5849	Chimed Ochir	Aldarkhangai	MS CS NO CZ	1100100090627	aochir@mum.edu
+000-98-6032	Chimedregzen	Jargalan	MS CS NO CZ	1100100091088	jchimedregzen@mum.edu
+000-98-4646	Chitrakar	Bibek	MS CS CZ DE	1100100078630	bibek.chitrakar@mum.edu
+000-98-5276	Chowdhury	Md Shahadat Hossain	MS CS CZ DE	1100100084604	mdchowdhury@mum.edu
+000-98-4034	Chowdhury	Md Shohrab Hossain	MS CS CZ DE	1100100070496	mshossain@mum.edu
+000-98-6396	Chuanyi	Huang	MS CS NO CZ	1100100094082	hchuanyi@mum.edu
+000-98-5239	Collo	Don Marius Anselmo	MS CS CZ DE	1100100084422	dcollo@mum.edu
+000-98-4870	Cong	Lin	MS CS CZ DE	1100100081253	lcong@mum.edu
+000-98-5880	Constante Avendano	Camilo Andres	MS CS CZ DE	1100100090445	cavendano@mum.edu
+000-98-5880	Constante Avendano	Camilo Andres	MS CS NO CZ	1100100090445	cavendano@mum.edu
+000-98-4899	Cui	Qi	MS CS CZ DE	1100100081220	qcui@mum.edu
+000-98-5796	Dabi	Yared Girma	MS CS CZ DE	1100100088779	ygirma@mum.edu
+000-98-5796	Dabi	Yared Girma	MS CS NO CZ	1100100088779	ygirma@mum.edu
+000-98-5397	Dahal	Nilam	MS CS CZ DE	1100100085114	ndahal@mum.edu
+000-98-5397	Dahal	Nilam	MS CS NO CZ	1100100085114	ndahal@mum.edu
+000-98-5254	Dahal	Santosh	MS CS CZ DE	1100100084281	sdahal@mum.edu
+000-98-4573	Dai	Cen	MS CS CZ DE	1100100075693	yartoo@163.com
+000-98-5613	Damesa	Tigist Desalegn	MS CS NO CZ	1100100091419	tdamesa@mum.edu
+000-98-5772	Damtew	Henok Elias	MS CS CZ DE	1100100088399	hedamtew@mum.edu
+000-98-5772	Damtew	Henok Elias	MS CS NO CZ	1100100088399	hedamtew@mum.edu
+000-98-4048	Dandarchuluun	Chinzorig	MS CS CZ DE	1100100082780	cdandarchuluun@mum.edu
+000-98-4048	Dandarchuluun	Chinzorig	MS CS NO CZ	1100100082780	cdandarchuluun@mum.edu
+000-98-4693	Dandarvanchig	Boldkhuu	MS CS CZ DE	1100100078200	d.boldkhuu@mum.edu
+000-98-5081	Danee	Vikash	MS CS CZ DE	1100100082293	danne@mum.edu
+000-98-4131	Dang	Tuan	MS CS CZ DE	1100100071023	dangtuan21@gmail.com
+000-98-5284	Dangal	Govinda	MS CS CZ DE	1100100084562	gdangal@mum.edu
+000-98-5284	Dangal	Govinda	MS CS NO CZ	1100100084562	gdangal@mum.edu
+000-98-4353	Dangol	Kiran	MS CS CZ DE	1100100073870	kirandangol7@hotmail.com
+000-98-4860	Dao	Manh Thuong Quan	MS CS CZ DE	1100100081345	qdao@mum.edu
+000-98-5033	Dargaso	Atnafu Abera	MS CS CZ DE	1100100082426	adargaso@mum.edu
+000-98-6130	Dashnyam	Otgondavaa	MS CS NO CZ	1100100091773	odashnyam@mum.edu
+000-98-5478	Data	Kibrewosen Demeke	MS CS NO CZ	1100100093852	kdata@mum.edu
+000-98-5628	Davaadorj	Sukhee	MS CS CZ DE	1100100087508	sdavaadorj@mum.edu
+000-98-5628	Davaadorj	Sukhee	MS CS NO CZ	1100100087508	sdavaadorj@mum.edu
+000-98-5863	Davaasuren	Amartuvshin	MS CS CZ DE	1100100090163	adavaasuren@mum.edu
+000-98-5863	Davaasuren	Amartuvshin	MS CS NO CZ	1100100090163	adavaasuren@mum.edu
+000-98-5966	Davaatseren	Khureltsooj	MS CS NO CZ	1100100090460	kdavaatseren@mum.edu
+000-98-5718	De Araujo E Sousa	Gustavo Henrique	MS CS CZ DE	1100100088654	ghsousa@mum.edu
+000-98-5718	De Araujo E Sousa	Gustavo Henrique	MS CS NO CZ	1100100088654	ghsousa@mum.edu
+000-98-5914	Debele	Abinet Tafa	MS CS NO CZ	1100100092458	adebele@mum.edu
+000-98-3727	Debelo	Bemnet	MS CS CZ DE	1100100068326	bemnet.debelo@gmail.com
+000-98-5057	Debesay	Seid Abdu	MS CS CZ DE	1100100082814	sadebesay@mum.edu
+000-98-5620	Debissa	Abenezer Alemayehu	MS CS CZ DE	1100100087482	adebissa@mum.edu
+000-98-5620	Debissa	Abenezer Alemayehu	MS CS NO CZ	1100100087482	adebissa@mum.edu
+000-98-5910	Deddah	Ely Cheikh	MS CS CZ DE	1100100089876	ededdah@mum.edu
+000-98-5910	Deddah	Ely Cheikh	MS CS NO CZ	1100100089876	ededdah@mum.edu
+000-98-5403	Deginetu	Kidist Endale	MS CS CZ DE	1100100084893	kdeginetu@mum.edu
+000-98-5403	Deginetu	Kidist Endale	MS CS NO CZ	1100100084893	kdeginetu@mum.edu
+000-98-3709	Delam	Nazanin	MS CS CZ DE	1100100068243	ndelam@mum.edu
+000-98-3765	Demessie	Atinkut	MS CS CZ DE	1100100068375	atinkut.demessie@gmail.com
+000-10-7288	Demessie	Teshome	MS CS EXEC DE	1100100058780	baro_chombe@yahoo.com
+000-98-5374	Demisse	Mahilet Asfaw	MS CS CZ DE	1100100085734	mdemisse@mum.edu
+000-98-5374	Demisse	Mahilet Asfaw	MS CS NO CZ	1100100085734	mdemisse@mum.edu
+000-98-5931	Demisse	Natnael Getachew	MS CS CZ DE	1100100090304	ndemisse@mum.edu
+000-98-5931	Demisse	Natnael Getachew	MS CS NO CZ	1100100090304	ndemisse@mum.edu
+000-98-4469	Demisse	Sinshaw Demere	MS CS CZ DE	1100100075867	sdemisse@mum.edu
+000-98-5442	Derso	Abreham Worku	MS CS CZ DE	1100100085015	aderso@mum.edu
+000-98-5442	Derso	Abreham Worku	MS CS NO CZ	1100100085015	aderso@mum.edu
+000-98-4425	Desar	Binay	MS CS CZ DE	1100100076980	bdesar@mum.edu
+000-98-4450	Deshar	Sagar	MS CS CZ DE	1100100076428	sdeshar@mum.edu
+000-98-5469	Dessie	Gedion Zewdu	MS CS CZ DE	1100100085262	gdessie@mum.edu
+000-98-5469	Dessie	Gedion Zewdu	MS CS NO CZ	1100100085262	gdessie@mum.edu
+000-98-4305	Desta	Rediet Girma	MS CS CZ DE	1100100072815	rdesta@mum.edu
+000-98-4976	Devkota	Achyut	MS CS CZ DE	1100100081824	adevkota@mum.edu
+000-98-5955	Dewan	Prabhab	MS CS NO CZ	1100100091112	pdewan@mum.edu
+000-98-4261	Dhakal	Binayak	MS CS CZ DE	1100100073540	bdhakal@mum.edu
+000-98-5236	Dhakal	Pramita	MS CS CZ DE	1100100084232	pdhakal@mum.edu
+000-98-5401	Dhakal	Ravindra	MS CS CZ DE	1100100085445	rdhakal@mum.edu
+000-98-5401	Dhakal	Ravindra	MS CS NO CZ	1100100085445	rdhakal@mum.edu
+000-98-4961	Dhakal	Sadiksha	MS CS CZ DE	1100100083051	sdhakal@mum.edu
+000-98-5894	Dhinoja	Nirav	MS CS NO CZ	1100100091427	ndhinoja@mum.edu
+000-10-8151	Dickson	Stewart	MS CS EXEC DE	1100100076022	sdickson@mum.edu
+000-10-8151	Dickson	Stewart	MS CS NO NO	1100100076022	sdickson@mum.edu
+000-98-4689	Dinaw	Michael Anbessei	MS CS CZ DE	1100100078572	mdinaw@mum.edu
+000-98-5970	Ding	Mingjie	MS CS NO CZ	1100100091328	mding@mum.edu
+000-98-5509	Dinh	Thanh Quoc	MS CS CZ DE	1100100087417	tdinh@mum.edu
+000-98-5509	Dinh	Thanh Quoc	MS CS NO CZ	1100100087417	tdinh@mum.edu
+000-98-5443	Dinh	Thi Luong	MS CS CZ DE	1100100085908	ldinh@mum.edu
+000-98-5443	Dinh	Thi Luong	MS CS NO CZ	1100100085908	ldinh@mum.edu
+000-98-6096	Do	Duc Cuong	MS CS NO CZ	1100100091211	ddo@mum.edu
+000-98-5813	Do	Trong Hieu	MS CS CZ DE	1100100089041	thdo@mum.edu
+000-98-5813	Do	Trong Hieu	MS CS NO CZ	1100100089041	thdo@mum.edu
+000-98-6018	Doan	Danh Dat	MS CS NO CZ	1100100093084	dddoan@mum.edu
+000-98-5844	Doan	Trung Quan	MS CS CZ DE	1100100089918	tdoan@mum.edu
+000-98-5844	Doan	Trung Quan	MS CS NO CZ	1100100089918	tdoan@mum.edu
+000-98-5724	Dondovdorj	Altangerel	MS CS CZ DE	1100100088621	adondovdorj@mum.edu
+000-98-5724	Dondovdorj	Altangerel	MS CS NO CZ	1100100088621	adondovdorj@mum.edu
+000-98-5158	Dong	Peng	MS CS CZ DE	1100100082160	neildong@gmail.com
+000-98-6016	Dong	Pham Hoang Vu	MS CS NO CZ	1100100091005	phvdong@mum.edu
+000-98-4405	Dongol	Renu	MS CS CZ DE	1100100077111	renu.dongol@mum.edu
+000-98-4160	Dongol	Rinju	MS CS CZ DE	1100100073789	rdongol@mum.edu
+000-98-4716	Dongol	Sanjay	MS CS CZ DE	1100100078507	sanjaydongol@mum.edu
+000-98-4971	Dongol	Siken Man Singh	MS CS CZ DE	1100100081360	ssingh@mum.edu
+000-98-4788	Dongol	Subin	MS CS CZ DE	1100100078085	sdongol@mum.edu
+000-98-5307	Dorjgotov	Batmunkh	MS CS CZ DE	1100100085429	bdorjgotov@mum.edu
+000-98-5307	Dorjgotov	Batmunkh	MS CS NO CZ	1100100085429	bdorjgotov@mum.edu
+000-98-3682	Dorjsuren	Dagmiddorj	MS CS CZ DE	1100100068169	ddagmiddorj@gmail.com
+000-98-5824	Dorjsuren	Yeruult	MS CS CZ DE	1100100088985	ydorjsuren@mum.edu
+000-98-5824	Dorjsuren	Yeruult	MS CS NO CZ	1100100088985	ydorjsuren@mum.edu
+000-98-6134	Dorjtseden	Myagmarbat	MS CS NO CZ	1100100092193	mdorjtseden@mum.edu
+000-98-4897	Dov	Chi Proeng	MS CS CZ DE	1100100081303	cdov@mum.edu
+000-98-4382	Duguma	Biruk Berhanu	MS CS CZ DE	1100100071932	birukbr99@gmail.com
+000-98-5199	Dula	Amanuel Kenna	MS CS CZ DE	1100100084372	adula@mum.edu
+000-98-4906	Dulal	Sandip	MS CS CZ DE	1100100081642	dulalsandip@gmail.com
+000-10-8882	Dulecha	Gizaw	BS CS NO NO	1100100091799	gdulecha@mum.edu
+000-98-4744	Dunque	Jose Marie Dela Cerna	MS CS CZ DE	1100100079323	jomar_dunque@yahoo.com
+000-98-5412	Duong	Viet Hung	MS CS CZ DE	1100100085007	vduong@mum.edu
+000-98-5412	Duong	Viet Hung	MS CS NO CZ	1100100085007	vduong@mum.edu
+000-98-6202	Dweikat	Ghaleb H G	MS CS NO CZ	1100100092870	gdweikat@mum.edu
+000-98-4641	EcheverryGranada	Rodrigo	MS CS CZ DE	1100100077806	rgranada@mum.edu
+000-98-5402	El Azhari	Mohamed	MS CS CZ DE	1100100087920	melazhari@mum.edu
+000-98-5402	El Azhari	Mohamed	MS CS NO CZ	1100100087920	melazhari@mum.edu
+000-98-4510	El Haj Sidi	Sidi Mohamed	MS CS CZ DE	1100100080636	ssidi@mum.edu
+000-98-3862	El Shahat	Mahmoud El Iraqi El M.	MS CS CZ DE	1100100069225	mahmoud.elshahat@outlook.com
+000-98-6282	El Turk	Jawad	MS CS NO CZ	1100100094165	jelturk@mum.edu
+000-98-6368	Elakhwas	Ayman Adel Abdelghany	MS CS NO CZ	1100100094603	aelakhwas@mum.edu
+000-10-8238	Elala	Fikreselam	MS CS EXEC DE	1100100079463	fcelala@mum.edu
+000-98-6422	Elawad	Khalid	MS CS NO CZ	1100100095667	khalid.ali@mum.edu
+000-98-5353	Elgendy	Marwan Waled Ahmed	MS CS CZ DE	1100100085213	melgendy@mum.edu
+000-98-5353	Elgendy	Marwan Waled Ahmed	MS CS NO CZ	1100100085213	melgendy@mum.edu
+000-98-4665	Elhagary	Amr Ahmed Ragab Khamis	MS CS CZ DE	1100100077764	aelhagary@mum.edu
+000-98-5302	Elkhouly	Mahmoud Mohamed Eldesouky	MS CS CZ DE	1100100083986	melkhouly@mum.edu
+000-98-6066	Ellis	Carlton Gershon	MS CS NO CZ	1100100091500	cellis@mum.edu
+000-98-4621	Elsayed	Ahmed	MS CS CZ DE	1100100084067	ah.jimmy@outlook.com
+000-98-5027	Elsayed	Ashraf Ezzat Mohamed	MS CS CZ DE	1100100082707	ashraf.main@gmail.com
+000-98-5136	Elsayed	Mohamed Ahmed Gharieb	MS CS CZ DE	1100100082723	mgharieb@mum.edu
+000-98-5130	Elshal	Asmaa Abdelfattah Abdelmonsef Mohamed	MS CS CZ DE	1100100082731	aelshal@mum.edu
+000-98-5071	Elturky	Mohamed Hosny Mohamed Ali	MS CS CZ DE	1100100082715	melturky@mum.edu
+000-98-3806	Endale	Yidnekachew	MS CS CZ DE	1100100068219	yidneca@yahoo.com
+000-98-5701	Erdenebat	Dorjpagma	MS CS CZ DE	1100100088605	derdenebat@mum.edu
+000-98-5701	Erdenebat	Dorjpagma	MS CS NO CZ	1100100088605	derdenebat@mum.edu
+000-98-6047	Erdenebat	Enkh Amgalan	MS CS NO CZ	1100100091054	eerdenebat@mum.edu
+000-98-6268	Erdenebat	Ganzorig	MS CS NO CZ	1100100093217	gerdenebat@mum.edu
+000-98-5670	Erdenepil	Erdenezaya	MS CS CZ DE	1100100088571	eerdenepil@mum.edu
+000-98-5670	Erdenepil	Erdenezaya	MS CS NO CZ	1100100088571	eerdenepil@mum.edu
+000-98-2421	Ergete	Nebiyou	MS CS CZ DE	1100100042552	NebiyouErgete@gmail.com
+000-98-5448	Eshete	Henok Bekele	MS CS CZ DE	1100100087896	heshete@mum.edu
+000-98-5448	Eshete	Henok Bekele	MS CS NO CZ	1100100087896	heshete@mum.edu
+000-98-5424	Eshetie	Gizachew Chanie	MS CS CZ DE	1100100087573	gceshetie@mum.edu
+000-98-5424	Eshetie	Gizachew Chanie	MS CS NO CZ	1100100087573	gceshetie@mum.edu
+000-10-7367	Essleman	Essleman	MS CS EXEC DE	1100100059945	MICOSALAS@GMAIL.COM
+000-98-2170	Ewnu	Yirgalem Dejen	MS CS CZ DE	1100100069019	yirgu15@gmail.com
+000-98-4958	Faddaoui	Abdelillah	MS CS CZ DE	1100100081493	afaddaoui@mum.edu
+000-98-5332	Faheem	Humaira	MS CS CZ DE	1100100084984	hfaheem@mum.edu
+000-98-5332	Faheem	Humaira	MS CS NO CZ	1100100084984	hfaheem@mum.edu
+000-98-5100	Fan	Rong	MS CS CZ DE	1100100082632	rfan@mum.edu
+000-10-8972	Fantaye	Yigermal	BS CS NO NO	1100100091898	yfantaye@mum.edu
+000-98-6220	Farida	Titin	MS CS NO CZ	1100100093316	tfarida@mum.edu
+000-98-6350	Farrag	Shadi Saeed Abdelfattah	MS CS NO CZ	1100100094389	sfarrag@mum.edu
+000-10-8875	Farren	Benjamin	BS CS NO NO	1100100092094	bfarren@mum.edu
+000-98-4288	Faruque	Md. Omar	MS CS CZ DE	1100100077004	mfaruque@mum.edu
+000-98-4904	Feng	Xiaoyang	MS CS CZ DE	1100100079042	xfeng@mum.edu
+000-98-5840	Feng	Yan	MS CS CZ DE	1100100089488	yafeng@mum.edu
+000-98-5840	Feng	Yan	MS CS NO CZ	1100100089488	yafeng@mum.edu
+000-98-4201	Fernández Saurith	Luis Sergio	MS CS CZ DE	1100100074274	lfernadez@mum.edu
+000-98-6162	Fernando	Kurukulasuriya Shamal Menuka	MS CS NO CZ	1100100093050	ksmfernando@mum.edu
+000-98-4266	Fetene	Abiyu Muluye	MS CS CZ DE	1100100075461	emailabiy@yahoo.com
+000-98-2078	Fetene	Eskinder	MS CS CZ DE	1100100038808	eskinder202@gmail.com
+000-98-4936	Feyissa	Addisu Mekonnen	MS CS CZ DE	1100100080974	amfeyissa@mum.edu
+000-10-0359	Finkelstein	Yeshayah	BS CS NO NO	1000001100359	yfinkelstein@mum.edu
+000-98-4178	Fouchimi Nvuh	Ousmane	MS CS CZ DE	1100100071171	ousmanefouchimi1990@gmail.com
+000-98-4143	Francis	Francis Joseph	MS CS CZ DE	1100100070918	cesc.joseph@gmail.com
+000-10-8771	Fufa	Lati	BS CS NO NO	1100100089074	lfufa@mum.edu
+000-98-5203	Gajurel	Manzil	MS CS CZ DE	1100100084117	mgajurel@mum.edu
+000-98-5877	Gakuba	Yvan	MS CS NO CZ	1100100093225	ygakuba@mum.edu
+000-98-6394	Galbadrakh	Bulgan	MS CS NO CZ	1100100094538	bgalbadrakh@mum.edu
+000-98-5719	Gallego Uribe	Gloria Maria	MS CS CZ DE	1100100088381	glomagaur@mum.edu
+000-98-5719	Gallego Uribe	Gloria Maria	MS CS NO CZ	1100100088381	glomagaur@mum.edu
+000-98-6222	Galsandorj	Enkhbayasgalan	MS CS NO CZ	1100100093613	egalsandorj@mum.edu
+000-98-5035	Gamini	Maysam	MS CS CZ DE	1100100082871	mgamini@mum.edu
+000-98-3919	Ganbaatar	Battsogt	MS CS CZ DE	1100100069290	bganbaatar@mum.edu
+000-98-4013	Ganbaatar	Boldtulga	MS CS CZ DE	1100100069407	boldtulgas@gmail.com
+000-98-3933	Ganbaatar	Enkhbayar	MS CS CZ DE	1100100071999	eganbaatar@mum.edu
+000-98-6250	Ganbat	Ganzorig	MS CS NO CZ	1100100093183	gganbat@mum.edu
+000-98-5727	Ganbat	Tamir	MS CS CZ DE	1100100090692	tganbat@mum.edu
+000-98-5727	Ganbat	Tamir	MS CS NO CZ	1100100090692	tganbat@mum.edu
+000-98-6027	Gao	Shang	MS CS NO CZ	1100100091237	sgao@mum.edu
+000-98-3133	Gara	Venu	MS CS CZ DE	1100100057618	venu6707@gmail.com
+000-98-4956	Garcia Gil	Ehudes Fernan	MS CS CZ DE	1100100080792	egarcia@mum.edu
+000-98-5909	Garg	Atul	MS CS NO CZ	1100100090387	agarg@mum.edu
+000-98-5221	Gaung	Min	MS CS CZ DE	1100100084208	mgaung@mum.edu
+000-98-4527	Gautam	Manoj	MS CS CZ DE	1100100076741	mgautam@mum.edu
+000-10-8598	Gde	Samuel	MS CS EXEC DE	1100100086070	sgde@mum.edu
+000-10-8598	Gde	Samuel	MS CS NO NO	1100100086070	sgde@mum.edu
+000-98-3952	Gebre	Equar Hishe	MS CS CZ DE	1100100069332	equarhishe@gmail.com
+000-98-5375	Gebreamlack	Befrdu Seifu	MS CS CZ DE	1100100084976	bgebreamlack@mum.edu
+000-98-5375	Gebreamlack	Befrdu Seifu	MS CS NO CZ	1100100084976	bgebreamlack@mum.edu
+000-98-4319	Gebreegziabher	Esayas Goitom	MS CS CZ DE	1100100087656	egebreegziabher@mum.edu
+000-98-4319	Gebreegziabher	Esayas Goitom	MS CS NO CZ	1100100087656	egebreegziabher@mum.edu
+000-98-6458	Gebrehanna	Eden Worku	MS CS NO CZ	1100100095618	egebrehanna@mum.edu
+000-10-8569	Gebrekirstos	Gebrekirstos	MS CS NO NO	1100100086088	ggebrekirstos@mum.edu
+000-98-5542	Gebremariam	Brhane Abrham	MS CS CZ DE	1100100088902	bagebremariam@mum.edu
+000-98-5542	Gebremariam	Brhane Abrham	MS CS NO CZ	1100100088902	bagebremariam@mum.edu
+000-98-3007	Gebremariam	Ephrem Berhe	MS CS CZ DE	1100100081154	eepphhrreemm@gmail.com
+000-98-4285	Gebremariam	Samson Alemayehu	MS CS CZ DE	1100100074043	includesami@gmail.com
+000-98-3784	Gebremariam	Tsega Woldu	MS CS CZ DE	1100100068193	gebremariam.tsega@gmail.com
+000-10-8415	Gebremedhin	Ekrame Worku	MS CS EXEC DE	1100100083655	egebremedhin@mum.edu
+000-10-7787	Gebremedhin	Mehert	MS CS EXEC DE	1000000107787	mehert88@gmail.com
+000-98-3837	Gebremelak	Gebremedhen Yebrehu	MS CS CZ DE	1100100090536	ggebremelak@mum.edu
+000-98-3837	Gebremelak	Gebremedhen Yebrehu	MS CS NO CZ	1100100090536	ggebremelak@mum.edu
+000-98-5705	Gebremenfes	Henok Yared	MS CS NO CZ	1100100090593	ggebremenfes@mum.edu
+000-10-8319	Gebremeskel	Ambasager	MS CS EXEC DE	1100100079638	ambestetemke@gmail.com
+000-98-6442	Gebremichael	Mussie Tekle	MS CS NO CZ	1100100095543	mgebremichael@mum.edu
+000-98-1880	Gebremichael	Robel	MS CS CZ DE	1100100034468	cyrusthenikon@yahoo.com
+000-10-8812	Gebrerufael	Selamawit	MS CS NO NO	1100100089215	sgebrerufael@mum.edu
+000-98-4504	Gebreselassie	Aberham Goitom	MS CS CZ DE	1100100077467	agebreselassie@mum.edu
+000-10-9030	Gebreselassie	Lominat	BS CS NO NO	1100100093795	lgebreselassie@mum.edu
+000-98-5098	Gebresenbet	Birhanu Alemu	MS CS CZ DE	1100100090783	birhanu2050@gmail.com
+000-98-5622	Gebreslase	Zaid Gebregergs	MS CS CZ DE	1100100087615	zgebreslase@mum.edu
+000-98-5622	Gebreslase	Zaid Gebregergs	MS CS NO CZ	1100100087615	zgebreslase@mum.edu
+000-98-5288	Gebreslassie	Hewan Gebrealief	MS CS CZ DE	1100100092813	hgebreslassie@mum.edu
+000-98-5288	Gebreslassie	Hewan Gebrealief	MS CS NO CZ	1100100092813	hgebreslassie@mum.edu
+000-10-7698	Gebrewahd	Tsegay	BS CS NO NO	1100100084828	tgebrewahd@mum.edu
+000-10-9142	Gebreyohannes	Merih	MS CS NO NO	1100100095477	mgebreyohannes@mum.edu
+000-10-8229	Gebrezgabhier	Akolom	MS CS EXEC DE	1100100079679	akolom.gebre@gmail.com
+000-98-4566	Gebrezgi	Mehari Zeraberuk	MS CS CZ DE	1100100077293	mehzera75@gmail.com
+000-98-3913	Gebru	Amanuel Kahsay	MS CS CZ DE	1100100085809	agebru@mum.edu
+000-98-3913	Gebru	Amanuel Kahsay	MS CS NO CZ	1100100085809	agebru@mum.edu
+000-98-5113	Gebru	Gebremedhn Mehari	MS CS CZ DE	1100100082830	geb.meh@gmail.com
+000-98-5896	Gebru	Zekariyas Kassa	MS CS NO CZ	1100100091534	zgebru@mum.edu
+000-10-8613	Gela	Nathan	MS CS NO NO	1100100086054	ngela@mum.edu
+000-98-3851	Gerelsaikhan	Tsengel	MS CS CZ DE	1100100068177	tsengel_gerelsaikhan@yahoo.com
+000-98-2341	Gerem	Tadele	MS CS CZ DE	1100100068342	tadmass@gmail.com
+000-98-2264	Getaneh	Fasika	MS CS CZ DE	1100100039749	fasika.getaneh@gmail.com
+000-98-5393	Gezahegn	Elias Taye	MS CS CZ DE	1100100085874	egezahegn@mum.edu
+000-98-5393	Gezahegn	Elias Taye	MS CS NO CZ	1100100085874	egezahegn@mum.edu
+000-98-5666	Ghale	Jamuna	MS CS CZ DE	1100100088753	jghale@mum.edu
+000-98-5666	Ghale	Jamuna	MS CS NO CZ	1100100088753	jghale@mum.edu
+000-98-6364	Gharib	Mohamed Elbeshir Abdellah	MS CS NO CZ	1100100094108	mgharib@mum.edu
+000-10-9181	Ghebreab	Merhawi	MS CS NO NO	1100100095485	mghebreab@mum.edu
+000-10-8445	Ghebregziabher	Mussie Kahsai	MS CS EXEC DE	1100100083671	mghebregziabher@mum.edu
+000-10-8445	Ghebregziabher	Mussie Kahsai	MS CS NO NO	1100100083671	mghebregziabher@mum.edu
+000-10-8152	Ghebremariam	Filmon	MS CS EXEC DE	1100100076204	scholafilmon@yahoo.com
+000-10-8227	Ghebremariam	Luwam	MS CS EXEC DE	1100100079786	lulialem@yahoo.com
+000-98-5292	Ghebrenegus	Adonai Solomon	MS CS CZ DE	1100100087821	aghebrenegus@mum.edu
+000-98-5292	Ghebrenegus	Adonai Solomon	MS CS NO CZ	1100100087821	aghebrenegus@mum.edu
+000-98-5378	Ghimire	Ashutosh	MS CS CZ DE	1100100085361	aghimire@mum.edu
+000-98-5378	Ghimire	Ashutosh	MS CS NO CZ	1100100085361	aghimire@mum.edu
+000-98-5365	Ghimire	Gyanendra	MS CS CZ DE	1100100085353	gghimire@mum.edu
+000-98-5365	Ghimire	Gyanendra	MS CS NO CZ	1100100085353	gghimire@mum.edu
+000-98-5338	Ghimire	Manoj	MS CS CZ DE	1100100084869	mghimire@mum.edu
+000-98-5338	Ghimire	Manoj	MS CS NO CZ	1100100084869	mghimire@mum.edu
+000-98-5277	Ghimire	Santosh Kumar	MS CS CZ DE	1100100085635	sghimire@mum.edu
+000-98-5277	Ghimire	Santosh Kumar	MS CS NO CZ	1100100085635	sghimire@mum.edu
+000-98-5354	Ghimire	Sushil	MS CS CZ DE	1100100085601	sughimire@mum.edu
+000-98-5354	Ghimire	Sushil	MS CS NO CZ	1100100085601	sughimire@mum.edu
+000-98-5217	Gibily	Mahmoud Salem Mohamed	MS CS CZ DE	1100100083952	mgibily@mum.edu
+000-98-5054	Gidey	Yonas Fisseha	MS CS CZ DE	1100100089827	yonasmy@gmail.com
+000-98-4481	Giri	Nuhendra Kumar	MS CS CZ DE	1100100076584	ngiri@mum.edu
+000-98-4720	Giri	Sagar	MS CS CZ DE	1100100078473	sgiri@mum.edu
+000-10-8512	Glasgow	Ryan	BS MATH NO NO	1100100086559	rglasgow@mum.edu
+000-98-4637	Godar	Anand	MS CS CZ DE	1100100078432	agodar@mum.edu
+000-10-9158	Goitom	Amanuel	MS CS NO NO	1100100095493	agoitom@mum.edu
+000-10-8448	Goitom	Feven Embaye	MS CS EXEC DE	1100100084737	egoitom@mum.edu
+000-10-8448	Goitom	Feven Embaye	MS CS NO NO	1100100084737	egoitom@mum.edu
+000-98-5126	Goshime	Yonatan Getachew	MS CS CZ DE	1100100082491	Yonatan.Getachew@aau.edu.et
+000-98-3875	Gouw	Hetty Aruswati	MS CS CZ DE	1100100070074	hetty.gouw@gmail.com
+000-98-5344	Goyal	Yashika	MS CS CZ DE	1100100085676	yagoyal@mum.edu
+000-98-5344	Goyal	Yashika	MS CS NO CZ	1100100085676	yagoyal@mum.edu
+000-98-4923	Goyal	Yogesh	MS CS CZ DE	1100100081394	ygoyal@mum.edu
+000-98-5961	Gu	Hong	MS CS NO CZ	1100100090130	ghong@mum.edu
+000-98-6286	Guan	Meng	MS CS NO CZ	1100100093530	mguan@mum.edu
+000-98-4502	Guan	Qin	MS CS CZ DE	1100100078267	qindotguan@gmail.com
+000-98-5327	Güleviz	Utku	MS CS CZ DE	1100100085403	uguleviz@mum.edu
+000-98-5327	Güleviz	Utku	MS CS NO CZ	1100100085403	uguleviz@mum.edu
+000-98-4500	Gummadidala	Srinivasa Rao	MS CS CZ DE	1100100076766	sgummadidala@mum.edu
+000-98-4980	Guo	Jianguo	MS CS CZ DE	1100100082152	jguo@mum.edu
+000-98-5762	Guo	Wenjie	MS CS CZ DE	1100100088928	wguo@mum.edu
+000-98-5762	Guo	Wenjie	MS CS NO CZ	1100100088928	wguo@mum.edu
+000-98-5633	Guo	Yong	MS CS CZ DE	1100100087672	yguo@mum.edu
+000-98-5633	Guo	Yong	MS CS NO CZ	1100100087672	yguo@mum.edu
+000-98-4999	Gupta	Ayush Kumar	MS CS CZ DE	1100100082244	ayush.gupta125@gmail.com
+000-98-4696	Gupta	Gautam Kumar	MS CS CZ DE	1100100077673	ggupta@mum.edu
+000-98-4412	Gurung	Binod	MS CS CZ DE	1100100076642	bgurung@mum.edu
+000-98-4487	Gurung	Kshitiz Jung	MS CS CZ DE	1100100076519	kshitiz.jung@gmail.com
+000-98-4816	Gurung	Sunil	MS CS CZ DE	1100100078465	sgurung@mum.edu
+000-98-6287	Gyawali	Saroj Sharma	MS CS NO CZ	1100100093282	ssgyawali@mum.edu
+000-98-5450	Ha	Thuy Hang	MS CS CZ DE	1100100085833	thangha@mum.edu
+000-98-5450	Ha	Thuy Hang	MS CS NO CZ	1100100085833	thangha@mum.edu
+000-98-5757	Ha	Thuy Hong	MS CS CZ DE	1100100088852	thha@mum.edu
+000-98-5757	Ha	Thuy Hong	MS CS NO CZ	1100100088852	thha@mum.edu
+000-98-3721	Habib	Md Ahasan	MS CS CZ DE	1100100068300	tosumon@gmail.com
+000-98-6148	Habibullaev	Farruh Zokirjon Ogli	MS CS NO CZ	1100100092748	fhabibullaev@mum.edu
+000-10-9184	Habte	Kibreab	BS CS NO NO	1100100095451	khabtre@mum.edu
+000-98-6166	Habte	Temesgen Atsbha	MS CS NO CZ	1100100093803	thabte@mum.edu
+000-98-3970	Habtemichael	Issac Netsereab	MS CS CZ DE	1100100084091	ihabtemichael@mum.edu
+000-10-8146	Habtetsion	Simona	MS CS EXEC DE	1100100081865	simonadebessai@gmail.com
+000-10-8779	Habteyes	Ameha	MS CS EXEC DE	1100100089264	ahabteyes@mum.edu
+000-10-8779	Habteyes	Ameha	MS CS NO NO	1100100089264	ahabteyes@mum.edu
+000-98-5371	Habtoul	Zied	MS CS NO CZ	1100100085023	zhabtoul@mum.edu
+000-10-9198	Haddish	Livan	MS CS NO NO	1100100095717	lhaddish@mum.edu
+000-10-9139	Hadgu	Melat	MS CS NO NO	1100100095592	mhadgu@mum.edu
+000-98-4922	Hadush	Friat Mehari	MS CS CZ DE	1100100081295	Fri4Adom@gmail.com
+000-98-5479	Hagos	Sirak Taddele	MS CS CZ DE	1100100087623	shagos@mum.edu
+000-98-5479	Hagos	Sirak Taddele	MS CS NO CZ	1100100087623	shagos@mum.edu
+000-98-4348	Hailai	Samuel Gebretnsae	MS CS CZ DE	1100100074464	samischola@gmail.com
+000-98-5414	Hailai	Winta Gebretnsae	MS CS CZ DE	1100100085767	whailai@mum.edu
+000-98-5414	Hailai	Winta Gebretnsae	MS CS NO CZ	1100100085767	whailai@mum.edu
+000-10-9200	Haile	Bealfan	MS CS NO NO	1100100095733	Bealfan.t@gmail.com
+000-98-5859	Haile	Bereket	MS CS NO CZ	1100100090122	bhaile@mum.edu
+000-98-3943	Haile	Hagos Bezabh	MS CS CZ DE	1100100081212	hagos.bezabh@gmail.com
+000-10-8614	Haile	Netsanet	MS CS NO NO	1100100086617	nhaile@mum.edu
+000-98-3917	Hailemariam	Weldekiros Gobezay	MS CS CZ DE	1100100069951	gweldish@gmail.com
+000-98-5142	Hailesslasea	Abel Abadi	MS CS CZ DE	1100100082665	aabadi@mum.edu
+000-10-8773	Haileyesus	Rahel	BS CS NO NO	1100100092003	rhaileyesus@mum.edu
+000-10-8772	Haileyesus	Yodit	BS CS NO NO	1100100091989	yhaileyesus@mum.edu
+000-98-4394	Hailu	Amanuel Gebrehawerya	MS CS CZ DE	1100100076170	ama.ghya@gmail.com
+000-98-5590	Hailu	Kalieb Gebreslasie	MS CS CZ DE	1100100088084	khailu@mum.edu
+000-98-5590	Hailu	Kalieb Gebreslasie	MS CS NO CZ	1100100088084	khailu@mum.edu
+000-10-8697	Hailu	Lwam	MS CS NO NO	1100100088050	lhailu@mum.edu
+000-98-4272	Hajja	Ahmad Mowaffaq Abd-Allah	MS CS CZ DE	1100100074167	heisenbergborn@gmail.com
+000-96-1577	Hamal	Praman	BS CS NO NO	1100100066395	phamal@mum.edu
+000-98-3891	Hamed	Islam Mohammad AatefShaker	MS CS CZ DE	1100100069357	imaatef@gmail.com
+000-98-6377	Hammad	Youssef Mohamed Samir Abdelkhalik	MS CS NO CZ	1100100094355	yhammad@mum.edu
+000-98-3615	Hamouda	Ahmed	MS CS CZ DE	1100100065157	ahmedibrahim313@msn.com
+000-98-6232	Han	Jiecheng	MS CS NO CZ	1100100093605	jhan@mum.edu
+000-98-4128	Hani	Ossama Shehata Sedki	MS CS CZ DE	1100100083978	ohani@mum.edu
+000-98-4446	Hannan	Md. Abdul	MS CS CZ DE	1100100081105	mahannan@mum.edu
+000-98-4962	Haregot	Mulu Birhane	MS CS CZ DE	1100100080891	mbirhane@mum.edu
+000-98-4129	Hasan	Md Adit	MS CS CZ DE	1100100070660	ahasan@mum.edu
+000-98-5015	Hasan	Najmul	MS CS CZ DE	1100100081097	nhasan@mum.edu
+000-98-3841	Hasan	Zahid	MS CS CZ DE	1100100068284	abstract.zahid@gmail.com
+000-98-4309	Hashemi	Seyyed Mojtaba	MS CS CZ DE	1100100077749	mhashemi@mum.edu
+000-98-5418	Hashkil	Aamal Samih Mahmoud Ahmed	MS CS CZ DE	1100100087516	ahashkil@mum.edu
+000-98-5418	Hashkil	Aamal Samih Mahmoud Ahmed	MS CS NO CZ	1100100087516	ahashkil@mum.edu
+000-98-4825	Hashkil	Mostafa Samih Mahmoud Ahmed	MS CS CZ DE	1100100078861	msameeh@mum.edu
+000-98-3810	Hassan	Wael	MS CS CZ DE	1100100068110	waeladelcs004@gmail.com
+000-98-5134	Hassen	Musema Abdlsemed	MS CS CZ DE	1100100082467	musema.hassen@gmail.com
+000-98-5416	Hassen	Ridwan Tahir	MS CS CZ DE	1100100084968	rhassen@mum.edu
+000-98-5416	Hassen	Ridwan Tahir	MS CS NO CZ	1100100084968	rhassen@mum.edu
+000-98-5409	Haye	Haye	MS CS CZ DE	1100100092763	hhaye@mum.edu
+000-98-5409	Haye	Haye	MS CS NO CZ	1100100092763	hhaye@mum.edu
+000-98-5246	HAYLU	Paulos Getachew	MS CS CZ DE	1100100084075	pgetachew@mum.edu
+000-98-6262	He	Mingwei	MS CS NO CZ	1100100092961	mhe@mum.edu
+000-98-6128	He	Shuling	MS CS NO CZ	1100100092060	she@mum.edu
+000-98-5860	Hegazy	Mohamed Moustafa Mohamed Saad	MS CS CZ DE	1100100090239	mhegazy@mum.edu
+000-98-5860	Hegazy	Mohamed Moustafa Mohamed Saad	MS CS NO CZ	1100100090239	mhegazy@mum.edu
+000-98-4179	Herppo	Gezahegn Shibru	MS CS CZ DE	1100100073730	gezchuchu@gmail.com
+000-98-6164	Heyi	Binyam Shiferaw	MS CS NO CZ	1100100093555	bsheyi@mum.edu
+000-98-4879	Hirutu	Tinbit Kassahun	MS CS CZ DE	1100100082012	tinbit1@gmail.com
+000-98-4571	Ho	Tai Huu	MS CS CZ DE	1100100075818	tho@mum.edu
+000-98-5551	Ho	Van Hieu	MS CS CZ DE	1100100087391	hho@mum.edu
+000-98-5551	Ho	Van Hieu	MS CS NO CZ	1100100087391	hho@mum.edu
+000-98-5855	Hoang	Dinh Phuong	MS CS CZ DE	1100100090361	dhoang@mum.edu
+000-98-5855	Hoang	Dinh Phuong	MS CS NO CZ	1100100090361	dhoang@mum.edu
+000-98-6023	Hoang	Vinh	MS CS NO CZ	1100100093860	hvtuong@mum.edu
+000-98-5845	Hoang	Vu Tuan	MS CS NO CZ	1100100090205	htuan@mum.edu
+000-98-5555	Hong	Leyou	MS CS CZ DE	1100100087458	lehong@mum.edu
+000-98-5555	Hong	Leyou	MS CS NO CZ	1100100087458	lehong@mum.edu
+000-98-4466	Hongwatcharasakun	Kanisorn	MS CS CZ DE	1100100076535	khongwatcharasakun@mum.edu
+000-98-3939	Hossain	Md Faruque	MS CS CZ DE	1100100069373	faruque.cse@gmail.com
+000-98-4675	Hossain	Md Mahabub	MS CS CZ DE	1100100076212	mmhossain@mum.edu
+000-98-4060	Hossain	Mohammad Khaled	MS CS CZ DE	1100100070850	khaled.bd@gmail.com
+000-96-1479	Huang	Chuang	MS CS CZ DE	1100100069977	huangchuang_lj@163.com
+000-98-4858	Huang	Wei	MS CS CZ DE	1100100078879	whuang@mum.edu
+000-98-4864	Hubac	Jennyfer Cabuguas	MS CS CZ DE	1100100080834	jennyferhubac@gmail.com
+000-98-6279	Hui	Xiubao	MS CS NO CZ	1100100093746	xhui@mum.edu
+000-98-4397	Huluka	Esayas Berhanu	MS CS CZ DE	1100100075859	ehuluka@mum.edu
+000-98-5987	Huo	Jiasen	MS CS CZ DE	1100100090270	jhuo@mum.edu
+000-98-5987	Huo	Jiasen	MS CS NO CZ	1100100090270	jhuo@mum.edu
+000-98-5645	Hussain	Waqas	MS CS CZ DE	1100100089082	wahussain@mum.edu
+000-98-5645	Hussain	Waqas	MS CS NO CZ	1100100089082	wahussain@mum.edu
+000-10-8118	Hussen	Esehak	BS CS NO NO	1100100075016	eshussen@mum.edu
+000-98-6151	Huynh	Huu Tam	MS CS NO CZ	1100100093092	hthuynh@mum.edu
+000-98-4850	Huynh	Long Quang	MS CS CZ DE	1100100080818	lhuynh@mum.edu
+000-98-6088	Ibanez Guevara	Jhonathan Alexander	MS CS NO CZ	1100100092565	jguevara@mum.edu
+000-98-6063	Ibrahim	Amr Ibrahim Shaker Elsayed Mohamed	MS CS NO CZ	1100100094371	aibrahim@mum.edu
+000-98-5128	Ibrahim	Hamada Metwalli Gabr	MS CS CZ DE	1100100082772	hibrahim@mum.edu
+000-98-4515	Ibrahim	Yehia Saad Mahmoud Ali	MS CS CZ DE	1100100077491	yibrahim@mum.edu
+000-98-5842	Ikhbayar	Sergelen	MS CS CZ DE	1100100088993	sikhbayar@mum.edu
+000-98-5842	Ikhbayar	Sergelen	MS CS NO CZ	1100100088993	sikhbayar@mum.edu
+000-98-4378	Il Grande Villegas	Ricardo Jose	MS CS CZ DE	1100100081907	rgrande@mum.edu
+000-98-4531	Imran	Muhammad	MS CS CZ DE	1100100075669	mimran@mum.edu
+000-98-3890	Ipel	Iqbal Mahmmud	MS CS CZ DE	1100100070835	ipelly.bd@gmail.com
+000-98-5231	Iqbal	Shehza	MS CS CZ DE	1100100084539	siqbal@mum.edu
+000-98-4150	Ishmatov	Rustam	MS CS CZ DE	1100100075735	rishmatol@mum.edu
+000-98-3898	Islam	Md Mojahidul	MS CS CZ DE	1100100069464	shahin.kuet@gmail.com
+000-98-4626	Islam	Md Monzurul	MS CS CZ DE	1100100077913	mislam@mum.edu
+000-98-4053	Islam	Md. Sadakul	MS CS CZ DE	1100100070868	sislam@mum.edu
+000-98-4036	Islam	Md. Zahidul	MS CS CZ DE	1100100070843	coolislam009@gmail.com
+000-98-4241	Islam	Mohammad Aminul	MS CS CZ DE	1100100075891	aminul.iub@gmail.com
+000-98-4764	Ismail	Abdulrehman	MS CS CZ DE	1100100079000	aismail@mum.edu
+000-98-6321	Isola	Oladipupo Oluwatosin	MS CS NO CZ	1100100094587	oisola@mum.edu
+000-98-4211	Izadi	Maryam	MS CS CZ DE	1100100074233	izadi_maryam@yahoo.com
+000-98-6315	Jahan	Samiul	MS CS NO CZ	1100100094090	sjahan@mum.edu
+000-98-4455	Jain	Achal	MS CS CZ DE	1100100076527	achalachal2003@gmail.com
+000-98-5785	Jain	Shivali	MS CS CZ DE	1100100090338	sjain@mum.edu
+000-98-5785	Jain	Shivali	MS CS NO CZ	1100100090338	sjain@mum.edu
+000-98-5454	Jamtsho	Sonam	MS CS CZ DE	1100100087763	sjamtsho@mum.edu
+000-98-5454	Jamtsho	Sonam	MS CS NO CZ	1100100087763	sjamtsho@mum.edu
+000-98-4987	JARSO	Natei Kebede	MS CS CZ DE	1100100085924	njarso@mum.edu
+000-98-4987	JARSO	Natei Kebede	MS CS NO CZ	1100100085924	njarso@mum.edu
+000-98-4165	Jayswal	Pramod Prasad	MS CS CZ DE	1100100070603	pjayswal@mum.edu
+000-98-6297	Jean Charles	Jean Chrisner	MS CS NO CZ	1100100094264	jjeancharles@mum.edu
+000-98-5272	Jha	Avinash Kumar	MS CS CZ DE	1100100084463	ajha@mum.edu
+000-98-5956	Jiang	Fangxiao	MS CS CZ DE	1100100090106	fjiang@mum.edu
+000-98-5956	Jiang	Fangxiao	MS CS NO CZ	1100100090106	fjiang@mum.edu
+000-98-5008	Jiao	Feng	MS CS CZ DE	1100100081055	fjiao@mum.edu
+000-98-5466	Jin	Ke	MS CS CZ DE	1100100085072	kejin@mum.edu
+000-98-5466	Jin	Ke	MS CS NO CZ	1100100085072	kejin@mum.edu
+000-98-6381	Jin	Yuliang	MS CS NO CZ	1100100094330	yjin@mum.edu
+000-98-4663	Jnawali	Surendra Bahadur	MS CS CZ DE	1100100078390	sjnawali@mum.edu
+000-10-8609	Johnstone	Ilse	BS CS NO NO	1100100086906	ijohnstone@mum.edu
+000-98-5491	Joshi	Rahul Kumar	MS CS CZ DE	1100100085882	rahuljoshi@mum.edu
+000-98-5491	Joshi	Rahul Kumar	MS CS NO CZ	1100100085882	rahuljoshi@mum.edu
+000-98-4158	Joshi	Sunil	MS CS CZ DE	1100100071056	sjoshi@mum.edu
+000-98-6092	Joya	David Andres Roncancio	MS CS NO CZ	1100100093423	darjoya@mum.edu
+000-98-6163	Judas	Tado	MS CS NO CZ	1100100092219	jtadeo@mum.edu
+000-98-6057	Julien	Stanley	MS CS NO CZ	1100100091021	sjulien@mum.edu
+000-10-8269	Justice	Kevin	BS CS NO NO	1100100079596	kjustice@mum.edu
+000-10-8269	Justice	Kevin	BS MATH NO NO	1100100079596	kjustice@mum.edu
+000-98-5434	K C	Akash	MS CS CZ DE	1100100085312	akashkc@mum.edu
+000-98-5434	K C	Akash	MS CS NO CZ	1100100085312	akashkc@mum.edu
+000-98-4593	K C	Anil	MS CS CZ DE	1100100077681	akc@mum.edu
+000-98-5303	K C	Deepak	MS CS CZ DE	1100100083911	dkc@mum.edu
+000-98-5532	K C	Krishna Hari	MS CS NO CZ	1100100091120	kkc@mum.edu
+000-98-5240	K C	Ramesh	MS CS CZ DE	1100100084851	rkc@mum.edu
+000-98-5240	K C	Ramesh	MS CS NO CZ	1100100084851	rkc@mum.edu
+000-98-6061	Kadangamage	Jeewan Mahendra Jayathilake	MS CS NO CZ	1100100093043	jmjkandangamage@mum.edu
+000-98-4314	Kafle	Ashok	MS CS CZ DE	1100100073649	akafle@mum.edu
+000-98-5501	Kafle	Bibash	MS CS CZ DE	1100100088092	bkafle@mum.edu
+000-98-5501	Kafle	Bibash	MS CS NO CZ	1100100088092	bkafle@mum.edu
+000-98-4323	Kahigiso	Muchika Jean	MS CS CZ DE	1100100073920	jkahigiso@gmail.com
+000-98-5120	Kahsay	Yergalem Gebretsadik	MS CS CZ DE	1100100082228	ykahsay@mum.edu
+000-10-8617	Kaleab	Michael	MS CS EXEC DE	1100100086062	mkaleab@mum.edu
+000-10-8617	Kaleab	Michael	MS CS NO NO	1100100086062	mkaleab@mum.edu
+000-98-4386	Kalmoush	Mokhtar	MS CS CZ DE	1100100074142	mkalmoush@mum.edu
+000-98-5936	Kalra	Ashish	MS CS NO CZ	1100100090411	akalra@mum.edu
+000-98-5596	Kandel	Ishwari Prasad	MS CS CZ DE	1100100088688	ikandel@mum.edu
+000-98-5596	Kandel	Ishwari Prasad	MS CS NO CZ	1100100088688	ikandel@mum.edu
+000-98-4096	Karan	Ramesh Kumar	MS CS CZ DE	1100100070553	rk.karn32@gmail.com
+000-98-4895	Karanjit	Nisha	MS CS CZ DE	1100100082517	nkaranjit@mum.edu
+000-98-5262	Kareem	Abdul	MS CS CZ DE	1100100085056	akareem@mum.edu
+000-98-5262	Kareem	Abdul	MS CS NO CZ	1100100085056	akareem@mum.edu
+000-98-5003	Karkee	Rikesh	MS CS CZ DE	1100100081774	rkarkee@mum.edu
+000-98-4642	Karki	Bibek	MS CS CZ DE	1100100078051	bkarki@mum.edu
+000-98-4769	Karki	Bidhut	MS CS CZ DE	1100100079166	bidhutkarki@mum.edu
+000-98-4138	Karki	Christina	MS CS CZ DE	1100100070785	karki.christina@gmail.com
+000-98-4802	Karki	Krishna	MS CS CZ DE	1100100079208	kkarki@mum.edu
+000-98-5992	Karki	Mafrel	MS CS NO CZ	1100100093506	mafrelkarki@mum.edu
+000-98-4259	Karki	Mahesh	MS CS CZ DE	1100100074423	mkarki@mum.edu
+000-98-5363	Karki	Manish	MS CS CZ DE	1100100085346	mkarki@mum.edu
+000-98-5363	Karki	Manish	MS CS NO CZ	1100100085346	mkarki@mum.edu
+000-98-4454	Karki	Sabin	MS CS CZ DE	1100100076626	nibaserc@gmail.com
+000-98-4706	Karki	Samir	MS CS CZ DE	1100100078556	samirkarki@mum.edu
+000-98-5295	Karki	Santosh	MS CS CZ DE	1100100084133	santoshkarki@mum.edu
+000-98-4996	Karki	Shree Raj	MS CS CZ DE	1100100081782	kshreeraj@mum.edu
+000-98-4927	Karki	Sobit	MS CS CZ DE	1100100082541	singlesobit09331@gmail.com
+000-98-5733	Karki	Suman	MS CS CZ DE	1100100088894	sumankarki@mum.edu
+000-98-5733	Karki	Suman	MS CS NO CZ	1100100088894	sumankarki@mum.edu
+000-98-5781	Karmacharya	Krishnaa	MS CS CZ DE	1100100090007	kkarmacharya@mum.edu
+000-98-5781	Karmacharya	Krishnaa	MS CS NO CZ	1100100090007	kkarmacharya@mum.edu
+000-98-4407	Karmacharya	Uttam Man	MS CS CZ DE	1100100077475	ukarmacharya@mum.edu
+000-98-4505	Karn	Dinesh Kumar	MS CS CZ DE	1100100077178	dkarn@mum.edu
+000-98-4104	Karn	Navin Kumar	MS CS CZ DE	1100100071247	navinkumarkarn@hotmail.com
+000-98-5973	Kassa	Ahmed Getachew	MS CS NO CZ	1100100094066	akassa@mum.edu
+000-10-7062	Kassahun	Getaneh Berhane	MS CS EXEC DE	1100100055497	getanehka@gmail.com
+000-98-5058	Kassahun	Solomon Emirie	MS CS CZ DE	1100100082087	solina94@yahoo.com
+000-98-4251	Kassie	Metages	MS CS CZ DE	1100100073722	metyfikir@gmail.com
+000-98-6334	Kateba	Innocent Mbulang'hulu	MS CS NO CZ	1100100094140	ikateba@mum.edu
+000-98-4471	Kaur	Chamanpreet	MS CS CZ DE	1100100076634	ckaur@mum.edu
+000-98-6053	Kaya	Ahmet Cem	MS CS NO CZ	1100100091724	akaya@mum.edu
+000-10-8147	Kebede	Haimanot	MS CS EXEC DE	1100100076774	haymanotdes@gmail.com
+000-98-5041	Kebede	Lina Felleke	MS CS CZ DE	1100100082889	nwlf53@gmail.com
+000-98-5882	Kebede	Mariamawit	MS CS CZ DE	1100100090049	mkebede@mum.edu
+000-98-5882	Kebede	Mariamawit	MS CS NO CZ	1100100090049	mkebede@mum.edu
+000-98-5649	Kebede	Yaphet Gobena	MS CS CZ DE	1100100089777	ygkebede@mum.edu
+000-98-5649	Kebede	Yaphet Gobena	MS CS NO CZ	1100100089777	ygkebede@mum.edu
+000-98-5702	Kelemewerk	DestalemTesfay	MS CS CZ DE	1100100088662	dtkelemewerk@mum.edu
+000-98-5702	Kelemewerk	DestalemTesfay	MS CS NO CZ	1100100088662	dtkelemewerk@mum.edu
+000-10-8153	Kem	Ketia	MS CS EXEC DE	1100100076139	kkem@mum.edu
+000-98-6468	Kflay	Samuel Efriem	MS CS NO CZ	1100100095527	skflay@mum.edu
+000-98-4362	Khadayat	Shailendra	MS CS CZ DE	1100100074191	shailesh_looks@hotmail.com
+000-98-5346	Khadgi	Deepshikha	MS CS CZ DE	1100100088936	dekhadgi@mum.edu
+000-98-5346	Khadgi	Deepshikha	MS CS NO CZ	1100100088936	dekhadgi@mum.edu
+000-98-4570	Khadka	Amrit	MS CS CZ DE	1100100080602	akhadka@mum.edu
+000-98-5386	Khadka	Devi Bahadur	MS CS CZ DE	1100100085619	dkhadka@mum.edu
+000-98-5386	Khadka	Devi Bahadur	MS CS NO CZ	1100100085619	dkhadka@mum.edu
+000-98-4318	Khadka	Rabi Chandra	MS CS CZ DE	1100100073904	rabikhadka@gmail.com
+000-98-6115	Khaimchig	Molomjamts	MS CS NO CZ	1100100091963	mkhaimchig@mum.edu
+000-98-6298	Khan	Aimal	MS CS NO CZ	1100100094314	ai.khan@mum.edu
+000-98-3762	Khan	Anum	MS CS CZ DE	1100100068482	engr__anum@hotmail.com
+000-98-4099	Khan	Md. Hasan Yousuf	MS CS CZ DE	1100100073615	infinityhasan@hotmail.com
+000-98-3604	Khan	Muhammad Aimal	MS CS CZ DE	1100100069514	aaimalkhan@hotmail.com
+000-98-5248	Khan	Sahib Zar	MS CS CZ DE	1100100083903	szarkhan@mum.edu
+000-98-5016	Khan	Sardar Wali	MS CS CZ DE	1100100082905	skhan@mum.edu
+000-98-4130	Khan	Sharif Hasan	MS CS CZ DE	1100100074506	sharifhasan.uiu@gmail.com
+000-98-4694	Khanal Poudel	Sunita	MS CS CZ DE	1100100089850	spoudel@mum.edu
+000-98-6359	Khaniya	Kiran	MS CS NO CZ	1100100094124	kkhaniya@mum.edu
+000-98-4857	Kharbuja	Pradip	MS CS CZ DE	1100100079174	pkharbuja@mum.edu
+000-98-5629	Khatanbaatar	Orgil	MS CS CZ DE	1100100088001	okhatanbaatar@mum.edu
+000-98-5629	Khatanbaatar	Orgil	MS CS NO CZ	1100100088001	okhatanbaatar@mum.edu
+000-98-2627	Khatiwada	Damodar	MS CS CZ DE	1100100084398	dkhatiwada@mum.edu
+000-98-5944	Khatiwada	Suman	MS CS NO CZ	1100100091971	skhatiwada@mum.edu
+000-98-4836	Khatri	Anup	MS CS CZ DE	1100100079133	akhatri@mum.edu
+000-98-5060	Khatri	Bijay	MS CS CZ DE	1100100083002	bkhatri@mum.edu
+000-98-4751	Khatri	Prithivi	MS CS CZ DE	1100100078952	pkhatri@mum.edu
+000-98-4729	Khatri	Sanjaya	MS CS CZ DE	1100100078598	skhatri@mum.edu
+000-98-5347	Khatri	Sanjeev	MS CS CZ DE	1100100085692	sakhatri@mum.edu
+000-98-5347	Khatri	Sanjeev	MS CS NO CZ	1100100085692	sakhatri@mum.edu
+000-98-4463	Khazaa'lah	Khaled Mohammad Hussein	MS CS CZ DE	1100100075768	khalid.khazaleh@yahoo.com
+000-98-5520	Khiev	Dora	MS CS CZ DE	1100100087433	dkhiev@mum.edu
+000-98-5520	Khiev	Dora	MS CS NO CZ	1100100087433	dkhiev@mum.edu
+000-98-5925	Khlok	Samphors	MS CS NO CZ	1100100090635	skhlok@mum.edu
+000-98-5063	Khojirakhimov	Mirodil	MS CS CZ DE	1100100082301	mkhojirakhimov@mum.edu
+000-98-5391	Khuong	Quoc Anh	MS CS CZ DE	1100100085304	akhuong@mum.edu
+000-98-5391	Khuong	Quoc Anh	MS CS NO CZ	1100100085304	akhuong@mum.edu
+000-98-6049	Khurelbat	Sodjamts	MS CS NO CZ	1100100091062	skhurelbat@mum.edu
+000-98-5810	Khurmyetbyek	Yerjan	MS CS CZ DE	1100100089165	ykhurmyetbyek@mum.edu
+000-98-5810	Khurmyetbyek	Yerjan	MS CS NO CZ	1100100089165	ykhurmyetbyek@mum.edu
+000-98-4686	Khusanov	Ulugbek	MS CS CZ DE	1100100082616	pcubeki@gmail.com
+000-98-4638	Khyaju	Bikram	MS CS CZ DE	1100100078341	bkhyaju@mum.edu
+000-10-8233	Kidane	Lidya	MS CS EXEC DE	1100100079604	lidimebrahtu@gmail.com
+000-98-6454	Kidane	Nigus Gebreegziabher	MS CS NO CZ	1100100095584	nkidane@mum.edu
+000-10-8814	Kidanemariam Yohannes	Rufael	MS CS NO NO	1100100084596	ryohannes@mum.edu
+000-98-5367	Kidanu	Sami Mulaw	MS CS CZ DE	1100100085783	skidanu@mum.edu
+000-98-5367	Kidanu	Sami Mulaw	MS CS NO CZ	1100100085783	skidanu@mum.edu
+000-98-5145	Kidanu	Tekeste Gebreanenia	MS CS CZ DE	1100100082673	tkidanu@mum.edu
+000-10-8589	Kifle	Daniel	MS CS EXEC DE	1100100086104	dkifle@mum.edu
+000-10-8589	Kifle	Daniel	MS CS NO NO	1100100086104	dkifle@mum.edu
+000-98-5861	Ko	Phyo Thinza	MS CS CZ DE	1100100090056	pko@mum.edu
+000-98-5861	Ko	Phyo Thinza	MS CS NO CZ	1100100090056	pko@mum.edu
+000-98-5599	Kodirov	Behzodbek Ilxomjonovich	MS CS CZ DE	1100100087987	bkodirov@mum.edu
+000-98-5599	Kodirov	Behzodbek Ilxomjonovich	MS CS NO CZ	1100100087987	bkodirov@mum.edu
+000-98-5473	Koffi	Koffi Henri Charles	MS CS CZ DE	1100100085585	kkoffi@mum.edu
+000-98-5473	Koffi	Koffi Henri Charles	MS CS NO CZ	1100100085585	kkoffi@mum.edu
+000-98-5540	Koirala	Niroj	MS CS CZ DE	1100100088696	nkoirala@mum.edu
+000-98-5540	Koirala	Niroj	MS CS NO CZ	1100100088696	nkoirala@mum.edu
+000-98-4796	Koirala	Yugal	MS CS CZ DE	1100100079380	ykoirala@mum.edu
+000-98-4008	Kong	Malin	MS CS CZ DE	1100100069613	marlinkong@yahoo.com
+000-98-3339	Kouotou Mefire	Ibrahim	MS CS CZ DE	1100100059572	imefire@gmail.com
+000-98-4883	Kshetri	Dharma Bahadur	MS CS CZ DE	1100100081741	dkshetri@mum.edu
+000-98-4774	Kubur	Abdullah Bashir	MS CS CZ DE	1100100079224	akubur@mum.edu
+000-98-6342	Kucharov	Ulugbek	MS CS NO CZ	1100100094074	ukucharov@mum.edu
+000-98-6021	Kulindwa	Aisha	MS CS CZ DE	1100100090353	akulindwa@mum.edu
+000-98-6021	Kulindwa	Aisha	MS CS NO CZ	1100100090353	akulindwa@mum.edu
+000-98-4334	Kumar	Arun	MS CS CZ DE	1100100073383	akumar@mum.edu
+000-98-6435	Kumar	Avenash	MS CS NO CZ	1100100095519	av.kumar@mum.edu
+000-98-4671	Kumar	Sachin	MS CS CZ DE	1100100077731	skumar@mum.edu
+000-98-5425	Kunwar	Bidur	MS CS CZ DE	1100100085205	bkunwar@mum.edu
+000-98-5425	Kunwar	Bidur	MS CS NO CZ	1100100085205	bkunwar@mum.edu
+000-98-4681	Kushwaha	Sachin	MS CS CZ DE	1100100078366	skushwaha@mum.edu
+000-98-5468	Kusi	Dipendra	MS CS CZ DE	1100100085031	dkusi@mum.edu
+000-98-5468	Kusi	Dipendra	MS CS NO CZ	1100100085031	dkusi@mum.edu
+000-98-5712	Kuthu	Eshan	MS CS CZ DE	1100100090676	ekuthu@mum.edu
+000-98-5712	Kuthu	Eshan	MS CS NO CZ	1100100090676	ekuthu@mum.edu
+000-98-5152	Ky	Piseth	MS CS CZ DE	1100100082756	kpiseth@mum.edu
+000-96-1722	Lai	Yee Rick	BS CS NO NO	1000000961722	ylai@mum.edu
+000-96-1722	Lai	Yee Rick	MS CS CZ DE	1000000961722	ylai@mum.edu
+000-96-1722	Lai	Yee Rick	MS CS NO CZ	1000000961722	ylai@mum.edu
+000-98-6135	Lai	Yujin	MS CS NO CZ	1100100092516	yujinlai@mum.edu
+000-98-4869	Lakhey	Sabanam	MS CS CZ DE	1100100079497	slakhey@mum.edu
+000-98-5518	Lam	Vinh Tuyen	MS CS CZ DE	1100100087706	vlam@mum.edu
+000-98-5518	Lam	Vinh Tuyen	MS CS NO CZ	1100100087706	vlam@mum.edu
+000-98-5464	Lama	Dipen	MS CS CZ DE	1100100085452	dlama@mum.edu
+000-98-5464	Lama	Dipen	MS CS NO CZ	1100100085452	dlama@mum.edu
+000-98-5256	Lama	Suman	MS CS CZ DE	1100100085379	sulama@mum.edu
+000-98-5256	Lama	Suman	MS CS NO CZ	1100100085379	sulama@mum.edu
+000-98-5426	Lama	Suraj	MS CS CZ DE	1100100085197	slama@mum.edu
+000-98-5426	Lama	Suraj	MS CS NO CZ	1100100085197	slama@mum.edu
+000-98-5462	Lamgade	Suresh Kumar	MS CS CZ DE	1100100085932	slamgade@mum.edu
+000-98-5462	Lamgade	Suresh Kumar	MS CS NO CZ	1100100085932	slamgade@mum.edu
+000-98-5524	Lamganjav	Myagmar Ochir	MS CS CZ DE	1100100087839	mlamganjav@mum.edu
+000-98-5524	Lamganjav	Myagmar Ochir	MS CS NO CZ	1100100087839	mlamganjav@mum.edu
+000-98-5323	Lamichhane	Surendra	MS CS CZ DE	1100100084406	slamichhane@mum.edu
+000-98-5069	Lan	Guangming	MS CS CZ DE	1100100082624	glan@mum.edu
+000-10-7900	Latt	Khin	MS CS EXEC DE	1100100069936	khinswelatt01@gmail.com
+000-98-4057	Laurito	Theresa Leah Edillon	MS CS CZ DE	1100100071379	tleah.laurito@gmail.com
+000-98-5024	Lavudi	Jaya Kumar	MS CS CZ DE	1100100082277	jlavudi@mum.edu
+000-98-3830	Lay	Hak	MS CS CZ DE	1100100068706	layhak5585@gmail.com
+000-98-6178	Le	Chanh Dao	MS CS NO CZ	1100100094249	cle@mum.edu
+000-98-5898	Le	Dam Hoang Vu	MS CS CZ DE	1100100089926	dhvle@mum.edu
+000-98-5898	Le	Dam Hoang Vu	MS CS NO CZ	1100100089926	dhvle@mum.edu
+000-98-4658	Le	Dung Thi Kim	MS CS CZ DE	1100100078028	dle@mum.edu
+000-98-6305	Le	Hoang Phuong	MS CS NO CZ	1100100094173	ho.le@mum.edu
+000-98-5519	Le	Huy	MS CS CZ DE	1100100087714	hle@mum.edu
+000-98-5519	Le	Huy	MS CS NO CZ	1100100087714	hle@mum.edu
+000-98-5696	Le	Nguyen Hoan Vu	MS CS CZ DE	1100100088647	nhvle@mum.edu
+000-98-5696	Le	Nguyen Hoan Vu	MS CS NO CZ	1100100088647	nhvle@mum.edu
+000-98-5119	Le	Tam Hoai	MS CS CZ DE	1100100084380	thle@mum.edu
+000-98-5119	Le	Tam Hoai	MS CS NO CZ	1100100084380	thle@mum.edu
+000-98-5668	Le	Thanh Huy	MS CS NO CZ	1100100092540	thanhhuyle@mum.edu
+000-98-5606	Le	Tien Thanh	MS CS CZ DE	1100100087771	tile@mum.edu
+000-98-5606	Le	Tien Thanh	MS CS NO CZ	1100100087771	tile@mum.edu
+000-10-8619	Leang	Chandara	MS CS NO NO	1100100085973	cleang@mum.edu
+000-98-5550	Legese	Berhanu Ababu	MS CS CZ DE	1100100088134	blegese@mum.edu
+000-98-5550	Legese	Berhanu Ababu	MS CS NO CZ	1100100088134	blegese@mum.edu
+000-98-5154	Lema	Oriyon Mengistu	MS CS CZ DE	1100100083473	olema@mum.edu
+000-98-3683	Lemma	Abel	MS CS CZ DE	1100100068425	mailtoabel@gmail.com
+000-98-5874	Lemma	Behailu Shewandagn	MS CS NO CZ	1100100093274	bslemma@mum.edu
+000-98-1168	Lemma	Sintayehu	MS CS CZ DE	1100100038675	slemma@mum.edu
+000-98-6242	Lemos	Natanael Tavares	MS CS NO CZ	1100100093241	ntlemos@mum.edu
+000-98-5632	Lencho	Segni Temesgen	MS CS CZ DE	1100100088100	slencho@mum.edu
+000-98-5632	Lencho	Segni Temesgen	MS CS NO CZ	1100100088100	slencho@mum.edu
+000-10-8389	Leulebirhan	Tsigereda	MS CS NO NO	1100100083440	tleulebirhan@mum.edu
+000-10-8002	Levi	Kevin	BS CS NO NO	1100100071684	kelevi@mum.edu
+000-10-8002	Levi	Kevin	MS CS NO NO	1100100071684	kelevi@mum.edu
+000-98-6275	Li	Chenglong	MS CS NO CZ	1100100093381	cli@mum.edu
+000-98-6000	Li	Fei	MS CS NO CZ	1100100092052	fli@mum.edu
+000-98-3960	Li	Hongming	MS CS CZ DE	1100100069654	hongmingli1988@gmail.com
+000-98-6451	Li	Wenqiang	MS CS NO CZ	1100100095675	wli@mum.edu
+000-98-5725	Li	Yangyang	MS CS CZ DE	1100100088530	yali@mum.edu
+000-98-5725	Li	Yangyang	MS CS NO CZ	1100100088530	yali@mum.edu
+000-98-6058	Liang	Ji	MS CS NO CZ	1100100091146	jliang@mum.edu
+000-98-4555	Liberta	Solomon Mezgebe	MS CS CZ DE	1100100078614	alwayssm@gmail.com
+000-98-4195	Libre	Leneth Gravador	MS CS CZ DE	1100100073946	llibre@mum.edu
+000-98-4707	Ligal	Saugat Man	MS CS CZ DE	1100100082053	sligal@mum.edu
+000-98-6005	Lima Costa	Rafael	MS CS CZ DE	1100100090262	rcosta@mum.edu
+000-98-6005	Lima Costa	Rafael	MS CS NO CZ	1100100090262	rcosta@mum.edu
+000-98-4821	Limbu	Nagendra	MS CS CZ DE	1100100081485	nlimbu@mum.edu
+000-98-5050	Limosnero	Pat Adrian	MS CS CZ DE	1100100082129	pat.adrian.limosnero@gmail.com
+000-98-5601	Liu	Bo	MS CS CZ DE	1100100087375	boliu@mum.edu
+000-98-5601	Liu	Bo	MS CS NO CZ	1100100087375	boliu@mum.edu
+000-98-6100	Liu	Shengri	MS CS NO CZ	1100100091575	sliu@mum.edu
+000-98-5070	Lkhamkhuu	Tsolmonkhuu	MS CS CZ DE	1100100082798	tlkhamkhuu@mum.edu
+000-98-4937	Loaiza Quintana	Andres Felipe	MS CS CZ DE	1100100081444	aloaiza@mum.edu
+000-98-4384	Lodamo	Yoseph Solomon	MS CS CZ DE	1100100085759	ylodamo@mum.edu
+000-98-4384	Lodamo	Yoseph Solomon	MS CS NO CZ	1100100085759	ylodamo@mum.edu
+000-98-5531	Loem	Khemroat	MS CS CZ DE	1100100085130	kloem@mum.edu
+000-98-5531	Loem	Khemroat	MS CS NO CZ	1100100085130	kloem@mum.edu
+000-98-4228	Lu	Yang	MS CS CZ DE	1100100073516	ylu@mum.edu
+000-98-5408	Luong	Dinh Tan	MS CS CZ DE	1100100085296	dluong@mum.edu
+000-98-5408	Luong	Dinh Tan	MS CS NO CZ	1100100085296	dluong@mum.edu
+000-98-5674	Lussich Rachetti	Diego Jose	MS CS CZ DE	1100100088431	dlussich@mum.edu
+000-98-5674	Lussich Rachetti	Diego Jose	MS CS NO CZ	1100100088431	dlussich@mum.edu
+000-98-5671	Ly	Ngoc Tram	MS CS NO CZ	1100100093308	ntly@mum.edu
+000-98-4546	Ly	Sovongsa	MS CS CZ DE	1100100076030	sly@mum.edu
+000-98-5975	Ma	Bo	MS CS NO CZ	1100100090098	bma@mum.edu
+000-98-4724	Ma	Cheng	MS CS CZ DE	1100100077822	chengma@mum.edu
+000-98-5005	Ma	Cong	MS CS CZ DE	1100100080941	cma@mum.edu
+000-98-5883	Ma	Jifeng	MS CS NO CZ	1100100090551	jma@mum.edu
+000-98-4867	Ma	Zhiqiang	MS CS CZ DE	1100100081451	zma@mum.edu
+000-98-3861	Mach	Cam	MS CS CZ DE	1100100068540	cammach84@gmail.com
+000-98-5333	Maddumage Don	Sujan Duminda	MS CS CZ DE	1100100085098	smaddumage@mum.edu
+000-98-5333	Maddumage Don	Sujan Duminda	MS CS NO CZ	1100100085098	smaddumage@mum.edu
+000-98-6366	Magar	Arun	MS CS NO CZ	1100100094132	amagar@mum.edu
+000-98-4868	Magharious	George Mohsen Ibrahim	MS CS CZ DE	1100100080933	gmagharious@mum.edu
+000-98-5660	Maha Badalge	Prageeth Nuwan Kumara	MS CS CZ DE	1100100088522	pkumara@mum.edu
+000-98-5660	Maha Badalge	Prageeth Nuwan Kumara	MS CS NO CZ	1100100088522	pkumara@mum.edu
+000-98-4831	Maharjan	Bikesh	MS CS CZ DE	1100100079026	bmaharjan@mum.edu
+000-98-4418	Maharjan	Bina	MS CS CZ DE	1100100076881	binamaharjan@mum.edu
+000-98-4092	Maharjan	Gyanu	MS CS CZ DE	1100100070462	gymaharjan@gmail.com
+000-98-4286	Maharjan	Minesh	MS CS CZ DE	1100100074381	m.minesh@live.com
+000-98-5552	Maharjan	Mukesh	MS CS CZ DE	1100100088670	mukeshmaharjan@mum.edu
+000-98-5552	Maharjan	Mukesh	MS CS NO CZ	1100100088670	mukeshmaharjan@mum.edu
+000-98-4521	Maharjan	Naresh	MS CS CZ DE	1100100077277	nmaharjan@mum.edu
+000-98-4773	Maharjan	Nikesh	MS CS CZ DE	1100100079190	nikeshmaharjan@mum.edu
+000-98-4599	Maharjan	Raj Kumar	MS CS CZ DE	1100100078135	rmaharjan@mum.edu
+000-98-5011	Maharjan	Rajiv	MS CS CZ DE	1100100081634	rajivmaharjan@mum.edu
+000-98-5011	Maharjan	Rajiv	MS CS NO CZ	1100100081634	rajivmaharjan@mum.edu
+000-98-6188	Maharjan	Rupendra	MS CS NO CZ	1100100093431	rumaharjan@mum.edu
+000-98-4506	Maharjan	Sachindra	MS CS CZ DE	1100100076105	sachindra.maharjan@mum.edu
+000-98-4526	Maharjan	Sajala	MS CS CZ DE	1100100077319	sajala.maharjan@mum.edu
+000-98-4330	Maharjan	Sajana	MS CS CZ DE	1100100073771	sajanamaharjan01@gmail.com
+000-98-6012	Maharjan	Samita	MS CS CZ DE	1100100089991	samitamaharjan@mum.edu
+000-98-6012	Maharjan	Samita	MS CS NO CZ	1100100089991	samitamaharjan@mum.edu
+000-98-4140	Maharjan	Sanjiv	MS CS CZ DE	1100100071304	sanjiv.maharjan1@gmail.com
+000-98-4656	Maharjan	Sujan	MS CS CZ DE	1100100078945	sujanmaharjan@mum.edu
+000-98-5194	Maharjan	Sumitra	MS CS CZ DE	1100100084240	sumitramaharjan42@gmail.com
+000-98-4711	Maharjan	Surendra	MS CS CZ DE	1100100078119	surendramaharjan@mum.edu
+000-98-5687	Maharjan	Sushan	MS CS CZ DE	1100100088720	sushanmaharjan@mum.edu
+000-98-5687	Maharjan	Sushan	MS CS NO CZ	1100100088720	sushanmaharjan@mum.edu
+000-98-5206	Mahaseth	Raushan Kumar	MS CS CZ DE	1100100085254	rmahaseth@mum.edu
+000-98-5206	Mahaseth	Raushan Kumar	MS CS NO CZ	1100100085254	rmahaseth@mum.edu
+000-98-4366	Mahato	Raz Narayan	MS CS CZ DE	1100100073417	rmahato@mum.edu
+000-98-5998	Mahmadin	Ramy Mohamed Saad	MS CS NO CZ	1100100091476	rmahmadin@mum.edu
+000-98-6036	Mahmud	Salahadin Yosuf	MS CS NO CZ	1100100095535	smahmud@mum.edu
+000-98-4336	Mahmud	Tanvir	MS CS CZ DE	1100100078663	tmahmud@mum.edu
+000-98-6196	Mai	Duy	MS CS NO CZ	1100100092912	dmai@mum.edu
+000-98-5640	Mainali	Pukar	MS CS CZ DE	1100100087649	pmainali@mum.edu
+000-98-5640	Mainali	Pukar	MS CS NO CZ	1100100087649	pmainali@mum.edu
+000-98-5153	Majoka	Anshul	MS CS CZ DE	1100100082590	amajoka@mum.edu
+000-98-5201	Makai	Bandeshor	MS CS CZ DE	1100100084034	bandeshor@gmail.com
+000-98-4062	Malalanayake	Dinuka Malinda Peiris	MS CS CZ DE	1100100071205	dinuka.malalanayake@gmail.com
+000-98-6270	Malas	Amer Majed Yasien	MS CS NO CZ	1100100093233	amymalas@mum.edu
+000-98-4612	Malik	Md. Taufiq Hasan	MS CS CZ DE	1100100078622	tmalik@mum.edu
+000-98-5972	Mambaryenchin	Gankhuyag	MS CS NO CZ	1100100090734	gmambarenchin@mum.edu
+000-98-4055	Mamo	Hailegebreal Kassa	MS CS CZ DE	1100100070512	haile.kassa.mamo@gmail.com
+000-98-4719	Manandhar	Adam	MS CS CZ DE	1100100077947	adam.manandhar@gmail.com
+000-98-4639	Manandhar	Prabesh	MS CS CZ DE	1100100077640	pmanandhar@mum.edu
+000-98-5819	Mancera Diaz	Alvaro	MS CS CZ DE	1100100088449	amancera@mum.edu
+000-98-5819	Mancera Diaz	Alvaro	MS CS NO CZ	1100100088449	amancera@mum.edu
+000-98-5061	Mandal	Rishikesh	MS CS CZ DE	1100100082681	rmandal@mum.edu
+000-98-4664	Manivannan	Vasanthbabu	MS CS CZ DE	1100100078093	vmanivannan@mum.edu
+000-98-4559	Mansour	Wael Refaat Roushdy	MS CS CZ DE	1100100075941	wmansour@mum.edu
+000-98-3422	Manthena	Sudha Lakshmi	MS CS CZ DE	1100100062493	sudha31.manthena@gmail.com
+000-98-4535	Mart	Orgilmaa	MS CS CZ DE	1100100077160	omart@mum.edu
+000-98-5858	Masamalo	John Lucas	MS CS NO CZ	1100100090528	jmasamalo@mum.edu
+000-98-5486	Masereka	Cleave	MS CS CZ DE	1100100087797	cmasereka@mum.edu
+000-98-5486	Masereka	Cleave	MS CS NO CZ	1100100087797	cmasereka@mum.edu
+000-98-5977	Maung	Ye	MS CS CZ DE	1100100090080	pmaung@mum.edu
+000-98-5977	Maung	Ye	MS CS NO CZ	1100100090080	pmaung@mum.edu
+000-98-5685	Mayoeurn	Narorm	MS CS CZ DE	1100100088829	nmayoeum@mum.edu
+000-98-5685	Mayoeurn	Narorm	MS CS NO CZ	1100100088829	nmayoeum@mum.edu
+000-98-4015	Mazengia	Benyam Fekadu	MS CS CZ DE	1100100070082	bfmazengia@gmail.com
+000-98-3985	Mazumder	Shahadat Hossain	MS CS CZ DE	1100100069548	shahadat.sust03@gmail.com
+000-98-6328	Mbiydzenyuy	Arthur Kamsu	MS CS NO CZ	1100100094157	ambiydzenyuy@mum.edu
+000-98-4909	Meach	Sokly	MS CS CZ DE	1100100081311	smeach@mum.edu
+000-10-8298	Meador	Sara	BS MATH NO NO	1100100090916	smeador@mum.edu
+000-10-9052	Mebrahtom	Bereket	MS CS NO NO	1100100092623	bmebrahtom@mum.edu
+000-98-4659	Medishetty	Rishi Kaushik	MS CS CZ DE	1100100078002	rishikaushik67@gmail.com
+000-98-2293	Mehmood	Tariq	MS CS CZ DE	1100100068441	tariqmehmood101@hotmail.com
+000-10-8161	Mekonnen	Kebede	MS CS CZ DE	1100100076857	kebeshiferaw@gmail.com
+000-10-8161	Mekonnen	Kebede	MS CS EXEC DE	1100100076857	kebeshiferaw@gmail.com
+000-10-8208	Mekonnen	Tamrue Shewandagnew	MS CS EXEC DE	1100100079588	tmekonnen@mum.edu
+000-10-8208	Mekonnen	Tamrue Shewandagnew	MS CS NO NO	1100100079588	tmekonnen@mum.edu
+000-98-4792	Mekuriaw	Asmamaw Lashitew	MS CS CZ DE	1100100088217	amekuriaw@mum.edu
+000-98-4792	Mekuriaw	Asmamaw Lashitew	MS CS NO CZ	1100100088217	amekuriaw@mum.edu
+000-10-9041	Melaku	Elsabeth	BS CS NO NO	1100100092029	efikre@mum.edu
+000-10-7782	Melashu	Tadiwos	MS CS EXEC DE	1100100066692	tadiwos21@yahoo.com
+000-10-8429	Meles	Solomon	BS CS NO NO	1100100083226	smeles@mum.edu
+000-98-6117	Mendez Corchuelo	Andres Alberto	MS CS NO CZ	1100100092086	acorchuelo@mum.edu
+000-10-8576	Mengesha	Fikru	MS CS EXEC DE	1100100086039	fmengesha@mum.edu
+000-10-8576	Mengesha	Fikru	MS CS NO NO	1100100086039	fmengesha@mum.edu
+000-10-8155	Mengistu	Yared	MS CS EXEC DE	1100100076311	yared.bezum@gmail.com
+000-98-6207	Mengjiao	Yang	MS CS NO CZ	1100100093357	ymengjiao@mum.edu
+000-98-5644	Mersha	Ayalew Getachew	MS CS CZ DE	1100100087938	amersha@mum.edu
+000-98-5644	Mersha	Ayalew Getachew	MS CS NO CZ	1100100087938	amersha@mum.edu
+000-98-5178	Mesa Guerra	Jhon Henry	MS CS CZ DE	1100100084109	jmesa@mum.edu
+000-10-8591	Meseganaw	Sewlesew	MS CS EXEC DE	1100100086120	smeseganaw@mum.edu
+000-10-8591	Meseganaw	Sewlesew	MS CS NO NO	1100100086120	smeseganaw@mum.edu
+000-98-6157	Mesfun	Miriam Woldu	MS CS NO CZ	1100100093654	mwmesfun@mum.edu
+000-98-6050	Mgani	Hildebrand Cellio Plasidus	MS CS NO CZ	1100100091302	hmgani@mum.edu
+000-96-2065	Miao	Shike	MS CS NO CZ	1100100089231	smiao@mum.edu
+000-10-8590	Micael	Henok	MS CS EXEC DE	1100100086138	hmicael@mum.edu
+000-10-8590	Micael	Henok	MS CS NO NO	1100100086138	hmicael@mum.edu
+000-98-6073	Michel	Wislet	MS CS NO CZ	1100100091179	wmichel@mum.edu
+000-98-5331	Miehiar	Laith Wa'el Saleh	MS CS CZ DE	1100100084844	lmiehiar@mum.edu
+000-98-5331	Miehiar	Laith Wa'el Saleh	MS CS NO CZ	1100100084844	lmiehiar@mum.edu
+000-98-2748	Mihreteab	Medhanie	MS CS CZ DE	1100100065389	medhanie@outlook.com
+000-98-3773	Mijigsengee	Uguudei	MS CS CZ DE	1100100068672	cshuree@gmail.com
+000-98-5579	Ming	Li	MS CS CZ DE	1100100088191	mili@mum.edu
+000-98-5579	Ming	Li	MS CS NO CZ	1100100088191	mili@mum.edu
+000-98-4337	Minjuur	Purevsuren	MS CS CZ DE	1100100077244	purevsuren.md@gmail.com
+000-98-6176	Minoria	Allan Keylord Racho	MS CS NO CZ	1100100093597	akrminoria@mum.edu
+000-10-8818	Misghina	Haben	MS CS NO NO	1100100089405	hmisghina@mum.edu
+000-98-4154	Modem	Devika	MS CS CZ DE	1100100071064	devika.520@gmail.com
+000-98-5143	Mohamed	Mahmoud Hassan Elnouby	MS CS CZ DE	1100100083754	mmohamed@mum.edu
+000-98-2256	Mohamed	Mohamed Elsayed Abdelghany	MS CS NO CZ	1100100093266	meamohamed@mum.edu
+000-98-6211	Mohamed	Sherif Shaaban Megahed	MS CS NO CZ	1100100093514	ssmmohamed@mum.edu
+000-98-3785	Mohamed	Yassmin Ali Tamim	MS CS CZ DE	1100100069860	jasmi1987@yahoo.com
+000-98-5897	Mohammadi	Mustafa	MS CS CZ DE	1100100090197	mmohammadi@mum.edu
+000-98-5897	Mohammadi	Mustafa	MS CS NO CZ	1100100090197	mmohammadi@mum.edu
+000-98-6084	Mohammed	Abdallah Ahmed Abdelaziz	MS CS NO CZ	1100100091468	amohammed@mum.edu
+000-98-5441	Mohammed	Abderhakim Muzemil	MS CS CZ DE	1100100085940	abmohammed@mum.edu
+000-98-5441	Mohammed	Abderhakim Muzemil	MS CS NO CZ	1100100085940	abmohammed@mum.edu
+000-98-1942	Mohammed	Abdulkerim	MS CS CZ DE	1100100042875	abdulkerimmohammed@hotmail.com
+000-98-4002	Mohammed	Fetiya Beshir	MS CS CZ DE	1100100074811	fetiyab@gmail.com
+000-98-4010	Mohammednur	Anwar Ibrahim	MS CS CZ DE	1100100069779	anwarcms@gmail.com
+000-10-8156	Mokria	Eyob	MS CS EXEC DE	1100100076196	eyob.mk@gmail.com
+000-98-3617	Molla	Amare	MS CS CZ DE	1100100064580	amtimolla@gmail.com
+000-98-4834	Mollick	Md Razib Uddin	MS CS CZ DE	1100100081410	rmollick@mum.edu
+000-98-4736	Moniruzaman	S M	MS CS CZ DE	1100100078333	smoniruzaman@mum.edu
+000-98-3340	Moshi	Daniel	MS CS CZ DE	1100100059101	dannye82@yahoo.com
+000-98-6450	Mossebo Kamdem	Alain Protais	MS CS NO CZ	1100100094512	amossebokamdem@mum.edu
+000-98-4805	Mostafiz	Navid	MS CS CZ DE	1100100078978	nmostafiz@mum.edu
+000-98-3792	Mostofa	Ferdous Ara	MS CS CZ DE	1100100069639	ferdous.mostofa1@gmail.com
+000-98-6261	Motawea	Sherif Mohamed Adel Saad Mohamed	MS CS NO CZ	1100100092953	smotawea@mum.edu
+000-98-4739	Mou	Jannatul Ferdous	MS CS CZ DE	1100100078911	jmou@mum.edu
+000-98-6278	Msabaha	Mrisho	MS CS NO CZ	1100100093365	mmsabaha@mum.edu
+000-98-3824	Muala	Bashar N.y.	MS CS CZ DE	1100100069845	bmuala987@gmail.com
+000-98-4950	Mulmi	Prajay	MS CS CZ DE	1100100081725	pmulmi@mum.edu
+000-98-3823	Munawar	Adeel	MS CS CZ DE	1100100068458	adeelmunawar80@hotmail.com
+000-98-4075	Muneye	Gizachew Gashaw	MS CS CZ DE	1100100070694	gizagashaw@gmail.com
+000-98-6277	Mung	Dalsian	MS CS NO CZ	1100100092995	dmung@mum.edu
+000-98-5884	Muriyesu	Ferdinand	MS CS NO CZ	1100100090601	fmuriyesu@mum.edu
+000-10-8973	Mustefa	Abdurahman	MS CS NO NO	1100100091872	ahmustefa@mum.edu
+000-10-8321	Mustefa	Sitrelah	MS CS EXEC DE	1100100082038	ssitrelah@yahoo.com
+000-98-5220	Myint	Ohn Mar	MS CS CZ DE	1100100084190	ommynt@mum.edu
+000-98-4050	Nagendirapillai	Amila	MS CS CZ DE	1100100070710	namila23@gmail.com
+000-98-5337	Nakarmi	Joseph	MS CS CZ DE	1100100085684	jnakarmi@mum.edu
+000-98-5337	Nakarmi	Joseph	MS CS NO CZ	1100100085684	jnakarmi@mum.edu
+000-98-5377	Nakarmi	Prem Krishna	MS CS CZ DE	1100100085320	pnakarmi@mum.edu
+000-98-5377	Nakarmi	Prem Krishna	MS CS NO CZ	1100100085320	pnakarmi@mum.edu
+000-98-5370	Nakarmi	Xitiz	MS CS CZ DE	1100100085726	xnakarmi@mum.edu
+000-98-5370	Nakarmi	Xitiz	MS CS NO CZ	1100100085726	xnakarmi@mum.edu
+000-98-4409	Naraghi	Setareh	MS CS CZ DE	1100100077335	snaraghi@mum.edu
+000-98-5691	Narkulov	Orifjon Odilovich	MS CS CZ DE	1100100088357	onarkulov@mum.edu
+000-98-5691	Narkulov	Orifjon Odilovich	MS CS NO CZ	1100100088357	onarkulov@mum.edu
+000-98-4380	Narmandakh	Tulga	MS CS CZ DE	1100100077418	tnarmandakh@mum.edu
+000-98-4911	Naveed	Muhammad	MS CS CZ DE	1100100081063	mnaveed@mum.edu
+000-98-4269	Nazareth	Michael Franz Ambalong	MS CS CZ DE	1100100074415	mnazareth@mum.edu
+000-98-5939	Ndenzi	Gilbert	MS CS CZ DE	1100100090643	gndenzi@mum.edu
+000-98-5939	Ndenzi	Gilbert	MS CS NO CZ	1100100090643	gndenzi@mum.edu
+000-10-9173	Nedi	Abel	BS CS NO NO	1100100095550	anedi@mum.edu
+000-98-4518	Nefzi	Wael	MS CS CZ DE	1100100075727	wnefzi@mum.edu
+000-98-3151	Nega	Betsu Melaku	MS CS CZ DE	1100100084356	bnega@mum.edu
+000-98-4556	Negasa	Issa Fikadu	MS CS CZ DE	1100100082350	memiwo@gmail.com
+000-10-8966	Negash	Molla	BS CS NO NO	1100100092441	mnegash@mum.edu
+000-98-3485	Negeri	Wagari Temesgen	MS CS CZ DE	1100100059804	wagari.negeri@gmail.com
+000-10-8886	Negga	Zinash	BS CS NO NO	1100100092367	znegga@mum.edu
+000-98-4985	Nembang	Ashish	MS CS CZ DE	1100100082400	anembang@mum.edu
+000-98-5040	Nepal	Bishal	MS CS CZ DE	1100100082947	bnepal@mum.edu
+000-98-4480	Nepali	Bishwajit	MS CS CZ DE	1100100076592	bnepali@mum.edu
+000-98-5116	Nepali	Dilip	MS CS CZ DE	1100100082939	dnepali@mum.edu
+000-98-5095	Nepali	Jivan	MS CS CZ DE	1100100082327	jnepali@mum.edu
+000-98-1894	Neria	Fisseha	MS CS CZ DE	1100100038642	nfisseha@hotmail.com
+000-10-8246	Nerisho	Seyoum	MS CS EXEC DE	1100100084679	snerisho@mum.edu
+000-98-5379	Neupane	Anita	MS CS CZ DE	1100100085718	aneupane@mum.edu
+000-98-5379	Neupane	Anita	MS CS NO CZ	1100100085718	aneupane@mum.edu
+000-98-5764	Neupane	Ashok	MS CS CZ DE	1100100088498	ashokneupane@mum.edu
+000-98-5764	Neupane	Ashok	MS CS NO CZ	1100100088498	ashokneupane@mum.edu
+000-98-5923	Neupane	Bimarsh	MS CS CZ DE	1100100090023	bneupane@mum.edu
+000-98-5923	Neupane	Bimarsh	MS CS NO CZ	1100100090023	bneupane@mum.edu
+000-98-5176	Neupane	Rajiv	MS CS CZ DE	1100100084166	rneupane@mum.edu
+000-98-4602	Neupane	Shyamu	MS CS CZ DE	1100100078127	shyamuneupane@mum.edu
+000-98-4492	Neupane	Sudarshan	MS CS CZ DE	1100100077459	sneupane@mum.edu
+000-98-5720	Neupane	Sulav	MS CS CZ DE	1100100088480	suneupane@mum.edu
+000-98-5720	Neupane	Sulav	MS CS NO CZ	1100100088480	suneupane@mum.edu
+000-98-4775	Nget	Daramony	MS CS CZ DE	1100100079083	dnget@mum.edu
+000-98-6153	Ngo	Huynh Nha Nam	MS CS NO CZ	1100100092888	hnnngo@mum.edu
+000-98-5869	Ngo	Tiep Tuyen	MS CS CZ DE	1100100090213	tngo@mum.edu
+000-98-5869	Ngo	Tiep Tuyen	MS CS NO CZ	1100100090213	tngo@mum.edu
+000-98-4141	Nguyen	An Quoc Duy	MS CS CZ DE	1100100071403	an.nguyenquocduy@gmail.com
+000-98-6175	Nguyen	Canh Chan	MS CS NO CZ	1100100093100	ccnguyen@mum.edu
+000-98-6085	Nguyen	Chau Ky	MS CS NO CZ	1100100091278	cknguyen@mum.edu
+000-98-5147	Nguyen	Chi Cuong	MS CS CZ DE	1100100085890	cnguyen@mum.edu
+000-98-5147	Nguyen	Chi Cuong	MS CS NO CZ	1100100085890	cnguyen@mum.edu
+000-98-3860	Nguyen	Dao	MS CS CZ DE	1100100068615	dnguyen@mum.edu
+000-98-5514	Nguyen	Dinh Hung	MS CS CZ DE	1100100087730	hdnguyen@mum.edu
+000-98-5514	Nguyen	Dinh Hung	MS CS NO CZ	1100100087730	hdnguyen@mum.edu
+000-98-4126	Nguyen	Duc Hoang	MS CS CZ DE	1100100071395	joogking@gmail.com
+000-98-4065	Nguyen	Duong Trong	MS CS CZ DE	1100100071189	trongduong1090@gmail.com
+000-98-6425	Nguyen	Hai Dang	MS CS NO CZ	1100100094561	ha.nguyen@mum.edu
+000-98-4735	Nguyen	Hiep Hoa	MS CS CZ DE	1100100078648	hnguyen@mum.edu
+000-98-5435	Nguyen	Hoai Duc	MS CS CZ DE	1100100090700	hoainguyen@mum.edu
+000-98-5435	Nguyen	Hoai Duc	MS CS NO CZ	1100100090700	hoainguyen@mum.edu
+000-98-5567	Nguyen	Hoang Anh	MS CS CZ DE	1100100087425	hanguyen@mum.edu
+000-98-5567	Nguyen	Hoang Anh	MS CS NO CZ	1100100087425	hanguyen@mum.edu
+000-98-5335	Nguyen	Hong An	MS CS CZ DE	1100100085593	an.nguyen@mum.edu
+000-98-5335	Nguyen	Hong An	MS CS NO CZ	1100100085593	an.nguyen@mum.edu
+000-98-4732	Nguyen	Khuong Ngoc	MS CS CZ DE	1100100077863	knguyen@mum.edu
+000-98-6177	Nguyen	Le Cat Vy	MS CS NO CZ	1100100093324	lcvnguyen@mum.edu
+000-98-5605	Nguyen	Le Hoang	MS CS CZ DE	1100100087698	lnguyen@mum.edu
+000-98-5605	Nguyen	Le Hoang	MS CS NO CZ	1100100087698	lnguyen@mum.edu
+000-98-5042	Nguyen	Lien Thi Phuong	MS CS CZ DE	1100100082459	lnguyen@mum.edu
+000-98-5890	Nguyen	Manh Cuong	MS CS CZ DE	1100100090189	mcnguyen@mum.edu
+000-98-5890	Nguyen	Manh Cuong	MS CS NO CZ	1100100090189	mcnguyen@mum.edu
+000-98-5949	Nguyen	Minh Hieu	MS CS CZ DE	1100100090395	mhnguyen@mum.edu
+000-98-5949	Nguyen	Minh Hieu	MS CS NO CZ	1100100090395	mhnguyen@mum.edu
+000-98-4702	Nguyen	Ngoc Thi Bich	MS CS CZ DE	1100100082913	nbngoc84@gmail.com
+000-98-4833	Nguyen	Nhat Huu	MS CS CZ DE	1100100078937	nguyenhuunhat.uit@gmail.com
+000-98-6172	Nguyen	Phan Trong Nhan	MS CS NO CZ	1100100093373	ptnnguyen@mum.edu
+000-98-5109	Nguyen	Phuong Duy	MS CS CZ DE	1100100082418	ndphuong.dcp@gmail.com
+000-98-5979	Nguyen	Quoc Lam	MS CS CZ DE	1100100089934	qlnguyen@mum.edu
+000-98-5979	Nguyen	Quoc Lam	MS CS NO CZ	1100100089934	qlnguyen@mum.edu
+000-98-6375	Nguyen	Quoc Nghiep	MS CS NO CZ	1100100094298	qnguyen@mum.edu
+000-98-5200	Nguyen	Sang Minh	MS CS CZ DE	1100100084471	snguyen@mum.edu
+000-98-4731	Nguyen	Tam Hoang	MS CS CZ DE	1100100078143	tnguyen@mum.edu
+000-98-6205	Nguyen	Tan Tho	MS CS NO CZ	1100100093175	tanthonguyen@mum.edu
+000-98-3707	Nguyen	Thanh	MS CS CZ DE	1100100066874	ncthanh.engineer@gmail.com
+000-98-4902	Nguyen	Thanh Tien	MS CS CZ DE	1100100082442	nguyentienthanh1988@gmail.com
+000-98-5791	Nguyen	Thanh Tri	MS CS CZ DE	1100100089900	thanhnguyen@mum.edu
+000-98-5791	Nguyen	Thanh Tri	MS CS NO CZ	1100100089900	thanhnguyen@mum.edu
+000-98-6124	Nguyen	Thien An	MS CS NO CZ	1100100091732	tanguyen@mum.edu
+000-98-6125	Nguyen	Trong Nghia	MS CS NO CZ	1100100093076	ntnguyen@mum.edu
+000-98-4033	Nguyen	Truong Tuan	MS CS CZ DE	1100100071239	tonynt@mum.edu
+000-98-6428	Nguyen	Tuan Anh	MS CS NO CZ	1100100094595	tu.nguyen@mum.edu
+000-98-5583	Nguyen	Tuan Nha	MS CS CZ DE	1100100087540	tunguyen@mum.edu
+000-98-5583	Nguyen	Tuan Nha	MS CS NO CZ	1100100087540	tunguyen@mum.edu
+000-98-6048	Nguyen	Van Gia Luat	MS CS NO CZ	1100100090981	vglnguyen@mum.edu
+000-98-6095	Nguyen	Van Ha	MS CS NO CZ	1100100090965	vhnguyen@mum.edu
+000-98-5912	Nguyen	Van Tiep	MS CS NO CZ	1100100090221	vtnguyen@mum.edu
+000-98-4941	Nguyen	Vinh Tuong	MS CS CZ DE	1100100081378	vnguyen@mum.edu
+000-98-5166	Nibret	Tarekegn Sisay	MS CS CZ DE	1100100090759	tarea2003@gmail.com
+000-98-5216	Nipa	Tania Shermeen	MS CS CZ DE	1100100084992	tnipa@mum.edu
+000-98-5216	Nipa	Tania Shermeen	MS CS NO CZ	1100100084992	tnipa@mum.edu
+000-98-5039	Niraula	Nischal	MS CS CZ DE	1100100082996	nischal_niraula@hotmail.com
+000-98-4992	Niroula	Amit	MS CS CZ DE	1100100081386	aniroula@mum.edu
+000-98-4589	Niroula	Subash	MS CS CZ DE	1100100078036	sniroula@mum.edu
+000-98-6332	Niu	Zhuang	MS CS NO CZ	1100100094280	zniu@mum.edu
+000-98-4806	Niyirora	Marie Claire	MS CS CZ DE	1100100079257	nclaire@mum.edu
+000-98-5006	Nogueira	Mauro Alexandre	MS CS CZ DE	1100100081501	mnogueira@mum.edu
+000-98-3854	Normatov	Ulugbek Ibragimovich	MS CS CZ DE	1100100069753	ulugbek.normatov@gmail.com
+000-98-4907	Norovgachil	Gansoronzon	MS CS CZ DE	1100100080800	gnorovgachil@mum.edu
+000-98-4403	Nsangou Moluh	Stephane Thierry	MS CS CZ DE	1100100077376	stephanemoluh@gmail.com
+000-98-6346	Nusair	Nesreen Monther Sari	MS CS NO CZ	1100100094496	nnusair@mum.edu
+000-98-5148	Nyaika	David	MS CS CZ DE	1100100083705	dnyaika@mum.edu
+000-98-5669	Nyamdavaa	Mandakh	MS CS NO CZ	1100100091450	mnaymdavaa@mum.edu
+000-98-3789	Nyamdeleg	Altanshagai	MS CS CZ DE	1100100068698	altanshagai.nyamdeleg@gmail.com
+000-98-3935	Nzayisenga	Jean Claude	MS CS CZ DE	1100100069480	claunz@gmail.com
+000-98-3187	Obaidat	Moh'd Rashed Shawkat Mohammad	MS CS CZ DE	1100100073847	mobaidat@mum.edu
+000-98-3500	Obiajunwa	Okechukwu	MS CS CZ DE	1100100064010	obiajunwaokechukwu@yahoo.com
+000-98-5597	Obidov	Sherali Zokirjon Ogli	MS CS CZ DE	1100100087979	sobidov@mum.edu
+000-98-5597	Obidov	Sherali Zokirjon Ogli	MS CS NO CZ	1100100087979	sobidov@mum.edu
+000-98-5266	Octura	Bien James Roque	MS CS CZ DE	1100100087722	boctura@mum.edu
+000-98-5266	Octura	Bien James Roque	MS CS NO CZ	1100100087722	boctura@mum.edu
+000-98-5090	Odeh	Ayman R A	MS CS CZ DE	1100100082319	aodeh@mum.edu
+000-98-4355	Odeh	Mahmoud S.M.	MS CS CZ DE	1100100074068	mahmoud.odeha@gmail.com
+000-98-6363	Odongerel	Bat Erdene	MS CS NO CZ	1100100094553	bodongerel@mum.edu
+000-98-5763	Ogrimen	Celeto	MS CS CZ DE	1100100088761	cogrimen@mum.edu
+000-98-5763	Ogrimen	Celeto	MS CS NO CZ	1100100088761	cogrimen@mum.edu
+000-98-5539	Okbaldet	Bizen Tsegai	MS CS CZ DE	1100100087953	bokbaldet@mum.edu
+000-98-5539	Okbaldet	Bizen Tsegai	MS CS NO CZ	1100100087953	bokbaldet@mum.edu
+000-98-6044	Okuku	Brian John	MS CS NO CZ	1100100093936	bjokuku@mum.edu
+000-98-6296	Oladapo	Segun Opeyemi	MS CS NO CZ	1100100094405	soladapo@mum.edu
+000-98-6341	Omar	Khaled Yousry Alsayed	MS CS NO CZ	1100100094215	komar@mum.edu
+000-98-6094	Osei Asibey	Rinkart Nana	MS CS NO CZ	1100100093399	rnoseiasibey@mum.edu
+000-10-8968	Otgonbaasan	Ikhbayar	BS CS NO NO	1100100092318	iotgonbaasan@mum.edu
+000-98-6031	Otiego	David Onyango	MS CS NO CZ	1100100091435	dotiego@mum.edu
+000-98-4414	Ouaaz	Ahmed Redouane	MS CS CZ DE	1100100075800	aouaaz@mum.edu
+000-98-5918	Oujeddi	Fatima	MS CS CZ DE	1100100093662	foujeddi@mum.edu
+000-98-5918	Oujeddi	Fatima	MS CS NO CZ	1100100093662	foujeddi@mum.edu
+000-98-6231	Oumar	Didi	MS CS NO CZ	1100100092938	doumar@mum.edu
+000-98-4859	Ouyang	Weiliang	MS CS CZ DE	1100100079158	wouyang@mum.edu
+000-98-5191	Owda	Awad A A	MS CS CZ DE	1100100087193	aowda@mum.edu
+000-98-3859	Oyunchimeg	Bilguun	MS CS CZ DE	1100100089744	bilguun0212@gmail.com
+000-98-4912	Palakurthi	Mihir	MS CS CZ DE	1100100079349	mpalakurthi@mum.edu
+000-98-3931	Palancica	Pavel	MS CS CZ DE	1100100069720	pavel.palancica@gmail.com
+000-98-4508	Pan	Chen	MS CS CZ DE	1100100075701	panchen_92@126.com
+000-98-6075	Pan	Sophoana	MS CS NO CZ	1100100091344	span@mum.edu
+000-98-6320	Panaberdiyev	Yerbol	MS CS NO CZ	1100100094207	ypanaberdiyev@mum.edu
+000-98-4636	Panchalingam	Pratheeban	MS CS CZ DE	1100100079240	ppanchalingam@mum.edu
+000-98-4299	Panchani	Ajaykumar Devrajbhai	MS CS CZ DE	1100100073912	apanchani@mum.edu
+000-98-4839	Panday	Chandra Prakash	MS CS CZ DE	1100100080537	cpanday@mum.edu
+000-98-5251	Pandey	Bharat	MS CS CZ DE	1100100084273	bpandey@mum.edu
+000-98-4667	Pandey	Dheeraj	MS CS CZ DE	1100100078374	dpandey@mum.edu
+000-98-3208	Pandey	Rabin	MS CS CZ DE	1100100055356	rabin1981@gmail.com
+000-98-4960	Pandey	Sagar Prasad	MS CS CZ DE	1100100081626	sagarpndee@gmail.com
+000-98-5215	Pandeya	Govinda	MS CS CZ DE	1100100084570	gpandeya@mum.edu
+000-98-3625	Pandia	Dedi	MS CS CZ DE	1100100064432	dedipandia@gmail.com
+000-98-5996	Pandit	Sarju	MS CS NO CZ	1100100093902	spandit@mum.edu
+000-98-4756	Pannu	Harpreet Singh	MS CS CZ DE	1100100079018	er.harpreetpannu@live.com
+000-98-5432	Pantha	Rabin	MS CS CZ DE	1100100085155	rpantha@mum.edu
+000-98-5432	Pantha	Rabin	MS CS NO CZ	1100100085155	rpantha@mum.edu
+000-98-4926	Panthi	Anish Prashad	MS CS CZ DE	1100100081717	anishpanthi@mum.edu
+000-98-4882	Papanna	Shankar	MS CS CZ DE	1100100081436	spapanna@mum.edu
+000-98-5387	Parajuli	Bimal	MS CS CZ DE	1100100085106	bparajuli@mum.edu
+000-98-5387	Parajuli	Bimal	MS CS NO CZ	1100100085106	bparajuli@mum.edu
+000-98-4851	Parkash	Ravi	MS CS CZ DE	1100100079299	rparkash18@gmail.com
+000-98-5799	Parsi Esfahani	Mohammad	MS CS CZ DE	1100100089819	pmohammad@mum.edu
+000-98-5799	Parsi Esfahani	Mohammad	MS CS NO CZ	1100100089819	pmohammad@mum.edu
+000-98-5662	Pashka	Amarbat	MS CS CZ DE	1100100088456	apashka@mum.edu
+000-98-5662	Pashka	Amarbat	MS CS NO CZ	1100100088456	apashka@mum.edu
+000-10-8600	Patel	Narayan	BS CS NO NO	1100100086799	npatel@mum.edu
+000-98-5296	Pathak	Deependra Raj	MS CS CZ DE	1100100083929	dpathak@mum.edu
+000-98-5114	Pathak	Ghanshyam	MS CS CZ DE	1100100082962	megspathak@gmail.com
+000-98-4317	Pathak	Rameshor	MS CS CZ DE	1100100074076	rmsor.pth02@gmail.com
+000-98-5366	Paudel	Bishal	MS CS CZ DE	1100100085528	bpaudel@mum.edu
+000-98-5366	Paudel	Bishal	MS CS NO CZ	1100100085528	bpaudel@mum.edu
+000-98-4678	Paudel	Sanjay	MS CS CZ DE	1100100077616	spaudel@mum.edu
+000-98-6119	Paudel	Sunil	MS CS NO CZ	1100100094421	su.paudel@mum.edu
+000-98-4931	Paudyal	Umesh	MS CS CZ DE	1100100082566	upaudyal@mumk.edu
+000-98-4800	Paudyal	Yogendra	MS CS CZ DE	1100100079265	yogendra.paudyal44@gmail.com
+000-10-9190	Paulos	Samuel	MS CS NO NO	1100100095626	spaulos@mum.edu
+000-98-4704	Pel	Sophanna	MS CS CZ DE	1100100077665	spel@mum.edu
+000-98-5675	Pen	Darith	MS CS CZ DE	1100100088837	dpen@mum.edu
+000-98-5675	Pen	Darith	MS CS NO CZ	1100100088837	dpen@mum.edu
+000-98-4588	Pham	Bao Tran Ngoc	MS CS CZ DE	1100100078242	bpham@mum.edu
+000-98-6161	Pham	Hung Tien	MS CS NO CZ	1100100093415	htpham@mum.edu
+000-98-6174	Pham	Ngoc Chinh	MS CS NO CZ	1100100092920	ncpham@mum.edu
+000-98-6038	Pham	Ngoc Duy	MS CS NO CZ	1100100090973	ndpham@mum.edu
+000-98-5267	Pham	Phuong Thi Thuy	MS CS CZ DE	1100100084638	ppham@mum.edu
+000-98-5267	Pham	Phuong Thi Thuy	MS CS NO CZ	1100100084638	ppham@mum.edu
+000-98-6004	Pham	Son Thai	MS CS CZ DE	1100100090320	spham@mum.edu
+000-98-6004	Pham	Son Thai	MS CS NO CZ	1100100090320	spham@mum.edu
+000-98-5340	Pham	Vinh Xuan	MS CS CZ DE	1100100084513	vpham@mum.edu
+000-98-3802	Pham	Vu	MS CS CZ DE	1100100068581	vuzaneri@gmail.com
+000-98-4953	Phan	Kieu Dung My	MS CS CZ DE	1100100084505	kphan@mum.edu
+000-98-6327	Phan	Thuy Van	MS CS NO CZ	1100100094579	tphan@mum.edu
+000-98-6169	Phan	Xuan Manh	MS CS NO CZ	1100100093118	xmphan@mum.edu
+000-98-5241	Phuel	Abinash	MS CS CZ DE	1100100085577	aphuel@mum.edu
+000-98-5241	Phuel	Abinash	MS CS NO CZ	1100100085577	aphuel@mum.edu
+000-98-5243	Pin	Vandet	MS CS CZ DE	1100100084000	vpin@mum.edu
+000-98-4865	Pineda	Victor Angelo Dar	MS CS CZ DE	1100100080966	vpineda@mum.edu
+000-98-4997	Ping	Chao	MS CS CZ DE	1100100081014	cping@mum.edu
+000-98-5876	Pinto Perazzo	Juan Pablo	MS CS CZ DE	1100100090437	jperazzo@mum.edu
+000-98-5876	Pinto Perazzo	Juan Pablo	MS CS NO CZ	1100100090437	jperazzo@mum.edu
+000-98-4051	Pirasanth	Balachandran	MS CS CZ DE	1100100070728	bpirasanth@gmail.com
+000-98-6208	Piroozan	Poorya	MS CS NO CZ	1100100092979	ppiroozan@mum.edu
+000-98-4703	Pit	Mark Makinn Perales	MS CS CZ DE	1100100078168	makinnpit@gmail.com
+000-98-5368	Piya	Rojan	MS CS NO CZ	1100100085189	projan@mum.edu
+000-98-3881	Plagata	Rhena Lelleen Ricaforte	MS CS CZ DE	1100100069910	rplagata@mum.edu
+000-98-4410	Pokharel	Ishwor	MS CS CZ DE	1100100081964	pokharelishwor@gmail.com
+000-98-4701	Pokharel	Simash	MS CS CZ DE	1100100077590	simashpokharel@mum.edu
+000-98-5545	Pokharel	Swoven	MS CS CZ DE	1100100086278	spokharel@mum.edu
+000-98-5545	Pokharel	Swoven	MS CS NO CZ	1100100086278	spokharel@mum.edu
+000-98-5280	Pokharel	Tika Raj	MS CS CZ DE	1100100084414	tpokharel@mum.edu
+000-98-4886	Pokharel	Yubraj	MS CS CZ DE	1100100081790	ypokharel@mum.edu
+000-98-4332	Pokhrel	Ranjan	MS CS CZ DE	1100100073391	ranzanpokhrel@gmail.com
+000-98-4524	Pokhrel	Roshan	MS CS CZ DE	1100100076501	pokhrelroshan@mum.edu
+000-98-4525	Pokhrel	Sameer	MS CS CZ DE	1100100076568	spokhrel@mum.edu
+000-98-3966	Pokhrel	Suman	MS CS CZ DE	1100100069746	suman0713@gmail.com
+000-98-5233	Pokhrel	Sushil	MS CS CZ DE	1100100084125	sushilpokhrel@mum.edu
+000-98-4145	Pokhrel	Tek Nath	MS CS CZ DE	1100100074134	tpokhrel@mum.edu
+000-98-3775	Pokhrel	Utsav	MS CS CZ DE	1100100068417	upokhrel@mum.edu
+000-98-5160	Pon	Sokmean	MS CS CZ DE	1100100082749	spon@mum.edu
+000-98-3757	Poorizadeh	Shekoofeh	MS CS CZ DE	1100100068789	poorizadeh@yahoo.com
+000-98-4818	Poudel	Aditya	MS CS CZ DE	1100100078895	apoudel@mum.edu
+000-98-4312	Poudel	Dharma Raj	MS CS CZ DE	1100100073524	dpoudel@mum.edu
+000-98-4512	Poudel	Hem Raj	MS CS CZ DE	1100100076907	hpoudel@mum.edu
+000-98-4713	Poudel	Prabhat	MS CS CZ DE	1100100081667	prabhat.poudl@gmail.com
+000-98-5734	Poudyal	Kshitij Chandra	MS CS CZ DE	1100100088464	kpoudyal@mum.edu
+000-98-5734	Poudyal	Kshitij Chandra	MS CS NO CZ	1100100088464	kpoudyal@mum.edu
+000-98-4350	Pradhan	Bikram	MS CS CZ DE	1100100073425	bpradhan@mum.edu
+000-98-5530	Pradhan	Krishman	MS CS CZ DE	1100100085643	kpradhan@mum.edu
+000-98-5530	Pradhan	Krishman	MS CS NO CZ	1100100085643	kpradhan@mum.edu
+000-98-4952	Pradhan	Sabin	MS CS CZ DE	1100100081683	spradhan@mum.edu
+000-98-4863	Pradhan	Sudeep	MS CS CZ DE	1100100082954	supradhan@mum.edu
+000-98-4984	Puri	Nabin	MS CS CZ DE	1100100082251	abiralyatri44@gmail.com
+000-98-6083	Puttappanavar	Geeta	MS CS NO CZ	1100100091526	gputtappanavar@mum.edu
+000-98-3695	Qaddoumi	Omar Mohammad Awni Wasfi	MS CS CZ DE	1100100069829	omarqaddoumi@gmail.com
+000-98-6383	Qaffaf	Asem Ali Mohammad	MS CS NO CZ	1100100094611	aqaffaf@mum.edu
+000-98-3538	Qaffaf	Mohammad	MS CS CZ DE	1100100062378	mohammad@qaffaf.com
+000-98-4660	Qamruzzaman	A K M	MS CS CZ DE	1100100080669	aqamruzzaman@mum.edu
+000-98-4799	Qu	Hongyan	MS CS CZ DE	1100100084315	hqu@mum.edu
+000-98-4058	Quach	Toan Chanh	MS CS CZ DE	1100100078564	toanquach@mum.edu
+000-98-5022	Rabbani	Fariba	MS CS CZ DE	1100100083077	fariba_mbi@yahoo.com
+000-98-5846	Rabin	June Andrew	MS CS CZ DE	1100100089975	jrabin@mum.edu
+000-98-5846	Rabin	June Andrew	MS CS NO CZ	1100100089975	jrabin@mum.edu
+000-98-5129	Rahaman	Md Mostafijur	MS CS CZ DE	1100100082848	mrahaman@mum.edu
+000-98-5129	Rahaman	Md Mostafijur	MS CS NO CZ	1100100082848	mrahaman@mum.edu
+000-98-5565	Rahimov	Ganijon	MS CS CZ DE	1100100087995	grahimov@mum.edu
+000-98-5565	Rahimov	Ganijon	MS CS NO CZ	1100100087995	grahimov@mum.edu
+000-98-4159	Rahman	Md Mizanur	MS CS CZ DE	1100100070678	mmizanur@mum.edu
+000-98-4088	Rahman	Mohammad Azizur	MS CS CZ DE	1100100070926	mrahman@mum.edu
+000-98-4077	Rahman	Mohammad Masudur	MS CS CZ DE	1100100074498	mmr.masum@gmail.com
+000-98-6112	Rai	Niwesh Chandra	MS CS NO CZ	1100100091443	ncrai@mum.edu
+000-98-6198	Rai	Prakash	MS CS NO CZ	1100100093449	prai@mum.edu
+000-98-4598	Rai	Yogen	MS CS CZ DE	1100100078440	yrai@mum.edu
+000-98-4668	Rajak	Regan	MS CS CZ DE	1100100077962	rrajak@mum.edu
+000-98-4604	Rajbanshi	Sanjit	MS CS CZ DE	1100100078416	srajbanshi@mum.edu
+000-98-5556	Rajkarnikar	Niva	MS CS CZ DE	1100100087342	nrajkarnikar@mum.edu
+000-98-5556	Rajkarnikar	Niva	MS CS NO CZ	1100100087342	nrajkarnikar@mum.edu
+000-98-4947	Rajthala	Ajit	MS CS CZ DE	1100100081675	arajthala@mum.edu
+000-98-3825	Rauniyar	Dipika	MS CS CZ DE	1100100071262	drauniyar@mum.edu
+000-98-4888	Rawal	Deepak	MS CS CZ DE	1100100083028	drawal@mum.edu
+000-98-3911	Rawashdeh	Zeina Muneib Mohammad	MS CS CZ DE	1100100069795	zrawashdeh@mum.edu
+000-98-4915	Rayamajhi	Aditya	MS CS CZ DE	1100100081113	arayamajhi@mum.edu
+000-98-2317	Redda	Grmahun Tsegaye	MS CS CZ DE	1100100082822	grmahun1@gmail.com
+000-10-8758	Redda	Semhal	BS CS NO NO	1100100089058	sredda@mum.edu
+000-98-5428	Regassa	Yeneakal Girma	MS CS CZ DE	1100100085288	yregassa@mum.edu
+000-98-5428	Regassa	Yeneakal Girma	MS CS NO CZ	1100100085288	yregassa@mum.edu
+000-98-4807	Regmi	Arjun Kumar	MS CS CZ DE	1100100078986	aregmi@mum.edu
+000-98-5268	Regmi	Bijay	MS CS CZ DE	1100100084935	bijayregmi@mum.edu
+000-98-5268	Regmi	Bijay	MS CS NO CZ	1100100084935	bijayregmi@mum.edu
+000-98-4983	Regmi	Mangal	MS CS CZ DE	1100100082921	mangalregmi@gmail.com
+000-98-4448	Riaz	Muhammad Tauseef	MS CS CZ DE	1100100077343	triaz@mum.edu
+000-98-5924	Rijal	Dipesh	MS CS CZ DE	1100100090015	drijal@mum.edu
+000-98-5924	Rijal	Dipesh	MS CS NO CZ	1100100090015	drijal@mum.edu
+000-98-4605	Rimal	Riwaj	MS CS CZ DE	1100100077798	rrimal@mum.edu
+000-98-4258	Risal	Deep	MS CS CZ DE	1100100074308	drisal@mum.edu
+000-98-4625	Rohozhnikov	Yevheniy	MS CS CZ DE	1100100078549	yevheniyrohozhnikov@gmail.com
+000-98-4582	Rony	Md Habibur Rahman	MS CS CZ DE	1100100077848	mrony@mum.edu
+000-10-7960	Rowe	Matthew	BS MATH NO NO	1100100071718	mrowe@mum.edu
+000-98-4734	Roy	Kamanashis	MS CS CZ DE	1100100077905	kroy@mum.edu
+000-98-4316	Rupakheti	Dharmaraj	MS CS CZ DE	1100100074092	dr.rupakheti@gmail.com
+000-98-6399	Rustembekov	Bakytzhan	MS CS NO CZ	1100100094652	brustembekov@mum.edu
+000-98-4590	Sachchithananthasivam	Mayurathan	MS CS CZ DE	1100100077996	machchchithananthasivam@mum.edu
+000-98-4714	Sadang	Jesus III	MS CS CZ DE	1100100078176	jegasa_21@yahoo.com
+000-98-5681	Saeed	Daniyal	MS CS CZ DE	1100100088415	dsaeed@mum.edu
+000-98-5681	Saeed	Daniyal	MS CS NO CZ	1100100088415	dsaeed@mum.edu
+000-98-5484	Safdar	Saifullah	MS CS CZ DE	1100100085171	ssafdar@mum.edu
+000-98-5484	Safdar	Saifullah	MS CS NO CZ	1100100085171	ssafdar@mum.edu
+000-98-4212	Sagar Nagaraj	Santosh	MS CS CZ DE	1100100073698	snagaraj@mum.edu
+000-98-5245	Sah	Binesh	MS CS CZ DE	1100100083945	bsah@mum.edu
+000-98-4725	Sah	Rabindra Prasad	MS CS CZ DE	1100100077855	rsah@mum.edu
+000-98-4957	Sakti	Martinus Wijaya	MS CS CZ DE	1100100081089	mwsakti@mum.edu
+000-98-4320	Saleeb	Michael Fayez Tawdrous	MS CS CZ DE	1100100074266	msaleeb@mum.edu
+000-98-4303	Saleeman	Saleeman Adedoyin	MS CS CZ DE	1100100073839	Saleemansaleeman@yahoo.com
+000-98-4662	Saleh	Khaled Samir Mohammed	MS CS CZ DE	1100100078291	ksaleh@mum.edu
+000-98-3522	Salman	Saed	MS CS CZ DE	1100100064523	saed.salman@live.com
+000-98-4790	Samaan	Maged Maher Botros	MS CS CZ DE	1100100079331	msamaan@mum.edu
+000-98-5853	Samand	Ochirkhuyag	MS CS CZ DE	1100100090874	osamand@mum.edu
+000-98-5853	Samand	Ochirkhuyag	MS CS NO CZ	1100100090874	osamand@mum.edu
+000-98-6369	Sambuu Yondon	Enkhbayar	MS CS NO CZ	1100100094397	esambuuyondon@mum.edu
+000-98-4577	Samy Mahmoud	Mohamed Raafat Ibrahim	MS CS CZ DE	1100100077814	msamy@mum.edu
+000-98-6022	Sanchez Agredo	Evelyn	MS CS NO CZ	1100100090148	eagredo@mum.edu
+000-98-3769	Sanidad	Jefferson	MS CS CZ DE	1100100073938	jsanidad@mum.edu
+000-98-5169	Sankarapu	Venkata Pavan Kumar	MS CS CZ DE	1100100088910	vpksankarapu@mum.edu
+000-98-5169	Sankarapu	Venkata Pavan Kumar	MS CS NO CZ	1100100088910	vpksankarapu@mum.edu
+000-98-4449	Sapkota	Amul	MS CS CZ DE	1100100075792	asapkota@mum.edu
+000-98-6051	Sapkota	Deepa	MS CS NO CZ	1100100093621	desapkota@mum.edu
+000-98-5715	Sapkota	Dinesh	MS CS CZ DE	1100100088506	dineshsapkota@mum.edu
+000-98-5715	Sapkota	Dinesh	MS CS NO CZ	1100100088506	dineshsapkota@mum.edu
+000-98-4930	Sapkota	Indra Prasad	MS CS CZ DE	1100100081766	ipsapkota@mum.edu
+000-98-5356	Sapkota	Ranjan	MS CS CZ DE	1100100085825	rsapkota@mum.edu
+000-98-5356	Sapkota	Ranjan	MS CS NO CZ	1100100085825	rsapkota@mum.edu
+000-98-4070	Sarker	Ujjal	MS CS CZ DE	1100100078317	usarker@mum.edu
+000-98-4301	Sattarov	Odiljon	MS CS CZ DE	1100100073979	osattarov@mum.edu
+000-98-4391	Savot	Dane	MS CS CZ DE	1100100078515	dnnddane@gmail.com
+000-98-4428	Say	Vortana	MS CS CZ DE	1100100076683	vsay@mum.edu
+000-98-6283	Sayed	Hazem Sayed Shokry	MS CS NO CZ	1100100094363	hsayed@mum.edu
+000-98-4280	Sayeed	Mohammad Miron Ibne	MS CS CZ DE	1100100077228	msayeed@mum.edu
+000-98-5926	Sean	Vichrak	MS CS CZ DE	1100100090296	vsean@mum.edu
+000-98-5926	Sean	Vichrak	MS CS NO CZ	1100100090296	vsean@mum.edu
+000-98-4474	Sedai	Sushil	MS CS CZ DE	1100100083879	ssedai@mum.edu
+000-98-3884	Seddik	Ahmed Gamaleldin Hassanain	MS CS CZ DE	1100100070090	a.g.bedier@gmail.com
+000-98-5760	Segura Jimenez	German Andres	MS CS CZ DE	1100100088423	gsegura@mum.edu
+000-98-5760	Segura Jimenez	German Andres	MS CS NO CZ	1100100088423	gsegura@mum.edu
+000-10-6991	Seid	Zekarias	MS CS EXEC DE	1100100054532	zach.k77@gmail.com
+000-98-5230	Sejawal	Bhesh Raj	MS CS CZ DE	1100100084174	bsejawal@mum.edu
+000-98-5768	Selem	Mohamed Mohamed Elsayed Ahmed	MS CS NO CZ	1100100093696	mselem@mum.edu
+000-98-5588	Sen Thakuri	Sameeksha	MS CS CZ DE	1100100087334	ssenthakuri@mum.edu
+000-98-5588	Sen Thakuri	Sameeksha	MS CS NO CZ	1100100087334	ssenthakuri@mum.edu
+000-98-4594	Setha	Sethon	MS CS CZ DE	1100100078531	ssetha@mum.edu
+000-98-5157	Setiawan	Febrianto	MS CS CZ DE	1100100082699	fsetiawan@mum.edu
+000-98-4614	Seung	Kuroun	MS CS CZ DE	1100100077939	kseung@mum.edu
+000-98-4832	Shaaban	Shadi Ali Hafez	MS CS CZ DE	1100100082897	sshaaban@mum.edu
+000-98-5103	Shah	Raj Kumar	MS CS CZ DE	1100100082095	rkumar@mum.edu
+000-98-4461	Shah	Suvash	MS CS CZ DE	1100100076618	sshah@mum.edu
+000-98-4579	Shahhat	Mohammed	MS CS CZ DE	1100100078283	mohammed.shahhat@hotmail.com
+000-98-5013	Shahi	Keshav	MS CS CZ DE	1100100081659	ksav.sai52@gmail.com
+000-98-5269	Shahi	Nabina	MS CS CZ DE	1100100084265	nshahi@mum.edu
+000-98-4215	Shaker Morkas	Rany Rafaat	MS CS CZ DE	1100100073953	Rany_Rafaat@hotmail.com
+000-98-4852	Shakya	Gunjan	MS CS CZ DE	1100100081121	gshakya@mum.edu
+000-98-4370	Shakya	Rejina	MS CS CZ DE	1100100074373	rshakya@mum.edu
+000-98-4733	Shalaby	Tarek Helmy Shalaby Omar	MS CS CZ DE	1100100079505	tshalaby@mum.edu
+000-98-3547	Sharif	Md. Haris	MS CS CZ DE	1100100065298	haris.uddin.sharif@gmail.com
+000-98-4910	Sharma	Bimal	MS CS CZ DE	1100100081030	asteriskbimal@gmail.com
+000-98-5723	Sharma	Ramesh	MS CS CZ DE	1100100088712	rsharma@mum.edu
+000-98-5723	Sharma	Ramesh	MS CS NO CZ	1100100088712	rsharma@mum.edu
+000-98-4645	Sharma Dahal	Prabin	MS CS CZ DE	1100100078457	pdahal@mum.edu
+000-98-4534	Sharma Regmi	Bipin	MS CS CZ DE	1100100077483	bregmi@mum.edu
+000-98-4966	Shaymanov	Dilshod	MS CS CZ DE	1100100081071	dshaymanov@mum.edu
+000-98-4925	Sheidaei Karambasti	Ali	MS CS CZ DE	1100100080909	asheidaei@mum.edu
+000-98-4516	Sheira	Akram Aiman Zein El-Abdein	MS CS CZ DE	1100100076485	asheira@mum.edu
+000-98-5477	Shibru	Biniam Wendmagegnehu	MS CS CZ DE	1100100087870	gcshibru@mum.edu
+000-98-5477	Shibru	Biniam Wendmagegnehu	MS CS NO CZ	1100100087870	gcshibru@mum.edu
+000-98-3868	Shiferaw	Fitsum	MS CS CZ DE	1100100067245	fitsumshiferaw1@gmail.com
+000-98-4451	Shrestha	Ajay	MS CS CZ DE	1100100076709	backcross50@gmail.com
+000-98-5078	Shrestha	Anish Man	MS CS CZ DE	1100100082285	anish.shrestha237@gmail.com
+000-98-4921	Shrestha	Bibek Lal	MS CS CZ DE	1100100081048	jujulalshrestha@gmail.com
+000-98-6367	Shrestha	Bijesh	MS CS NO CZ	1100100094256	bi.shrestha@mum.edu
+000-98-4499	Shrestha	Bipin	MS CS CZ DE	1100100077269	bipin.shrestha@mum.edu
+000-98-5186	Shrestha	Bishal	MS CS CZ DE	1100100084554	bishalshrestha@mum.edu
+000-98-5683	Shrestha	Deepa	MS CS CZ DE	1100100090924	deepashrestha@mum.edu
+000-98-5683	Shrestha	Deepa	MS CS NO CZ	1100100090924	deepashrestha@mum.edu
+000-98-4661	Shrestha	Deerghayu	MS CS CZ DE	1100100077954	dshrestha@mum.edu
+000-98-5002	Shrestha	Dipen Krishna	MS CS CZ DE	1100100081592	dkshrestha@mum.edu
+000-98-4541	Shrestha	Manoj	MS CS CZ DE	1100100076006	mshrestha@mum.edu
+000-98-5085	Shrestha	Nidina	MS CS CZ DE	1100100082970	nidinashr@gmail.com
+000-98-5427	Shrestha	Prajil	MS CS CZ DE	1100100085163	prshrestha@mum.edu
+000-98-5427	Shrestha	Prajil	MS CS NO CZ	1100100085163	prshrestha@mum.edu
+000-98-3735	Shrestha	Prasanna	MS CS CZ DE	1100100084588	prasannashrestha@mum.edu
+000-98-5765	Shrestha	Rabin	MS CS CZ DE	1100100088704	rabinshrestha@mum.edu
+000-98-5765	Shrestha	Rabin	MS CS NO CZ	1100100088704	rabinshrestha@mum.edu
+000-98-4884	Shrestha	Ramesh	MS CS CZ DE	1100100082525	ramshreshta@mum.edu
+000-98-4600	Shrestha	Rejina	MS CS CZ DE	1100100079109	rejinashrestha@mum.edu
+000-98-5087	Shrestha	Rusina	MS CS CZ DE	1100100084257	rusinashrestha@mum.edu
+000-98-5348	Shrestha	Sameer	MS CS CZ DE	1100100085700	sameershrestha@mum.edu
+000-98-5348	Shrestha	Sameer	MS CS NO CZ	1100100085700	sameershrestha@mum.edu
+000-98-4680	Shrestha	Samir	MS CS CZ DE	1100100077624	samirshrestha@mum.edu
+000-98-5445	Shrestha	Sanjaya	MS CS CZ DE	1100100085650	sanjayashrestha@mum.edu
+000-98-5445	Shrestha	Sanjaya	MS CS NO CZ	1100100085650	sanjayashrestha@mum.edu
+000-98-4970	Shrestha	Sanjeev	MS CS CZ DE	1100100081808	sanjeevshrestha2004@gmail.com
+000-98-5350	Shrestha	Sudhir	MS CS CZ DE	1100100085239	sushrestha@mum.edu
+000-98-5350	Shrestha	Sudhir	MS CS NO CZ	1100100085239	sushrestha@mum.edu
+000-98-5209	Shrestha	Sujan	MS CS CZ DE	1100100084018	sujanshrestha@mum.edu
+000-98-4171	Shrestha	Suraj	MS CS CZ DE	1100100074480	syraz@mum.edu
+000-98-4873	Shrestha	Suraj	MS CS CZ DE	1100100082558	sjshrestha@mum.edu
+000-98-4452	Shrestha	Upendra	MS CS CZ DE	1100100076162	ushrestha@mum.edu
+000-10-8460	Shumuye	Moges Adhena	MS CS EXEC DE	1100100083523	mshumuye@mum.edu
+000-98-5887	Shyegyebai	Argynbyek	MS CS NO CZ	1100100090312	ashyegyebai@mum.edu
+000-98-5459	Sigdel	Bhanu Bhakta	MS CS CZ DE	1100100090817	gcsigdel@mum.edu
+000-98-5459	Sigdel	Bhanu Bhakta	MS CS NO CZ	1100100090817	gcsigdel@mum.edu
+000-98-5396	Sigdel	Ramesh	MS CS CZ DE	1100100085569	rsigdel@mum.edu
+000-98-5396	Sigdel	Ramesh	MS CS NO CZ	1100100085569	rsigdel@mum.edu
+000-98-5362	Silwal	Manoj	MS CS CZ DE	1100100085841	msilwal@mum.edu
+000-98-5362	Silwal	Manoj	MS CS NO CZ	1100100085841	msilwal@mum.edu
+000-98-4622	Silwal	Pramit	MS CS CZ DE	1100100076337	pramitsilwal@gmail.com
+000-98-5007	Sima	Xutian	MS CS CZ DE	1100100090866	xsima@mum.edu
+000-98-5007	Sima	Xutian	MS CS NO CZ	1100100090866	xsima@mum.edu
+000-98-4416	Singh	Abhimanyu	MS CS CZ DE	1100100076048	asingh@mum.edu
+000-98-5460	Singh	Rabin	MS CS CZ DE	1100100085460	rsingh@mum.edu
+000-98-5460	Singh	Rabin	MS CS NO CZ	1100100085460	rsingh@mum.edu
+000-98-4896	Singh	Shailesh Kumar	MS CS CZ DE	1100100083895	rajsingh822014@gmail.com
+000-10-8980	Sinha	Kabir	BS MATH NO NO	1100100092037	ksinha@mum.edu
+000-98-4837	Siwakoti	Madan Krishna	MS CS CZ DE	1100100081170	mksiwakoti@mum.edu
+000-98-4043	Sodnomdorj	Amarbold	MS CS CZ DE	1100100071338	amarbolds@mum.edu
+000-98-6195	Sogbein	Mayowa Ajibola	MS CS NO CZ	1100100092946	masogbein@mum.edu
+000-98-3885	Soleimani	Somayeh	MS CS CZ DE	1100100070017	ssoleimani@mum.edu
+000-98-5297	Soliman	Muhammad Abdul Fattah Abdul Ati	MS CS CZ DE	1100100087904	gcsoliman@mum.edu
+000-98-5297	Soliman	Muhammad Abdul Fattah Abdul Ati	MS CS NO CZ	1100100087904	gcsoliman@mum.edu
+000-98-5623	Solomon	Million Gonte	MS CS CZ DE	1100100088126	gcsolomon@mum.edu
+000-98-5623	Solomon	Million Gonte	MS CS NO CZ	1100100088126	gcsolomon@mum.edu
+000-98-4390	Song	Jian	MS CS CZ DE	1100100073466	jsong@mum.edu
+000-98-5699	Sorri	Maereg Demeke	MS CS CZ DE	1100100088407	mdsorri@mum.edu
+000-98-5699	Sorri	Maereg Demeke	MS CS NO CZ	1100100088407	mdsorri@mum.edu
+000-98-6333	Srivastava	Arpita	MS CS NO CZ	1100100094660	ar.srivastava@mum.edu
+000-10-8435	Stambaugh	Dominick	BS MATH NO NO	1000000108435	dstambaugh@mum.edu
+000-98-4935	Su	Zhaoyang	MS CS CZ DE	1100100080867	zsu@mum.edu
+000-98-6352	Suarez Buitrago	Ezequiel	MS CS NO CZ	1100100094637	esuarezbuitrago@mum.edu
+000-98-5124	Suarez Buitrago	Tito Dinay	MS CS CZ DE	1100100082210	tbuitrago@mum.edu
+000-98-4610	Subedi	Ananda	MS CS CZ DE	1100100078754	asubedi@mum.edu
+000-98-4890	Subedi	Diwas	MS CS CZ DE	1100100082533	dsubedi@mum.edu
+000-98-4848	Subedi	Narayan	MS CS CZ DE	1100100085627	nasubedi@mum.edu
+000-98-4848	Subedi	Narayan	MS CS NO CZ	1100100085627	nasubedi@mum.edu
+000-98-4847	Subedi	Nirmal	MS CS CZ DE	1100100078887	nsubedi@mum.edu
+000-98-4374	Subedi	Pawan	MS CS CZ DE	1100100072559	pawan.subedi@gmail.com
+000-98-5709	Subedi	Rajesh	MS CS NO CZ	1100100091294	rsubedi@mum.edu
+000-98-5384	Subedi	Sabin	MS CS CZ DE	1100100085486	ssubedi@mum.edu
+000-98-5384	Subedi	Sabin	MS CS NO CZ	1100100085486	ssubedi@mum.edu
+000-98-4630	Subramaniam	Ranjith	MS CS CZ DE	1100100077988	ranjithsubramaniam@mum.edu
+000-98-4538	Sudhakar	Lakshmi	MS CS CZ DE	1100100080552	lsudhakar@mum.edu
+000-98-4609	Sumon	Nadim Md	MS CS CZ DE	1100100081428	nadim.sumon11@gmail.com
+000-98-6265	Sun	Ling	MS CS NO CZ	1100100093639	lingsun@mum.edu
+000-98-5515	Sun	Songtao	MS CS CZ DE	1100100087466	ssun@mum.edu
+000-98-5515	Sun	Songtao	MS CS NO CZ	1100100087466	ssun@mum.edu
+000-98-4722	Sun	TengFei	MS CS CZ DE	1100100077772	tsun@mum.edu
+000-98-4710	Surendran	Shruthi	MS CS CZ DE	1100100077707	ssurendran@mum.edu
+000-98-5309	Suwal	Anita	MS CS CZ DE	1100100084224	asuwal@mum.edu
+000-98-6020	Sy	Joel	MS CS NO CZ	1100100091252	jsy@mum.edu
+000-98-6056	Syrotkin	Dmytro	MS CS NO CZ	1100100091153	dsyrotkin@mum.edu
+000-98-3803	Tabibi	Ahmadreza	MS CS CZ DE	1100100069993	Ahmadreza.Tabibi@gmail.com
+000-98-5072	Taddese	Eyuel Shewarga	MS CS CZ DE	1100100082236	etaddese@mum.edu
+000-10-8327	Tadese	Frehiwot	BS CS NO NO	1100100080032	ftadese@mum.edu
+000-98-3456	Tadesse	Daniel	MS CS CZ DE	1100100062071	dannybox84@yahoo.com
+000-98-5140	Tadesse	Yohanes Teshome	MS CS CZ DE	1100100084083	ytadesse@mum.edu
+000-98-5140	Tadesse	Yohanes Teshome	MS CS NO CZ	1100100084083	ytadesse@mum.edu
+000-98-5571	Tadrous	Alber Gerges Shawky Mikhael	MS CS CZ DE	1100100087805	atadrous@mum.edu
+000-98-5571	Tadrous	Alber Gerges Shawky Mikhael	MS CS NO CZ	1100100087805	atadrous@mum.edu
+000-98-5383	Tamrakar	Rajeeb Kumar	MS CS CZ DE	1100100085510	rtamrakar@mum.edu
+000-98-5383	Tamrakar	Rajeeb Kumar	MS CS NO CZ	1100100085510	rtamrakar@mum.edu
+000-98-6229	Tanko	Edward Tuidjang	MS CS NO CZ	1100100093845	tetuidjang@mum.edu
+000-98-4482	Tanwar	Neeraj	MS CS CZ DE	1100100076329	vivian.florida@gmail.com
+000-98-5948	Tarekegn	Bertukan Yohannes	MS CS NO CZ	1100100093647	bytarekegn@mum.edu
+000-98-6290	Tassew	Amanuel Mulat	MS CS NO CZ	1100100093563	amtassew@mum.edu
+000-98-6189	Tawfik	Ahmed Medhat Hussein	MS CS NO CZ	1100100092045	atawfik@mum.edu
+000-98-4472	Tedla	Dagmawi Muluwork	MS CS CZ DE	1100100075917	dag00900@gmail.com
+000-98-3894	Tedla	Hawaz Tekle	MS CS CZ DE	1100100069944	hawazt@gmail.com
+000-98-4845	Tefera	Eyob Negussie	MS CS CZ DE	1100100080990	etefera@mum.edu
+000-10-9025	Tekie	Yaried Kidane	MS CS NO NO	1100100091401	yktekie@mum.edu
+000-10-8563	Tekle	Amanuel	MS CS EXEC DE	1100100086195	atekle@mum.edu
+000-10-8563	Tekle	Amanuel	MS CS NO NO	1100100086195	atekle@mum.edu
+000-10-8799	Teklezghi	Merhawi	MS CS NO NO	1100100089298	mera44@berkeley.edu
+000-98-2189	Temamme	Biniam	MS CS CZ DE	1100100038139	biniam.shewa@gmail.com
+000-98-5108	Teng	Tonghann	MS CS CZ DE	1100100082764	tteng@mum.edu
+000-98-4174	Tesfamariam	Tesfamariam G/Medhin	MS CS CZ DE	1100100077202	tesfamariamge@gmail.com
+000-10-8244	Tesfatsion	Bereket	MS CS EXEC DE	1100100079620	btesfatsion@mum.edu
+000-10-8565	Tesfaye	Ermias	MS CS EXEC DE	1100100086021	etesfaye@mum.edu
+000-10-8565	Tesfaye	Ermias	MS CS NO NO	1100100086021	etesfaye@mum.edu
+000-98-5870	Tesfazghi	Tomas Yosief	MS CS NO CZ	1100100090114	ttesfazghi@mum.edu
+000-98-3955	Teshome	Hailelul Lakew	MS CS CZ DE	1100100070595	haile_lak@yahoo.com
+000-98-3756	Tessema	Widist	MS CS CZ DE	1100100067112	wityye@gmail.com
+000-98-6039	Tewelde	Daniel	MS CS CZ DE	1100100090247	dtewelde@mum.edu
+000-98-6039	Tewelde	Daniel	MS CS NO CZ	1100100090247	dtewelde@mum.edu
+000-10-8459	Tewelde	Efrem Gebrekidan	MS CS EXEC DE	1100100083424	etewelde@mum.edu
+000-98-4986	Tewelde	Michael Afewerki	MS CS CZ DE	1100100081519	matewelde@mum.edu
+000-98-4420	Thapa	Bharat	MS CS CZ DE	1100100076378	bthapa@mum.edu
+000-98-4549	Thapa	Bigyan	MS CS CZ DE	1100100076758	bigyan.thapa@mum.edu
+000-98-4596	Thapa	Dipesh	MS CS CZ DE	1100100078424	dthapa@mum.edu
+000-98-4618	Thapa	Lok Bahadur	MS CS CZ DE	1100100078358	lthapa@mum.edu
+000-98-4752	Thapa	Parmeshwor	MS CS CZ DE	1100100079117	pthapa@mum.edu
+000-98-4633	Thapa	Sabina	MS CS CZ DE	1100100079398	sathapa@mum.edu
+000-98-3816	Thapa	Santosh	MS CS CZ DE	1100100071254	just4santosh@gmail.com
+000-98-4972	Thapa	Subash	MS CS CZ DE	1100100081618	subashthapa@mum.edu
+000-98-4477	Thapa	Sujan	MS CS CZ DE	1100100077699	sthapa@mum.edu
+000-98-4470	Thapa	Tilak	MS CS CZ DE	1100100076659	tthapa@mum.edu
+000-98-4498	Thapa Magar	Narendra	MS CS CZ DE	1100100077350	nmagar@mum.edu
+000-98-5395	Thapa Magar	Sunil	MS CS CZ DE	1100100085551	smagar@mum.edu
+000-98-5395	Thapa Magar	Sunil	MS CS NO CZ	1100100085551	smagar@mum.edu
+000-98-5088	Thapaliya	Suraj	MS CS CZ DE	1100100082269	sthapaliya@mum.edu
+000-98-4399	Thiruchittampalam	Sivashanker	MS CS CZ DE	1100100077251	sthiruchittampalam@mum.edu
+000-96-2008	Tibebu	Thomas	BS CS NO NO	1100100095683	ttibebu@mum.edu
+000-96-2008	Tibebu	Thomas	MS CS NO CZ	1100100095683	ttibebu@mum.edu
+000-98-4442	Tilahun	Ephrem Ashenafi	MS CS CZ DE	1100100077301	etilahun@mum.edu
+000-98-3901	Tilahun	Mistire Tesfaye	MS CS CZ DE	1100100069894	tesfayemissy@gmail.com
+000-98-5282	Timalsina	Amit	MS CS CZ DE	1100100085387	atimalsina@mum.edu
+000-98-5282	Timalsina	Amit	MS CS NO CZ	1100100085387	atimalsina@mum.edu
+000-98-4754	Timilsina	Nishan	MS CS CZ DE	1100100078960	ntimilsina@mum.edu
+000-98-6416	Timotin	Ion	MS CS NO CZ	1100100094348	itimotin@mum.edu
+000-98-5653	Tinga	Saint Paul	MS CS CZ DE	1100100090726	stinga@mum.edu
+000-98-5653	Tinga	Saint Paul	MS CS NO CZ	1100100090726	stinga@mum.edu
+000-98-4597	Tiwari	Apil	MS CS CZ DE	1100100078069	atiwari@mum.edu
+000-98-5507	Toledo dos Santos Costa	David	MS CS CZ DE	1100100087367	dtoledodossantoscosta@mum.edu
+000-98-5507	Toledo dos Santos Costa	David	MS CS NO CZ	1100100087367	dtoledodossantoscosta@mum.edu
+000-10-8780	Tollosa	Meron	MS CS NO NO	1100100089256	mtollosa@mum.edu
+000-98-5167	Torky	Mahmoud Sayed Saad Mohamed	MS CS CZ DE	1100100087631	mtorky@mum.edu
+000-98-5167	Torky	Mahmoud Sayed Saad Mohamed	MS CS NO CZ	1100100087631	mtorky@mum.edu
+000-10-8504	Torres	Dustin	BS MATH NO NO	1100100086831	dtorres@mum.edu
+000-98-4203	Tourani	Sanjay	MS CS CZ DE	1100100084802	sTourani@mum.edu
+000-98-6253	Toussaint	Jean Joseph	MS CS NO CZ	1100100094272	jtoussaint@mum.edu
+000-98-5677	Tran	Cao Ha	MS CS CZ DE	1100100088878	chtran@mum.edu
+000-98-5677	Tran	Cao Ha	MS CS NO CZ	1100100088878	chtran@mum.edu
+000-98-5038	Tran	Duc Huu	MS CS CZ DE	1100100082194	ductran@mum.edu
+000-98-5521	Tran	Huu  Phuc	MS CS CZ DE	1100100087755	htran@mum.edu
+000-98-5521	Tran	Huu  Phuc	MS CS NO CZ	1100100087755	htran@mum.edu
+000-98-5547	Tran	Khiem Quang	MS CS CZ DE	1100100087557	ktran@mum.edu
+000-98-5547	Tran	Khiem Quang	MS CS NO CZ	1100100087557	ktran@mum.edu
+000-98-5265	Tran	Loc Hoang	MS CS CZ DE	1100100084620	ltran@mum.edu
+000-98-6238	Tran	Manh Dung	MS CS NO CZ	1100100093027	mdtran@mum.edu
+000-98-4398	Tran	Nghia Trong	MS CS CZ DE	1100100076444	trantrongnghia2006@yahoo.com
+000-98-5044	Tran	Nha Thanh	MS CS CZ DE	1100100084521	nhatran@mum.edu
+000-98-6121	Tran	Nu Quynh Nhu	MS CS NO CZ	1100100091765	nutran@mum.edu
+000-98-5753	Tran	Quang Long	MS CS NO CZ	1100100090999	qltran@mum.edu
+000-98-5259	Tran	Sang Minh	MS CS CZ DE	1100100084364	stran@mum.edu
+000-98-3949	Tran	Thai Nam	MS CS CZ DE	1100100070041	thainam83vn@gmail.com
+000-98-5679	Tran	Thi Yen	MS CS CZ DE	1100100088845	tytran@mum.edu
+000-98-5679	Tran	Thi Yen	MS CS NO CZ	1100100088845	tytran@mum.edu
+000-98-4798	Tran	Thien Binh	MS CS CZ DE	1100100084497	btran@mum.edu
+000-98-6306	Tran	Trong Nhan	MS CS NO CZ	1100100094116	ttran@mum.edu
+000-98-5661	Tran	Tuan Sang	MS CS NO CZ	1100100092904	tstran@mum.edu
+000-98-6158	Tran	Van Hieu	MS CS NO CZ	1100100093001	vhtran@mum.edu
+000-98-5848	Tran	Van Quy	MS CS CZ DE	1100100090064	qvantran@mum.edu
+000-98-5848	Tran	Van Quy	MS CS NO CZ	1100100090064	qvantran@mum.edu
+000-98-5581	Tran	Vinh Nguyen	MS CS CZ DE	1100100087565	vtran@mum.edu
+000-98-5581	Tran	Vinh Nguyen	MS CS NO CZ	1100100087565	vtran@mum.edu
+000-98-4490	Trinh	Nhu Hoang	MS CS CZ DE	1100100075842	ntrinh@mum.edu
+000-98-5076	Tripathi	Sandip	MS CS CZ DE	1100100082475	sandip.necka@gmail.com
+000-98-6204	Truong	Dung	MS CS NO CZ	1100100093019	dtruong@mum.edu
+000-98-6043	Truong	Huynh Huong Duong	MS CS NO CZ	1100100090940	hhdtruong@mum.edu
+000-98-4797	Truong	Khoa Dang	MS CS CZ DE	1100100078929	kdang@mum.edu
+000-98-5189	Truong	Minh Kim	MS CS CZ DE	1100100084489	ktruong@mum.edu
+000-98-5156	Tseeleesuren	Enkhbileg	MS CS CZ DE	1100100082806	enkhbileg1982@yahoo.com
+000-98-6090	Tserendorj	Tsoodol	MS CS NO CZ	1100100091070	ttserendorj@mum.edu
+000-98-6215	Tseveenkhuu	Enkhtulga	MS CS NO CZ	1100100093159	etseveenkhuu@mum.edu
+000-98-6131	Tsogbadrakh	Munkhtsogt	MS CS NO CZ	1100100091286	mtsogbadrakh@mum.edu
+000-98-6093	Tsogoo	Delgersaikhan	MS CS NO CZ	1100100091195	dtsogoo@mum.edu
+000-98-5064	Tsogtbaatar	Ankhbayar	MS CS CZ DE	1100100082368	atsogtbaatar@mum.edu
+000-98-5064	Tsogtbaatar	Ankhbayar	MS CS NO CZ	1100100082368	atsogtbaatar@mum.edu
+000-10-9132	Tucho	Bira	BS CS NO NO	1100100095352	btucho@mum.edu
+000-98-4331	Tuladhar	Sumit	MS CS CZ DE	1100100073409	soomeet@hotmail.com
+000-98-5457	Tumbahangphe Limbu	Jai Raj	MS CS CZ DE	1100100085544	jtumbahangphe@mum.edu
+000-98-5457	Tumbahangphe Limbu	Jai Raj	MS CS NO CZ	1100100085544	jtumbahangphe@mum.edu
+000-98-6159	Tumenbayar	Unubold	MS CS NO CZ	1100100093407	utumenbayar@mum.edu
+000-98-3973	Tunkara	Ebrima	MS CS CZ DE	1100100069621	ebrimatunkara@gmail.com
+000-98-5978	Tusoy	Joseph Kelly Dajao	MS CS NO CZ	1100100093472	jkdtusoy@mum.edu
+000-98-4379	Tuvshinbayar	Erdenebayar	MS CS CZ DE	1100100079406	erdenebayar.tu@gmail.com
+000-10-8964	Udeh	Nnenna	BS CS NO NO	1100100093753	nudeh@mum.edu
+000-98-5913	Upadhayay	Yaman Raj	MS CS CZ DE	1100100090031	yupadhayay@mum.edu
+000-98-5913	Upadhayay	Yaman Raj	MS CS NO CZ	1100100090031	yupadhayay@mum.edu
+000-98-5080	Upadhyay	Arun Kumar	MS CS CZ DE	1100100084026	aupadhyay@mum.edu
+000-98-4493	Upadhyay	Prayag Raj	MS CS CZ DE	1100100076840	prayag.upd@gmail.com
+000-98-4479	Upadhyay	Rajan Prasad	MS CS CZ DE	1100100077442	rupadhyay@mum.edu
+000-98-6108	Usman	Muhammad	MS CS NO CZ	1100100091161	muhammadusman@mum.edu
+000-98-4779	Usman	Muhammad Arif	MS CS CZ DE	1100100079315	arifusman@mum.edu
+000-98-4284	Uy	Larry Corky Solatorio	MS CS CZ DE	1100100074399	luy@mum.edu
+000-98-4325	Valbuena Garzon	Jorge Enrique	MS CS CZ DE	1100100073896	jorgevalbuena56@gmail.com
+000-98-5218	Van	Cong Thanh	MS CS CZ DE	1100100085866	tcvan@mum.edu
+000-98-5218	Van	Cong Thanh	MS CS NO CZ	1100100085866	tcvan@mum.edu
+000-98-5049	Van	Thach Duc Ngoc	MS CS CZ DE	1100100082202	tvan@mum.edu
+000-98-4613	Vanama	Chandra Naresh	MS CS CZ DE	1100100078010	cvanama@mum.edu
+000-98-5077	Vasnani	Hiten Naresh	MS CS CZ DE	1100100082509	hvasnani@mum.edu
+000-98-4652	Venkatachalaiah Govindaraju	Hari Prasad Manavalli	MS CS CZ DE	1100100077715	hgovindaraju@mum.edu
+000-98-4007	Verzosa	Winnie Anne Corpuz	MS CS CZ DE	1100100088068	winnie.verzosa@gmail.com
+000-98-5433	Vo	Duc Hien	MS CS CZ DE	1100100085957	dvo@mum.edu
+000-98-5433	Vo	Duc Hien	MS CS NO CZ	1100100085957	dvo@mum.edu
+000-98-6033	Vo	Duy Thanh	MS CS NO CZ	1100100090957	dtvo@mum.edu
+000-98-6241	Vo	Nguyen Trung	MS CS NO CZ	1100100093035	ntvo@mum.edu
+000-98-5739	Vo	Tuan Duc	MS CS CZ DE	1100100089942	tdvo@mum.edu
+000-98-5739	Vo	Tuan Duc	MS CS NO CZ	1100100089942	tdvo@mum.edu
+000-98-4066	Vo	Van Truong	MS CS CZ DE	1100100071270	vanvt60365@gmail.com
+000-98-4255	Vu	Bao Quoc	MS CS CZ DE	1100100074118	bvu@mum.edu
+000-98-6170	Vu	Hoang Duy	MS CS NO CZ	1100100093068	hdvu@mum.edu
+000-98-5494	Vu	Hoang Son	MS CS CZ DE	1100100087748	hvu@mum.edu
+000-98-5494	Vu	Hoang Son	MS CS NO CZ	1100100087748	hvu@mum.edu
+000-98-4866	Vu	Thao Huy	MS CS CZ DE	1100100081352	thaovu@mum.edu
+000-98-4801	Vu	Toan Chi	MS CS CZ DE	1100100079216	toanvu@mum.edu
+000-10-9162	Walsh	Christopher	BS CS NO NO	1100100095394	cwalsh@mum.edu
+000-96-1790	Wami	Dawit Dejene	MS CS CZ DE	1100100072377	dawitdejene7@gmail.com
+000-98-3839	Wami	Tadele	MS CS CZ DE	1100100068490	tadele.wami@outlook.com
+000-98-3424	Wang	Huanjie	MS CS CZ DE	1100100062501	jetwangcn@gmail.com
+000-98-5451	Wang	Lei	MS CS CZ DE	1100100085916	lwang@mum.edu
+000-98-5451	Wang	Lei	MS CS NO CZ	1100100085916	lwang@mum.edu
+000-98-4149	Wang	Wei	MS CS CZ DE	1100100071288	wwang@mum.edu
+000-98-6267	Wankhede	Sumit Suresh	MS CS NO CZ	1100100093498	swankhede@mum.edu
+000-98-5871	Wei	Yaorui	MS CS CZ DE	1100100090767	ywei@mum.edu
+000-98-5871	Wei	Yaorui	MS CS NO CZ	1100100090767	ywei@mum.edu
+000-98-4012	Weldegebriel	Abadi Tsegay	MS CS CZ DE	1100100069704	aweldegebriel@mum.edu
+000-98-6015	Weldegebriel	Samson Mebrahtu	MS CS NO CZ	1100100092532	sweldegebriel@mum.edu
+000-98-4557	Weldehariat	Teklesenbet Ghebremeskel	MS CS CZ DE	1100100077285	danaytinternetcafe@yahoo.com
+000-98-3995	Weldemichael	Meless Yifter	MS CS CZ DE	1100100070009	yifterm@gmail.com
+000-98-6200	Weldesilassie	Filmon Abraham	MS CS NO CZ	1100100093670	fweldesilassie@mum.edu
+000-98-4717	Weshah	Mohammad Jamal	MS CS NO CZ	1100100091203	mweshah@mum.edu
+000-98-4684	Wodajie	Abereham Gessesse	MS CS CZ DE	1100100078713	awodajie@mum.edu
+000-98-5754	Wogisha	Benjamin	MS CS CZ DE	1100100088977	bwogisha@mum.edu
+000-98-5754	Wogisha	Benjamin	MS CS NO CZ	1100100088977	bwogisha@mum.edu
+000-98-4122	Woldeab	Zeremariam Tekie	MS CS CZ DE	1100100070777	zeriet2004@yahoo.com
+000-98-4560	Woldearegay	Firesew Mikreyohannes	MS CS CZ DE	1100100075925	firesew@gmail.com
+000-98-4229	Woldemariam	Fasil Sebsibe	MS CS CZ DE	1100100073714	fwoldemariam@mum.edu
+000-98-4737	Wolderufael	Etsegenet Leul	MS CS CZ DE	1100100078150	ewolderufael@mum.edu
+000-10-8597	Woldesemayat	Nolawe	MS CS NO NO	1100100085999	woldesemayat@mum.edu
+000-98-3614	Woldesenbet	Netsanet	MS CS CZ DE	1100100064424	nestanete@yahoo.com
+000-10-7721	Woldesinbet	Lealem	BS CS NO NO	1100100066478	lwoldesinbet@mum.edu
+000-98-5467	Woldeyohannes	Eyob Tarekegn	MS CS CZ DE	1100100085791	ewoldeyohannes@mum.edu
+000-98-5467	Woldeyohannes	Eyob Tarekegn	MS CS NO CZ	1100100085791	ewoldeyohannes@mum.edu
+000-98-4547	Woldeyohannis	Samrawit Fisseha	MS CS CZ DE	1100100076469	safiata@gmail.com
+000-10-8735	Woldtensae	Aman	MS CS NO NO	1100100089181	awoldtensae@mum.edu
+000-10-8546	Woldu	Robel	MS CS EXEC DE	1100100086187	rwoldu@mum.edu
+000-10-8546	Woldu	Robel	MS CS NO NO	1100100086187	rwoldu@mum.edu
+000-98-4576	Wondimu	Yared Semu	MS CS CZ DE	1100100085502	ysemu@mum.edu
+000-98-4576	Wondimu	Yared Semu	MS CS NO CZ	1100100085502	ysemu@mum.edu
+000-98-4615	Workeneh	Mikiyas Teshome	MS CS CZ DE	1100100083747	mteshome@mum.edu
+000-98-4198	Worku	Fikru Abebe	MS CS CZ DE	1100100070702	fabebe@mum.edu
+000-98-4683	Wu	Binxing	MS CS CZ DE	1100100077830	bwu@mum.edu
+000-98-5886	Xi	Zongfei	MS CS CZ DE	1100100093720	zongfeixi@mum.edu
+000-98-5886	Xi	Zongfei	MS CS NO CZ	1100100093720	zongfeixi@mum.edu
+000-98-5213	Xia	Huan	MS CS CZ DE	1100100084323	hxia@mum.edu
+000-98-5213	Xia	Huan	MS CS NO CZ	1100100084323	hxia@mum.edu
+000-98-5816	Xia	Huazhen	MS CS CZ DE	1100100089520	huxia@mum.edu
+000-98-5816	Xia	Huazhen	MS CS NO CZ	1100100089520	huxia@mum.edu
+000-98-5219	Xiang	Dewei	MS CS CZ DE	1100100084307	dxiang@mum.edu
+000-98-5219	Xiang	Dewei	MS CS NO CZ	1100100084307	dxiang@mum.edu
+000-98-5449	Xie	Wei	MS CS CZ DE	1100100085775	wxie@mum.edu
+000-98-5449	Xie	Wei	MS CS NO CZ	1100100085775	wxie@mum.edu
+000-98-4118	Xu	Chen	MS CS CZ DE	1100100071361	XuChen_9842@163.com
+000-98-6358	Xue	Haowen	MS CS NO CZ	1100100094447	hxue@mum.edu
+000-98-4928	Yadav	Pati Ram	MS CS CZ DE	1100100081600	pryadav@mum.edu
+000-98-4166	Yadav	Rajesh Kumar	MS CS CZ DE	1100100074126	ryadav@mum.edu
+000-98-5570	Yadav	Raju Kumar	MS CS CZ DE	1100100087664	rkyadav@mum.edu
+000-98-5570	Yadav	Raju Kumar	MS CS NO CZ	1100100087664	rkyadav@mum.edu
+000-10-8575	Yalew	Abebe	MS CS EXEC DE	1100100086005	ayalew@mum.edu
+000-10-8575	Yalew	Abebe	MS CS NO NO	1100100086005	ayalew@mum.edu
+000-98-5642	Yamaletdinova	Diana	MS CS CZ DE	1100100087862	dyamaletdinova@mum.edu
+000-98-5642	Yamaletdinova	Diana	MS CS NO CZ	1100100087862	dyamaletdinova@mum.edu
+000-98-5801	Yang	Cun	MS CS NO CZ	1100100093290	cyang@mum.edu
+000-98-6029	Yang	Quan	MS CS NO CZ	1100100091229	qyang@mum.edu
+000-98-5834	Yaraliyev	Elshad	MS CS CZ DE	1100100088811	eyaraliyev@mum.edu
+000-98-5834	Yaraliyev	Elshad	MS CS NO CZ	1100100088811	eyaraliyev@mum.edu
+000-98-3994	Yavagal	Priyadarshini	MS CS CZ DE	1100100071569	pyavagal@mum.edu
+000-98-6173	Yetera	Bereket Babiso	MS CS NO CZ	1100100094413	byetera@mum.edu
+000-98-3798	Yetra	Naga Brahma Reddy	MS CS CZ DE	1100100068656	brahma568@gmail.com
+000-98-5165	Yibrie	Kedir Mohammed	MS CS CZ DE	1100100083291	kmohammed@mum.edu
+000-98-3763	Yigzaw	Ezana	MS CS CZ DE	1100100068680	ezana.yigzaw@outlook.com
+000-98-2564	Yimer	Ahmed	MS CS CZ DE	1100100046355	ahmed.yimer@gmail.com
+000-98-4945	Yimer	Beimnet Sissu	MS CS CZ DE	1100100081527	byimer@mum.edu
+000-98-4226	Yitaih	Yishagerew Lulie	MS CS CZ DE	1100100084885	yyitaih@mum.edu
+000-98-4226	Yitaih	Yishagerew Lulie	MS CS NO CZ	1100100084885	yyitaih@mum.edu
+000-98-5440	Yitayew	Abel Ketsela	MS CS CZ DE	1100100085064	abelyitayew@mum.edu
+000-98-5440	Yitayew	Abel Ketsela	MS CS NO CZ	1100100085064	abelyitayew@mum.edu
+000-10-8157	Yohannes	Amanuel	MS CS EXEC DE	1100100078820	amezeha@gmail.com
+000-98-4611	Yohannes	Hilfti Asmelash	MS CS CZ DE	1100100076956	h.asmelash@gmail.com
+000-98-5803	Yondon	Erdembayar	MS CS CZ DE	1100100088563	eyondon@mum.edu
+000-98-5803	Yondon	Erdembayar	MS CS NO CZ	1100100088563	eyondon@mum.edu
+000-98-5112	Yorn	Sereypanha	MS CS CZ DE	1100100082384	syorn@mum.edu
+000-98-5619	Younis	Ihab Mohamed Osman	MS CS CZ DE	1100100087599	iyounis@mum.edu
+000-98-5619	Younis	Ihab Mohamed Osman	MS CS NO CZ	1100100087599	iyounis@mum.edu
+000-98-5576	Yu	Boyang	MS CS CZ DE	1100100087680	byu@mum.edu
+000-98-5576	Yu	Boyang	MS CS NO CZ	1100100087680	byu@mum.edu
+000-98-5631	Yu	Yang	MS CS CZ DE	1100100092854	yyu@mum.edu
+000-98-5631	Yu	Yang	MS CS NO CZ	1100100092854	yyu@mum.edu
+000-98-6026	Yugay	Yuriy	MS CS NO CZ	1100100091245	yyugay@mum.edu
+000-98-4056	Yun	Yusin	MS CS CZ DE	1100100071429	yunyusin@yahoo.com
+000-98-5908	Yura	Unubold	MS CS CZ DE	1100100090569	uyura@mum.edu
+000-98-5908	Yura	Unubold	MS CS NO CZ	1100100090569	uyura@mum.edu
+000-98-4849	Yusufu	Aizimaiti	MS CS CZ DE	1100100080693	ayusufu@mum.edu
+000-98-4709	Zan	Yan	MS CS CZ DE	1100100079141	lemon.zanyan@gmail.com
+000-98-6152	Zarrinmehr	Elham	MS CS NO CZ	1100100093464	ezarrinmehr@mum.edu
+000-98-6254	Zaw	Yee Mon	MS CS NO CZ	1100100093548	ymzaw@mum.edu
+000-98-4691	Zeatar	Ali Hussein Saadoun	MS CS CZ DE	1100100078234	azeatar@mum.edu
+000-10-8158	Zere	Mewael	MS CS EXEC DE	1100100076345	mzere@mum.edu
+000-98-6324	Zeru	Mequannint Munye	MS CS NO CZ	1100100094439	mzeru@mum.edu
+000-98-5438	Zeru	Samuel Fentahuen	MS CS CZ DE	1100100085965	szeru@mum.edu
+000-98-5438	Zeru	Samuel Fentahuen	MS CS NO CZ	1100100085965	szeru@mum.edu
+000-98-2187	Zewdie	Mahlet	MS CS CZ DE	1100100039038	mahletzewdie@gmail.com
+000-98-5125	Zhang	Daiyu	MS CS CZ DE	1100100082855	dazhang@mum.edu
+000-98-4028	Zhang	Qingsong	MS CS CZ DE	1100100071502	eric_zhang_china@yahoo.com
+000-98-4236	Zhang	Qixiu	MS CS CZ DE	1100100077046	qzhang@mum.edu
+000-98-4227	Zhang	Wei	MS CS CZ DE	1100100077368	wzhang@mum.edu
+000-98-4938	Zhang	Yongchao	MS CS CZ DE	1100100081006	zyongchao@mum.edu
+000-98-6136	Zhang	Yongzhao	MS CS NO CZ	1100100091310	yozhang@mum.edu
+000-98-5198	Zhang	Yue	MS CS CZ DE	1100100083044	Karen.Zhang99@gmail.com
+000-98-6276	Zhao	Mingming	MS CS NO CZ	1100100094454	mzhao@mum.edu
+000-98-5659	Zheng	NaiQing	MS CS CZ DE	1100100087847	naiqingzheng@mum.edu
+000-98-5659	Zheng	NaiQing	MS CS NO CZ	1100100087847	naiqingzheng@mum.edu
+000-98-5009	Zheng	Zhitian	MS CS CZ DE	1100100080875	zzheng@mum.edu
+000-98-5656	Zhong	Yifeng	MS CS CZ DE	1100100088795	yizhong@mum.edu
+000-98-5656	Zhong	Yifeng	MS CS NO CZ	1100100088795	yizhong@mum.edu
+000-98-4749	Zhou	Huaijin	MS CS CZ DE	1100100081139	hzhou@mum.edu
+000-98-5360	Zhou	Jin	MS CS CZ DE	1100100085049	jzhou@mum.edu
+000-98-5360	Zhou	Jin	MS CS NO CZ	1100100085049	jzhou@mum.edu
+000-98-4963	Zhou	Wei	MS CS CZ DE	1100100080842	wzhou@mum.edu
+000-98-6024	Zhou	Yu	MS CS NO CZ	1100100091377	yzhou@mum.edu
+000-98-3800	Zhu	Bailiang	MS CS CZ DE	1100100068664	bailiang1990@gmail.com
+000-98-4759	Zhu	Xiankun	MS CS CZ DE	1100100079059	xzhu@mum.edu
+000-98-5809	Zhuo	Sun	MS CS CZ DE	1100100088639	zsun@mum.edu
+000-98-5809	Zhuo	Sun	MS CS NO CZ	1100100088639	zsun@mum.edu
+000-98-5745	Zorig	Ganzorig	MS CS CZ DE	1100100088555	gzorig@mum.edu
+000-98-5745	Zorig	Ganzorig	MS CS NO CZ	1100100088555	gzorig@mum.edu
+000-98-4558	Zubac	Neven	MS CS CZ DE	1100100075784	zubacn@gmail.com
+000-98-4650	Zubair	Muhammad	MS CS CZ DE	1100100078275	mzubair@mum.edu
+000-98-3906	Zuluaga Eljach	David	MS CS CZ DE	1100100070025	dazu70@gmail.com
+000-98-4881	Zuo	Peng	MS CS CZ DE	1100100080859	pzuo@mum.edu
